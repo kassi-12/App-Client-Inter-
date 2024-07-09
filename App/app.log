@@ -1,0 +1,1776 @@
+2024-07-04 18:21:42,057 - INFO - 127.0.0.1 - - [2024-07-04 18:21:42] "GET /login.html HTTP/1.1" 200 4360 0.002901
+2024-07-04 18:21:42,541 - INFO - 127.0.0.1 - - [2024-07-04 18:21:42] "GET /assets/styles/login_style.css HTTP/1.1" 200 3596 0.001976
+2024-07-04 18:21:42,544 - INFO - 127.0.0.1 - - [2024-07-04 18:21:42] "GET /eel.js HTTP/1.1" 200 6792 0.000977
+2024-07-04 18:21:42,612 - INFO - 127.0.0.1 - - [2024-07-04 18:21:42] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.003905
+2024-07-04 18:21:42,675 - INFO - 127.0.0.1 - - [2024-07-04 18:21:42] "GET /web/images/logo.ico HTTP/1.1" 404 884 0.010769
+2024-07-04 18:21:47,107 - INFO - User kassimi@ease.de logged in successfully!
+2024-07-04 18:21:47,426 - INFO - 127.0.0.1 - - [2024-07-04 18:21:47] "GET /views/Dashboard/index.html?user_id=1 HTTP/1.1" 200 15205 0.001016
+2024-07-04 18:21:47,452 - INFO - 127.0.0.1 - - [2024-07-04 18:21:47] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001951
+2024-07-04 18:21:47,456 - INFO - 127.0.0.1 - - [2024-07-04 18:21:47] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.000977
+2024-07-04 18:21:47,459 - INFO - 127.0.0.1 - - [2024-07-04 18:21:47] "GET /images/plus.png HTTP/1.1" 200 45737 0.001952
+2024-07-04 18:21:47,462 - INFO - 127.0.0.1 - - [2024-07-04 18:21:47] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001955
+2024-07-04 18:21:47,465 - INFO - 127.0.0.1 - - [2024-07-04 18:21:47] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001001
+2024-07-04 18:21:47,466 - INFO - 127.0.0.1 - - [2024-07-04 18:21:47] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 18:21:47,471 - INFO - 127.0.0.1 - - [2024-07-04 18:21:47] "GET /assets/scripts/dashboard.js HTTP/1.1" 200 6422 0.000988
+2024-07-04 18:21:47,866 - INFO - 127.0.0.1 - - [2024-07-04 18:21:47] "GET /views/web/images/logo.ico HTTP/1.1" 404 890 0.000988
+2024-07-04 18:21:48,162 - INFO - Orders fetched successfully!
+2024-07-04 18:21:48,162 - INFO - Fetched orders: []
+2024-07-04 18:21:48,174 - ERROR - An error occurred: FUNCTION restaurant.strftime does not exist
+2024-07-04 18:21:48,181 - INFO - Users fetched successfully!
+2024-07-04 18:21:48,196 - INFO - Orders fetched successfully!
+2024-07-04 18:21:48,209 - INFO - Group fetched successfully!
+2024-07-04 18:21:48,224 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:21:48,227 - INFO - 127.0.0.1 - - [2024-07-04 18:21:48] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.000976
+2024-07-04 18:21:48,239 - INFO - Group fetched successfully!
+2024-07-04 18:21:48,251 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:21:48,261 - INFO - 127.0.0.1 - - [2024-07-04 18:21:48] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.003950
+2024-07-04 18:21:48,278 - INFO - Group fetched successfully!
+2024-07-04 18:21:48,289 - INFO - 127.0.0.1 - - [2024-07-04 18:21:48] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.002934
+2024-07-04 18:21:48,295 - INFO - 127.0.0.1 - - [2024-07-04 18:21:48] "GET /images/plus.png HTTP/1.1" 200 45737 0.001955
+2024-07-04 18:21:53,359 - INFO - 127.0.0.1 - - [2024-07-04 18:21:53] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001952
+2024-07-04 18:21:53,362 - INFO - 127.0.0.1 - - [2024-07-04 18:21:53] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001956
+2024-07-04 18:25:13,435 - INFO - 127.0.0.1 - - [2024-07-04 18:25:13] "GET /login.html HTTP/1.1" 200 4360 0.001950
+2024-07-04 18:25:13,921 - INFO - 127.0.0.1 - - [2024-07-04 18:25:13] "GET /assets/styles/login_style.css HTTP/1.1" 200 3596 0.001951
+2024-07-04 18:25:13,924 - INFO - 127.0.0.1 - - [2024-07-04 18:25:13] "GET /eel.js HTTP/1.1" 200 6792 0.000979
+2024-07-04 18:25:14,053 - INFO - 127.0.0.1 - - [2024-07-04 18:25:14] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.002932
+2024-07-04 18:25:14,088 - INFO - 127.0.0.1 - - [2024-07-04 18:25:14] "GET /web/images/logo.ico HTTP/1.1" 404 884 0.005840
+2024-07-04 18:25:19,761 - INFO - User kassimi@ease.de logged in successfully!
+2024-07-04 18:25:20,080 - INFO - 127.0.0.1 - - [2024-07-04 18:25:20] "GET /views/Dashboard/index.html?user_id=1 HTTP/1.1" 200 15205 0.000976
+2024-07-04 18:25:20,102 - INFO - 127.0.0.1 - - [2024-07-04 18:25:20] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001952
+2024-07-04 18:25:20,106 - INFO - 127.0.0.1 - - [2024-07-04 18:25:20] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001954
+2024-07-04 18:25:20,110 - INFO - 127.0.0.1 - - [2024-07-04 18:25:20] "GET /images/plus.png HTTP/1.1" 200 45737 0.001001
+2024-07-04 18:25:20,112 - INFO - 127.0.0.1 - - [2024-07-04 18:25:20] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.000977
+2024-07-04 18:25:20,115 - INFO - 127.0.0.1 - - [2024-07-04 18:25:20] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001955
+2024-07-04 18:25:20,117 - INFO - 127.0.0.1 - - [2024-07-04 18:25:20] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 18:25:20,119 - INFO - 127.0.0.1 - - [2024-07-04 18:25:20] "GET /assets/scripts/dashboard.js HTTP/1.1" 200 6422 0.000979
+2024-07-04 18:25:20,495 - INFO - Orders fetched successfully!
+2024-07-04 18:25:20,495 - INFO - Fetched orders: []
+2024-07-04 18:25:20,537 - INFO - Users fetched successfully!
+2024-07-04 18:25:20,553 - INFO - Orders fetched successfully!
+2024-07-04 18:25:20,559 - INFO - 127.0.0.1 - - [2024-07-04 18:25:20] "GET /views/web/images/logo.ico HTTP/1.1" 404 890 0.000961
+2024-07-04 18:25:20,580 - INFO - Group fetched successfully!
+2024-07-04 18:25:20,598 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:25:20,603 - INFO - 127.0.0.1 - - [2024-07-04 18:25:20] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.002948
+2024-07-04 18:25:20,619 - INFO - Group fetched successfully!
+2024-07-04 18:25:20,638 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:25:20,651 - INFO - 127.0.0.1 - - [2024-07-04 18:25:20] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.004884
+2024-07-04 18:25:20,668 - INFO - Group fetched successfully!
+2024-07-04 18:25:20,679 - INFO - 127.0.0.1 - - [2024-07-04 18:25:20] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.000973
+2024-07-04 18:25:20,682 - INFO - 127.0.0.1 - - [2024-07-04 18:25:20] "GET /images/plus.png HTTP/1.1" 200 45737 0.001955
+2024-07-04 18:25:24,765 - INFO - 127.0.0.1 - - [2024-07-04 18:25:24] "GET /views/stock/stock.html HTTP/1.1" 200 12404 0.000974
+2024-07-04 18:25:24,784 - INFO - 127.0.0.1 - - [2024-07-04 18:25:24] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.000977
+2024-07-04 18:25:24,791 - INFO - 127.0.0.1 - - [2024-07-04 18:25:24] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.004823
+2024-07-04 18:25:24,794 - INFO - 127.0.0.1 - - [2024-07-04 18:25:24] "GET /eel.js HTTP/1.1" 200 6792 0.000994
+2024-07-04 18:25:24,798 - INFO - 127.0.0.1 - - [2024-07-04 18:25:24] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001952
+2024-07-04 18:25:24,800 - INFO - 127.0.0.1 - - [2024-07-04 18:25:24] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001953
+2024-07-04 18:25:24,807 - INFO - 127.0.0.1 - - [2024-07-04 18:25:24] "GET /assets/scripts/stock.js HTTP/1.1" 200 5137 0.001959
+2024-07-04 18:25:25,138 - INFO - Orders fetched successfully!
+2024-07-04 18:25:25,138 - INFO - Fetched orders: []
+2024-07-04 18:25:25,149 - INFO - Stock items fetched successfully!
+2024-07-04 18:25:25,987 - INFO - 127.0.0.1 - - [2024-07-04 18:25:25] "GET /views/Dashboard/index.html HTTP/1.1" 200 15205 0.001970
+2024-07-04 18:25:26,015 - INFO - 127.0.0.1 - - [2024-07-04 18:25:26] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.000976
+2024-07-04 18:25:26,018 - INFO - 127.0.0.1 - - [2024-07-04 18:25:26] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.000966
+2024-07-04 18:25:26,023 - INFO - 127.0.0.1 - - [2024-07-04 18:25:26] "GET /images/plus.png HTTP/1.1" 200 45737 0.002943
+2024-07-04 18:25:26,026 - INFO - 127.0.0.1 - - [2024-07-04 18:25:26] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001959
+2024-07-04 18:25:26,030 - INFO - 127.0.0.1 - - [2024-07-04 18:25:26] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001954
+2024-07-04 18:25:26,032 - INFO - 127.0.0.1 - - [2024-07-04 18:25:26] "GET /eel.js HTTP/1.1" 200 6792 0.001014
+2024-07-04 18:25:26,039 - INFO - 127.0.0.1 - - [2024-07-04 18:25:26] "GET /assets/scripts/dashboard.js HTTP/1.1" 200 6422 0.000975
+2024-07-04 18:25:26,372 - INFO - Orders fetched successfully!
+2024-07-04 18:25:26,373 - INFO - Fetched orders: []
+2024-07-04 18:25:26,413 - INFO - Users fetched successfully!
+2024-07-04 18:25:26,429 - INFO - Orders fetched successfully!
+2024-07-04 18:25:26,443 - INFO - Group fetched successfully!
+2024-07-04 18:25:26,465 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:25:26,468 - INFO - 127.0.0.1 - - [2024-07-04 18:25:26] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001954
+2024-07-04 18:25:26,490 - INFO - Group fetched successfully!
+2024-07-04 18:25:26,501 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:25:26,510 - INFO - 127.0.0.1 - - [2024-07-04 18:25:26] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.005857
+2024-07-04 18:25:26,530 - INFO - Group fetched successfully!
+2024-07-04 18:25:26,551 - INFO - 127.0.0.1 - - [2024-07-04 18:25:26] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.002932
+2024-07-04 18:25:26,555 - INFO - 127.0.0.1 - - [2024-07-04 18:25:26] "GET /images/plus.png HTTP/1.1" 200 45737 0.002929
+2024-07-04 18:25:26,769 - INFO - 127.0.0.1 - - [2024-07-04 18:25:26] "GET /views/stock/stock.html HTTP/1.1" 200 12404 0.001954
+2024-07-04 18:25:26,798 - INFO - 127.0.0.1 - - [2024-07-04 18:25:26] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001936
+2024-07-04 18:25:26,803 - INFO - 127.0.0.1 - - [2024-07-04 18:25:26] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001933
+2024-07-04 18:25:26,804 - INFO - 127.0.0.1 - - [2024-07-04 18:25:26] "GET /eel.js HTTP/1.1" 200 6792 0.000979
+2024-07-04 18:25:26,809 - INFO - 127.0.0.1 - - [2024-07-04 18:25:26] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001951
+2024-07-04 18:25:26,812 - INFO - 127.0.0.1 - - [2024-07-04 18:25:26] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001954
+2024-07-04 18:25:26,816 - INFO - 127.0.0.1 - - [2024-07-04 18:25:26] "GET /assets/scripts/stock.js HTTP/1.1" 200 5137 0.000976
+2024-07-04 18:25:27,142 - INFO - Orders fetched successfully!
+2024-07-04 18:25:27,142 - INFO - Fetched orders: []
+2024-07-04 18:25:27,150 - INFO - Stock items fetched successfully!
+2024-07-04 18:25:28,264 - INFO - 127.0.0.1 - - [2024-07-04 18:25:28] "GET /views/users/users.html HTTP/1.1" 200 10861 0.000962
+2024-07-04 18:25:28,281 - INFO - 127.0.0.1 - - [2024-07-04 18:25:28] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001936
+2024-07-04 18:25:28,288 - INFO - 127.0.0.1 - - [2024-07-04 18:25:28] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.002926
+2024-07-04 18:25:28,291 - INFO - 127.0.0.1 - - [2024-07-04 18:25:28] "GET /eel.js HTTP/1.1" 200 6792 0.000977
+2024-07-04 18:25:28,294 - INFO - 127.0.0.1 - - [2024-07-04 18:25:28] "GET /assets/scripts/users.js HTTP/1.1" 200 2369 0.000976
+2024-07-04 18:25:28,298 - INFO - 127.0.0.1 - - [2024-07-04 18:25:28] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001951
+2024-07-04 18:25:28,302 - INFO - 127.0.0.1 - - [2024-07-04 18:25:28] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001953
+2024-07-04 18:25:28,322 - INFO - 127.0.0.1 - - [2024-07-04 18:25:28] "GET /favicon.ico HTTP/1.1" 404 876 0.000970
+2024-07-04 18:25:28,613 - INFO - Users fetched successfully!
+2024-07-04 18:25:28,626 - INFO - Orders fetched successfully!
+2024-07-04 18:25:28,627 - INFO - Fetched orders: []
+2024-07-04 18:25:29,451 - INFO - 127.0.0.1 - - [2024-07-04 18:25:29] "GET /views/stock/stock.html HTTP/1.1" 200 12404 0.000989
+2024-07-04 18:25:29,479 - INFO - 127.0.0.1 - - [2024-07-04 18:25:29] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.000977
+2024-07-04 18:25:29,481 - INFO - 127.0.0.1 - - [2024-07-04 18:25:29] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.000976
+2024-07-04 18:25:29,483 - INFO - 127.0.0.1 - - [2024-07-04 18:25:29] "GET /eel.js HTTP/1.1" 200 6792 0.000976
+2024-07-04 18:25:29,486 - INFO - 127.0.0.1 - - [2024-07-04 18:25:29] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.000976
+2024-07-04 18:25:29,489 - INFO - 127.0.0.1 - - [2024-07-04 18:25:29] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001956
+2024-07-04 18:25:29,492 - INFO - 127.0.0.1 - - [2024-07-04 18:25:29] "GET /assets/scripts/stock.js HTTP/1.1" 200 5137 0.000976
+2024-07-04 18:25:29,815 - INFO - Orders fetched successfully!
+2024-07-04 18:25:29,815 - INFO - Fetched orders: []
+2024-07-04 18:25:29,825 - INFO - Stock items fetched successfully!
+2024-07-04 18:25:33,019 - INFO - 127.0.0.1 - - [2024-07-04 18:25:33] "GET /views/users/users.html HTTP/1.1" 200 10861 0.000976
+2024-07-04 18:25:33,046 - INFO - 127.0.0.1 - - [2024-07-04 18:25:33] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001958
+2024-07-04 18:25:33,048 - INFO - 127.0.0.1 - - [2024-07-04 18:25:33] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.000993
+2024-07-04 18:25:33,049 - INFO - 127.0.0.1 - - [2024-07-04 18:25:33] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 18:25:33,052 - INFO - 127.0.0.1 - - [2024-07-04 18:25:33] "GET /assets/scripts/users.js HTTP/1.1" 200 2369 0.000969
+2024-07-04 18:25:33,057 - INFO - 127.0.0.1 - - [2024-07-04 18:25:33] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.002923
+2024-07-04 18:25:33,059 - INFO - 127.0.0.1 - - [2024-07-04 18:25:33] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.000974
+2024-07-04 18:25:33,379 - INFO - Users fetched successfully!
+2024-07-04 18:25:33,395 - INFO - Orders fetched successfully!
+2024-07-04 18:25:33,396 - INFO - Fetched orders: []
+2024-07-04 18:25:34,093 - INFO - 127.0.0.1 - - [2024-07-04 18:25:34] "GET /views/stock/stock.html HTTP/1.1" 200 12404 0.000958
+2024-07-04 18:25:34,113 - INFO - 127.0.0.1 - - [2024-07-04 18:25:34] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.000978
+2024-07-04 18:25:34,119 - INFO - 127.0.0.1 - - [2024-07-04 18:25:34] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001952
+2024-07-04 18:25:34,123 - INFO - 127.0.0.1 - - [2024-07-04 18:25:34] "GET /eel.js HTTP/1.1" 200 6792 0.000977
+2024-07-04 18:25:34,125 - INFO - 127.0.0.1 - - [2024-07-04 18:25:34] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.000975
+2024-07-04 18:25:34,128 - INFO - 127.0.0.1 - - [2024-07-04 18:25:34] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.000963
+2024-07-04 18:25:34,132 - INFO - 127.0.0.1 - - [2024-07-04 18:25:34] "GET /assets/scripts/stock.js HTTP/1.1" 200 5137 0.001954
+2024-07-04 18:25:34,446 - INFO - Orders fetched successfully!
+2024-07-04 18:25:34,447 - INFO - Fetched orders: []
+2024-07-04 18:25:34,457 - INFO - Stock items fetched successfully!
+2024-07-04 18:25:40,151 - INFO - Stock item with ID 5 updated successfully!
+2024-07-04 18:25:41,842 - INFO - Stock items fetched successfully!
+2024-07-04 18:25:44,014 - INFO - 127.0.0.1 - - [2024-07-04 18:25:44] "GET /views/stock/stock.html HTTP/1.1" 200 12404 0.000992
+2024-07-04 18:25:44,034 - INFO - 127.0.0.1 - - [2024-07-04 18:25:44] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.002929
+2024-07-04 18:25:44,044 - INFO - 127.0.0.1 - - [2024-07-04 18:25:44] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001954
+2024-07-04 18:25:44,046 - INFO - 127.0.0.1 - - [2024-07-04 18:25:44] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 18:25:44,051 - INFO - 127.0.0.1 - - [2024-07-04 18:25:44] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001952
+2024-07-04 18:25:44,056 - INFO - 127.0.0.1 - - [2024-07-04 18:25:44] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.000997
+2024-07-04 18:25:44,059 - INFO - 127.0.0.1 - - [2024-07-04 18:25:44] "GET /assets/scripts/stock.js HTTP/1.1" 200 5137 0.001953
+2024-07-04 18:25:44,398 - INFO - Orders fetched successfully!
+2024-07-04 18:25:44,398 - INFO - Fetched orders: []
+2024-07-04 18:25:44,410 - INFO - Stock items fetched successfully!
+2024-07-04 18:25:45,804 - INFO - 127.0.0.1 - - [2024-07-04 18:25:45] "GET /views/users/users.html HTTP/1.1" 200 10861 0.001021
+2024-07-04 18:25:45,825 - INFO - 127.0.0.1 - - [2024-07-04 18:25:45] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.000977
+2024-07-04 18:25:45,829 - INFO - 127.0.0.1 - - [2024-07-04 18:25:45] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.002931
+2024-07-04 18:25:45,831 - INFO - 127.0.0.1 - - [2024-07-04 18:25:45] "GET /eel.js HTTP/1.1" 200 6792 0.000976
+2024-07-04 18:25:45,837 - INFO - 127.0.0.1 - - [2024-07-04 18:25:45] "GET /assets/scripts/users.js HTTP/1.1" 200 2369 0.000980
+2024-07-04 18:25:45,840 - INFO - 127.0.0.1 - - [2024-07-04 18:25:45] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001947
+2024-07-04 18:25:45,842 - INFO - 127.0.0.1 - - [2024-07-04 18:25:45] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.000959
+2024-07-04 18:25:46,162 - INFO - Users fetched successfully!
+2024-07-04 18:25:46,175 - INFO - Orders fetched successfully!
+2024-07-04 18:25:46,175 - INFO - Fetched orders: []
+2024-07-04 18:25:46,573 - INFO - 127.0.0.1 - - [2024-07-04 18:25:46] "GET /views/stock/stock.html HTTP/1.1" 200 12404 0.000978
+2024-07-04 18:25:46,595 - INFO - 127.0.0.1 - - [2024-07-04 18:25:46] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001952
+2024-07-04 18:25:46,601 - INFO - 127.0.0.1 - - [2024-07-04 18:25:46] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.000985
+2024-07-04 18:25:46,603 - INFO - 127.0.0.1 - - [2024-07-04 18:25:46] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 18:25:46,606 - INFO - 127.0.0.1 - - [2024-07-04 18:25:46] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001959
+2024-07-04 18:25:46,609 - INFO - 127.0.0.1 - - [2024-07-04 18:25:46] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001956
+2024-07-04 18:25:46,611 - INFO - 127.0.0.1 - - [2024-07-04 18:25:46] "GET /assets/scripts/stock.js HTTP/1.1" 200 5137 0.000978
+2024-07-04 18:25:46,926 - INFO - Orders fetched successfully!
+2024-07-04 18:25:46,927 - INFO - Fetched orders: []
+2024-07-04 18:25:46,938 - INFO - Stock items fetched successfully!
+2024-07-04 18:25:51,947 - INFO - Stock item with ID 5 updated successfully!
+2024-07-04 18:25:53,973 - INFO - Stock items fetched successfully!
+2024-07-04 18:26:25,557 - INFO - 127.0.0.1 - - [2024-07-04 18:26:25] "GET /views/Dashboard/index.html HTTP/1.1" 200 15205 0.001020
+2024-07-04 18:26:25,580 - INFO - 127.0.0.1 - - [2024-07-04 18:26:25] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.000985
+2024-07-04 18:26:25,583 - INFO - 127.0.0.1 - - [2024-07-04 18:26:25] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.000973
+2024-07-04 18:26:25,586 - INFO - 127.0.0.1 - - [2024-07-04 18:26:25] "GET /images/plus.png HTTP/1.1" 200 45737 0.000978
+2024-07-04 18:26:25,590 - INFO - 127.0.0.1 - - [2024-07-04 18:26:25] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001022
+2024-07-04 18:26:25,596 - INFO - 127.0.0.1 - - [2024-07-04 18:26:25] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.002931
+2024-07-04 18:26:25,601 - INFO - 127.0.0.1 - - [2024-07-04 18:26:25] "GET /eel.js HTTP/1.1" 200 6792 0.000938
+2024-07-04 18:26:25,604 - INFO - 127.0.0.1 - - [2024-07-04 18:26:25] "GET /assets/scripts/dashboard.js HTTP/1.1" 200 6422 0.001018
+2024-07-04 18:26:26,140 - INFO - Orders fetched successfully!
+2024-07-04 18:26:26,140 - INFO - Fetched orders: []
+2024-07-04 18:26:26,165 - INFO - Users fetched successfully!
+2024-07-04 18:26:26,172 - INFO - Orders fetched successfully!
+2024-07-04 18:26:26,184 - INFO - Group fetched successfully!
+2024-07-04 18:26:26,200 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:26:26,204 - INFO - 127.0.0.1 - - [2024-07-04 18:26:26] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001950
+2024-07-04 18:26:26,225 - INFO - Group fetched successfully!
+2024-07-04 18:26:26,239 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:26:26,246 - INFO - 127.0.0.1 - - [2024-07-04 18:26:26] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.003916
+2024-07-04 18:26:26,263 - INFO - Group fetched successfully!
+2024-07-04 18:26:26,273 - INFO - 127.0.0.1 - - [2024-07-04 18:26:26] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.002936
+2024-07-04 18:26:26,282 - INFO - 127.0.0.1 - - [2024-07-04 18:26:26] "GET /images/plus.png HTTP/1.1" 200 45737 0.002964
+2024-07-04 18:27:12,312 - INFO - 127.0.0.1 - - [2024-07-04 18:27:12] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001928
+2024-07-04 18:27:12,322 - INFO - 127.0.0.1 - - [2024-07-04 18:27:12] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.007815
+2024-07-04 18:28:24,240 - INFO - 127.0.0.1 - - [2024-07-04 18:28:24] "GET /views/stock/stock.html HTTP/1.1" 200 12404 0.001945
+2024-07-04 18:28:24,274 - INFO - 127.0.0.1 - - [2024-07-04 18:28:24] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.000974
+2024-07-04 18:28:24,277 - INFO - 127.0.0.1 - - [2024-07-04 18:28:24] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.000976
+2024-07-04 18:28:24,280 - INFO - 127.0.0.1 - - [2024-07-04 18:28:24] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 18:28:24,284 - INFO - 127.0.0.1 - - [2024-07-04 18:28:24] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.002928
+2024-07-04 18:28:24,288 - INFO - 127.0.0.1 - - [2024-07-04 18:28:24] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001951
+2024-07-04 18:28:24,292 - INFO - 127.0.0.1 - - [2024-07-04 18:28:24] "GET /assets/scripts/stock.js HTTP/1.1" 200 5137 0.001954
+2024-07-04 18:28:24,611 - INFO - Orders fetched successfully!
+2024-07-04 18:28:24,611 - INFO - Fetched orders: []
+2024-07-04 18:28:24,622 - INFO - Stock items fetched successfully!
+2024-07-04 18:28:26,007 - INFO - 127.0.0.1 - - [2024-07-04 18:28:26] "GET /views/users/users.html HTTP/1.1" 200 10861 0.000987
+2024-07-04 18:28:26,038 - INFO - 127.0.0.1 - - [2024-07-04 18:28:26] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001951
+2024-07-04 18:28:26,046 - INFO - 127.0.0.1 - - [2024-07-04 18:28:26] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.004864
+2024-07-04 18:28:26,049 - INFO - 127.0.0.1 - - [2024-07-04 18:28:26] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 18:28:26,055 - INFO - 127.0.0.1 - - [2024-07-04 18:28:26] "GET /assets/scripts/users.js HTTP/1.1" 200 2369 0.001958
+2024-07-04 18:28:26,057 - INFO - 127.0.0.1 - - [2024-07-04 18:28:26] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001954
+2024-07-04 18:28:26,060 - INFO - 127.0.0.1 - - [2024-07-04 18:28:26] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001953
+2024-07-04 18:28:26,384 - INFO - Users fetched successfully!
+2024-07-04 18:28:26,395 - INFO - Orders fetched successfully!
+2024-07-04 18:28:26,395 - INFO - Fetched orders: []
+2024-07-04 18:28:27,948 - INFO - 127.0.0.1 - - [2024-07-04 18:28:27] "GET /views/groups/group.html HTTP/1.1" 200 11642 0.004881
+2024-07-04 18:28:28,002 - INFO - 127.0.0.1 - - [2024-07-04 18:28:28] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.004892
+2024-07-04 18:28:28,009 - INFO - 127.0.0.1 - - [2024-07-04 18:28:28] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001950
+2024-07-04 18:28:28,011 - INFO - 127.0.0.1 - - [2024-07-04 18:28:28] "GET /eel.js HTTP/1.1" 200 6792 0.000965
+2024-07-04 18:28:28,014 - INFO - 127.0.0.1 - - [2024-07-04 18:28:28] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001949
+2024-07-04 18:28:28,018 - INFO - 127.0.0.1 - - [2024-07-04 18:28:28] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.002959
+2024-07-04 18:28:28,024 - INFO - 127.0.0.1 - - [2024-07-04 18:28:28] "GET /images/logo.png HTTP/1.1" 200 41568 0.001954
+2024-07-04 18:28:28,026 - INFO - 127.0.0.1 - - [2024-07-04 18:28:28] "GET /assets/scripts/group.js HTTP/1.1" 200 3856 0.000964
+2024-07-04 18:28:28,394 - INFO - Orders fetched successfully!
+2024-07-04 18:28:28,394 - INFO - Fetched orders: []
+2024-07-04 18:28:28,404 - INFO - Groups fetched successfully!
+2024-07-04 18:28:29,859 - INFO - 127.0.0.1 - - [2024-07-04 18:28:29] "GET /views/Tables/tables.html HTTP/1.1" 200 12476 0.000973
+2024-07-04 18:28:29,881 - INFO - 127.0.0.1 - - [2024-07-04 18:28:29] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.004880
+2024-07-04 18:28:29,888 - INFO - 127.0.0.1 - - [2024-07-04 18:28:29] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001955
+2024-07-04 18:28:29,889 - INFO - 127.0.0.1 - - [2024-07-04 18:28:29] "GET /eel.js HTTP/1.1" 200 6792 0.000977
+2024-07-04 18:28:29,892 - INFO - 127.0.0.1 - - [2024-07-04 18:28:29] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001959
+2024-07-04 18:28:29,895 - INFO - 127.0.0.1 - - [2024-07-04 18:28:29] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001948
+2024-07-04 18:28:29,903 - INFO - 127.0.0.1 - - [2024-07-04 18:28:29] "GET /assets/scripts/table.js HTTP/1.1" 200 3993 0.001958
+2024-07-04 18:28:30,258 - INFO - Orders fetched successfully!
+2024-07-04 18:28:30,259 - INFO - Fetched orders: []
+2024-07-04 18:28:30,270 - INFO - Tables fetched successfully!
+2024-07-04 18:30:16,767 - INFO - 127.0.0.1 - - [2024-07-04 18:30:16] "GET /login.html HTTP/1.1" 200 4360 0.001951
+2024-07-04 18:30:17,198 - INFO - 127.0.0.1 - - [2024-07-04 18:30:17] "GET /assets/styles/login_style.css HTTP/1.1" 200 3596 0.004880
+2024-07-04 18:30:17,204 - INFO - 127.0.0.1 - - [2024-07-04 18:30:17] "GET /eel.js HTTP/1.1" 200 6792 0.003906
+2024-07-04 18:30:17,267 - INFO - 127.0.0.1 - - [2024-07-04 18:30:17] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.000957
+2024-07-04 18:30:17,336 - INFO - 127.0.0.1 - - [2024-07-04 18:30:17] "GET /web/images/logo.ico HTTP/1.1" 404 884 0.010740
+2024-07-04 18:30:22,231 - INFO - User kassimi@ease.de logged in successfully!
+2024-07-04 18:30:22,548 - INFO - 127.0.0.1 - - [2024-07-04 18:30:22] "GET /views/Dashboard/index.html?user_id=1 HTTP/1.1" 200 15205 0.001031
+2024-07-04 18:30:22,572 - INFO - 127.0.0.1 - - [2024-07-04 18:30:22] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.000973
+2024-07-04 18:30:22,576 - INFO - 127.0.0.1 - - [2024-07-04 18:30:22] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001953
+2024-07-04 18:30:22,579 - INFO - 127.0.0.1 - - [2024-07-04 18:30:22] "GET /images/plus.png HTTP/1.1" 200 45737 0.001949
+2024-07-04 18:30:22,581 - INFO - 127.0.0.1 - - [2024-07-04 18:30:22] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001017
+2024-07-04 18:30:22,583 - INFO - 127.0.0.1 - - [2024-07-04 18:30:22] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.000982
+2024-07-04 18:30:22,585 - INFO - 127.0.0.1 - - [2024-07-04 18:30:22] "GET /eel.js HTTP/1.1" 200 6792 0.000977
+2024-07-04 18:30:22,588 - INFO - 127.0.0.1 - - [2024-07-04 18:30:22] "GET /assets/scripts/dashboard.js HTTP/1.1" 200 6422 0.001933
+2024-07-04 18:30:23,052 - INFO - 127.0.0.1 - - [2024-07-04 18:30:23] "GET /views/web/images/logo.ico HTTP/1.1" 404 890 0.001951
+2024-07-04 18:30:23,347 - INFO - Orders fetched successfully!
+2024-07-04 18:30:23,347 - INFO - Fetched orders: []
+2024-07-04 18:30:23,350 - ERROR - An error occurred: FUNCTION restaurant.strftime does not exist
+2024-07-04 18:30:23,352 - INFO - Users fetched successfully!
+2024-07-04 18:30:23,354 - INFO - Orders fetched successfully!
+2024-07-04 18:30:23,361 - INFO - Group fetched successfully!
+2024-07-04 18:30:23,364 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:30:23,367 - INFO - Group fetched successfully!
+2024-07-04 18:30:23,370 - INFO - 127.0.0.1 - - [2024-07-04 18:30:23] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001955
+2024-07-04 18:30:23,374 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:30:23,379 - INFO - Group fetched successfully!
+2024-07-04 18:30:23,387 - INFO - 127.0.0.1 - - [2024-07-04 18:30:23] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001954
+2024-07-04 18:30:23,391 - INFO - 127.0.0.1 - - [2024-07-04 18:30:23] "GET /images/plus.png HTTP/1.1" 200 45737 0.002931
+2024-07-04 18:30:26,901 - INFO - 127.0.0.1 - - [2024-07-04 18:30:26] "GET /views/stock/stock.html HTTP/1.1" 200 12404 0.000978
+2024-07-04 18:30:26,935 - INFO - 127.0.0.1 - - [2024-07-04 18:30:26] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001975
+2024-07-04 18:30:26,939 - INFO - 127.0.0.1 - - [2024-07-04 18:30:26] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001942
+2024-07-04 18:30:26,943 - INFO - 127.0.0.1 - - [2024-07-04 18:30:26] "GET /eel.js HTTP/1.1" 200 6792 0.000974
+2024-07-04 18:30:26,946 - INFO - 127.0.0.1 - - [2024-07-04 18:30:26] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001955
+2024-07-04 18:30:26,948 - INFO - 127.0.0.1 - - [2024-07-04 18:30:26] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.000975
+2024-07-04 18:30:26,953 - INFO - 127.0.0.1 - - [2024-07-04 18:30:26] "GET /assets/scripts/stock.js HTTP/1.1" 200 5137 0.000956
+2024-07-04 18:30:27,282 - INFO - Orders fetched successfully!
+2024-07-04 18:30:27,283 - INFO - Fetched orders: []
+2024-07-04 18:30:27,284 - INFO - Stock items fetched successfully!
+2024-07-04 18:30:28,422 - INFO - 127.0.0.1 - - [2024-07-04 18:30:28] "GET /views/Dashboard/index.html HTTP/1.1" 200 15205 0.001954
+2024-07-04 18:30:28,456 - INFO - 127.0.0.1 - - [2024-07-04 18:30:28] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001954
+2024-07-04 18:30:28,458 - INFO - 127.0.0.1 - - [2024-07-04 18:30:28] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.000970
+2024-07-04 18:30:28,461 - INFO - 127.0.0.1 - - [2024-07-04 18:30:28] "GET /images/plus.png HTTP/1.1" 200 45737 0.001934
+2024-07-04 18:30:28,463 - INFO - 127.0.0.1 - - [2024-07-04 18:30:28] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.000958
+2024-07-04 18:30:28,465 - INFO - 127.0.0.1 - - [2024-07-04 18:30:28] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.000988
+2024-07-04 18:30:28,467 - INFO - 127.0.0.1 - - [2024-07-04 18:30:28] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 18:30:28,473 - INFO - 127.0.0.1 - - [2024-07-04 18:30:28] "GET /assets/scripts/dashboard.js HTTP/1.1" 200 6422 0.001956
+2024-07-04 18:30:28,799 - INFO - Orders fetched successfully!
+2024-07-04 18:30:28,799 - INFO - Fetched orders: []
+2024-07-04 18:30:28,801 - ERROR - An error occurred: FUNCTION restaurant.strftime does not exist
+2024-07-04 18:30:28,805 - INFO - Users fetched successfully!
+2024-07-04 18:30:28,812 - INFO - Orders fetched successfully!
+2024-07-04 18:30:28,815 - INFO - Group fetched successfully!
+2024-07-04 18:30:28,820 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:30:28,826 - INFO - Group fetched successfully!
+2024-07-04 18:30:28,829 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:30:28,833 - INFO - Group fetched successfully!
+2024-07-04 18:30:28,840 - INFO - 127.0.0.1 - - [2024-07-04 18:30:28] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001957
+2024-07-04 18:30:28,845 - INFO - 127.0.0.1 - - [2024-07-04 18:30:28] "GET /images/plus.png HTTP/1.1" 200 45737 0.002927
+2024-07-04 18:30:30,151 - INFO - 127.0.0.1 - - [2024-07-04 18:30:30] "GET /views/stock/stock.html HTTP/1.1" 200 12404 0.001987
+2024-07-04 18:30:30,181 - INFO - 127.0.0.1 - - [2024-07-04 18:30:30] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001942
+2024-07-04 18:30:30,185 - INFO - 127.0.0.1 - - [2024-07-04 18:30:30] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001970
+2024-07-04 18:30:30,189 - INFO - 127.0.0.1 - - [2024-07-04 18:30:30] "GET /eel.js HTTP/1.1" 200 6792 0.000983
+2024-07-04 18:30:30,191 - INFO - 127.0.0.1 - - [2024-07-04 18:30:30] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001949
+2024-07-04 18:30:30,193 - INFO - 127.0.0.1 - - [2024-07-04 18:30:30] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.000974
+2024-07-04 18:30:30,222 - INFO - 127.0.0.1 - - [2024-07-04 18:30:30] "GET /assets/scripts/stock.js HTTP/1.1" 200 5137 0.001961
+2024-07-04 18:30:30,564 - INFO - Orders fetched successfully!
+2024-07-04 18:30:30,565 - INFO - Fetched orders: []
+2024-07-04 18:30:30,566 - INFO - Stock items fetched successfully!
+2024-07-04 18:30:33,766 - INFO - 127.0.0.1 - - [2024-07-04 18:30:33] "GET /views/users/users.html HTTP/1.1" 200 10861 0.000976
+2024-07-04 18:30:33,827 - INFO - 127.0.0.1 - - [2024-07-04 18:30:33] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.000977
+2024-07-04 18:30:33,831 - INFO - 127.0.0.1 - - [2024-07-04 18:30:33] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001950
+2024-07-04 18:30:33,834 - INFO - 127.0.0.1 - - [2024-07-04 18:30:33] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 18:30:33,841 - INFO - 127.0.0.1 - - [2024-07-04 18:30:33] "GET /assets/scripts/users.js HTTP/1.1" 200 2369 0.000964
+2024-07-04 18:30:33,846 - INFO - 127.0.0.1 - - [2024-07-04 18:30:33] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001955
+2024-07-04 18:30:33,856 - INFO - 127.0.0.1 - - [2024-07-04 18:30:33] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001950
+2024-07-04 18:30:33,911 - INFO - 127.0.0.1 - - [2024-07-04 18:30:33] "GET /favicon.ico HTTP/1.1" 404 876 0.000977
+2024-07-04 18:30:34,170 - INFO - Users fetched successfully!
+2024-07-04 18:30:34,172 - INFO - Orders fetched successfully!
+2024-07-04 18:30:34,173 - INFO - Fetched orders: []
+2024-07-04 18:30:35,183 - INFO - 127.0.0.1 - - [2024-07-04 18:30:35] "GET /views/Dashboard/index.html HTTP/1.1" 200 15205 0.000980
+2024-07-04 18:30:35,209 - INFO - 127.0.0.1 - - [2024-07-04 18:30:35] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.004891
+2024-07-04 18:30:35,217 - INFO - 127.0.0.1 - - [2024-07-04 18:30:35] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001952
+2024-07-04 18:30:35,219 - INFO - 127.0.0.1 - - [2024-07-04 18:30:35] "GET /images/plus.png HTTP/1.1" 200 45737 0.001954
+2024-07-04 18:30:35,222 - INFO - 127.0.0.1 - - [2024-07-04 18:30:35] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001955
+2024-07-04 18:30:35,224 - INFO - 127.0.0.1 - - [2024-07-04 18:30:35] "GET /eel.js HTTP/1.1" 200 6792 0.001015
+2024-07-04 18:30:35,226 - INFO - 127.0.0.1 - - [2024-07-04 18:30:35] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.000967
+2024-07-04 18:30:35,229 - INFO - 127.0.0.1 - - [2024-07-04 18:30:35] "GET /assets/scripts/dashboard.js HTTP/1.1" 200 6422 0.000978
+2024-07-04 18:30:35,552 - INFO - Orders fetched successfully!
+2024-07-04 18:30:35,552 - INFO - Fetched orders: []
+2024-07-04 18:30:35,557 - ERROR - An error occurred: FUNCTION restaurant.strftime does not exist
+2024-07-04 18:30:35,559 - INFO - Users fetched successfully!
+2024-07-04 18:30:35,563 - INFO - Orders fetched successfully!
+2024-07-04 18:30:35,567 - INFO - Group fetched successfully!
+2024-07-04 18:30:35,573 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:30:35,576 - INFO - Group fetched successfully!
+2024-07-04 18:30:35,581 - INFO - 127.0.0.1 - - [2024-07-04 18:30:35] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.002938
+2024-07-04 18:30:35,584 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:30:35,589 - INFO - Group fetched successfully!
+2024-07-04 18:30:35,597 - INFO - 127.0.0.1 - - [2024-07-04 18:30:35] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001924
+2024-07-04 18:30:35,601 - INFO - 127.0.0.1 - - [2024-07-04 18:30:35] "GET /images/plus.png HTTP/1.1" 200 45737 0.001953
+2024-07-04 18:30:39,154 - INFO - 127.0.0.1 - - [2024-07-04 18:30:39] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001930
+2024-07-04 18:30:39,159 - INFO - 127.0.0.1 - - [2024-07-04 18:30:39] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001952
+2024-07-04 18:30:59,602 - INFO - 127.0.0.1 - - [2024-07-04 18:30:59] "GET /views/Orders/orders.html HTTP/1.1" 200 13098 0.004907
+2024-07-04 18:30:59,637 - INFO - 127.0.0.1 - - [2024-07-04 18:30:59] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.007807
+2024-07-04 18:30:59,647 - INFO - 127.0.0.1 - - [2024-07-04 18:30:59] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001956
+2024-07-04 18:30:59,652 - INFO - 127.0.0.1 - - [2024-07-04 18:30:59] "GET /eel.js HTTP/1.1" 200 6792 0.002946
+2024-07-04 18:30:59,656 - INFO - 127.0.0.1 - - [2024-07-04 18:30:59] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001952
+2024-07-04 18:30:59,660 - INFO - 127.0.0.1 - - [2024-07-04 18:30:59] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.000980
+2024-07-04 18:30:59,663 - INFO - 127.0.0.1 - - [2024-07-04 18:30:59] "GET /assets/scripts/order.js HTTP/1.1" 200 4871 0.001012
+2024-07-04 18:30:59,975 - INFO - Orders fetched successfully!
+2024-07-04 18:30:59,975 - INFO - Fetched orders: []
+2024-07-04 18:30:59,977 - INFO - Orders fetched successfully!
+2024-07-04 18:31:03,199 - INFO - 127.0.0.1 - - [2024-07-04 18:31:03] "GET /views/products/addproduct.html HTTP/1.1" 200 12032 0.001954
+2024-07-04 18:31:03,221 - INFO - 127.0.0.1 - - [2024-07-04 18:31:03] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.002914
+2024-07-04 18:31:03,224 - INFO - 127.0.0.1 - - [2024-07-04 18:31:03] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.000965
+2024-07-04 18:31:03,227 - INFO - 127.0.0.1 - - [2024-07-04 18:31:03] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 18:31:03,230 - INFO - 127.0.0.1 - - [2024-07-04 18:31:03] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001954
+2024-07-04 18:31:03,235 - INFO - 127.0.0.1 - - [2024-07-04 18:31:03] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001948
+2024-07-04 18:31:03,238 - INFO - 127.0.0.1 - - [2024-07-04 18:31:03] "GET /images/logo.png HTTP/1.1" 200 41568 0.000974
+2024-07-04 18:31:03,242 - INFO - 127.0.0.1 - - [2024-07-04 18:31:03] "GET /assets/scripts/add_product.js HTTP/1.1" 200 1315 0.001955
+2024-07-04 18:31:03,590 - INFO - Orders fetched successfully!
+2024-07-04 18:31:03,590 - INFO - Fetched orders: []
+2024-07-04 18:31:03,592 - INFO - Categories fetched successfully!
+2024-07-04 18:31:04,027 - INFO - 127.0.0.1 - - [2024-07-04 18:31:04] "GET /views/products/products.html HTTP/1.1" 200 10860 0.001952
+2024-07-04 18:31:04,056 - INFO - 127.0.0.1 - - [2024-07-04 18:31:04] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.003936
+2024-07-04 18:31:04,059 - INFO - 127.0.0.1 - - [2024-07-04 18:31:04] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001964
+2024-07-04 18:31:04,060 - INFO - 127.0.0.1 - - [2024-07-04 18:31:04] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 18:31:04,063 - INFO - 127.0.0.1 - - [2024-07-04 18:31:04] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001953
+2024-07-04 18:31:04,070 - INFO - 127.0.0.1 - - [2024-07-04 18:31:04] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001933
+2024-07-04 18:31:04,075 - INFO - 127.0.0.1 - - [2024-07-04 18:31:04] "GET /assets/scripts/product.js HTTP/1.1" 200 2732 0.000981
+2024-07-04 18:31:04,394 - INFO - Orders fetched successfully!
+2024-07-04 18:31:04,394 - INFO - Fetched orders: []
+2024-07-04 18:31:04,396 - INFO - Products fetched successfully!
+2024-07-04 18:31:05,989 - INFO - 127.0.0.1 - - [2024-07-04 18:31:05] "GET /views/categorys/category.html HTTP/1.1" 200 12118 0.000979
+2024-07-04 18:31:06,023 - INFO - 127.0.0.1 - - [2024-07-04 18:31:06] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.000977
+2024-07-04 18:31:06,026 - INFO - 127.0.0.1 - - [2024-07-04 18:31:06] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.000976
+2024-07-04 18:31:06,028 - INFO - 127.0.0.1 - - [2024-07-04 18:31:06] "GET /eel.js HTTP/1.1" 200 6792 0.000976
+2024-07-04 18:31:06,031 - INFO - 127.0.0.1 - - [2024-07-04 18:31:06] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001951
+2024-07-04 18:31:06,035 - INFO - 127.0.0.1 - - [2024-07-04 18:31:06] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001921
+2024-07-04 18:31:06,040 - INFO - 127.0.0.1 - - [2024-07-04 18:31:06] "GET /assets/scripts/category.js HTTP/1.1" 200 3511 0.001954
+2024-07-04 18:31:06,359 - INFO - Orders fetched successfully!
+2024-07-04 18:31:06,359 - INFO - Fetched orders: []
+2024-07-04 18:31:06,360 - INFO - Categories fetched successfully!
+2024-07-04 18:31:07,558 - INFO - 127.0.0.1 - - [2024-07-04 18:31:07] "GET /views/Tables/tables.html HTTP/1.1" 200 12476 0.001951
+2024-07-04 18:31:07,593 - INFO - 127.0.0.1 - - [2024-07-04 18:31:07] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001953
+2024-07-04 18:31:07,595 - INFO - 127.0.0.1 - - [2024-07-04 18:31:07] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.000978
+2024-07-04 18:31:07,597 - INFO - 127.0.0.1 - - [2024-07-04 18:31:07] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 18:31:07,600 - INFO - 127.0.0.1 - - [2024-07-04 18:31:07] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001952
+2024-07-04 18:31:07,604 - INFO - 127.0.0.1 - - [2024-07-04 18:31:07] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.002929
+2024-07-04 18:31:07,609 - INFO - 127.0.0.1 - - [2024-07-04 18:31:07] "GET /assets/scripts/table.js HTTP/1.1" 200 3993 0.001953
+2024-07-04 18:31:07,928 - INFO - Orders fetched successfully!
+2024-07-04 18:31:07,928 - INFO - Fetched orders: []
+2024-07-04 18:31:07,931 - INFO - Tables fetched successfully!
+2024-07-04 18:31:09,508 - INFO - 127.0.0.1 - - [2024-07-04 18:31:09] "GET /views/groups/group.html HTTP/1.1" 200 11642 0.000976
+2024-07-04 18:31:09,537 - INFO - 127.0.0.1 - - [2024-07-04 18:31:09] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001954
+2024-07-04 18:31:09,541 - INFO - 127.0.0.1 - - [2024-07-04 18:31:09] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001953
+2024-07-04 18:31:09,542 - INFO - 127.0.0.1 - - [2024-07-04 18:31:09] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 18:31:09,546 - INFO - 127.0.0.1 - - [2024-07-04 18:31:09] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001950
+2024-07-04 18:31:09,549 - INFO - 127.0.0.1 - - [2024-07-04 18:31:09] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001987
+2024-07-04 18:31:09,555 - INFO - 127.0.0.1 - - [2024-07-04 18:31:09] "GET /images/logo.png HTTP/1.1" 200 41568 0.000994
+2024-07-04 18:31:09,558 - INFO - 127.0.0.1 - - [2024-07-04 18:31:09] "GET /assets/scripts/group.js HTTP/1.1" 200 3856 0.000986
+2024-07-04 18:31:09,877 - INFO - Orders fetched successfully!
+2024-07-04 18:31:09,878 - INFO - Fetched orders: []
+2024-07-04 18:31:09,880 - INFO - Groups fetched successfully!
+2024-07-04 18:31:11,142 - INFO - 127.0.0.1 - - [2024-07-04 18:31:11] "GET /views/users/adduser.html HTTP/1.1" 200 12502 0.001954
+2024-07-04 18:31:11,166 - INFO - 127.0.0.1 - - [2024-07-04 18:31:11] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.002929
+2024-07-04 18:31:11,172 - INFO - 127.0.0.1 - - [2024-07-04 18:31:11] "GET /assets/styles/add_style.css HTTP/1.1" 200 1956 0.001955
+2024-07-04 18:31:11,174 - INFO - 127.0.0.1 - - [2024-07-04 18:31:11] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 18:31:11,179 - INFO - 127.0.0.1 - - [2024-07-04 18:31:11] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.002932
+2024-07-04 18:31:11,184 - INFO - 127.0.0.1 - - [2024-07-04 18:31:11] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001956
+2024-07-04 18:31:11,188 - INFO - 127.0.0.1 - - [2024-07-04 18:31:11] "GET /assets/scripts/add_user.js HTTP/1.1" 200 1737 0.001939
+2024-07-04 18:31:11,520 - INFO - Orders fetched successfully!
+2024-07-04 18:31:11,521 - INFO - Fetched orders: []
+2024-07-04 18:31:11,522 - INFO - Groups fetched successfully!
+2024-07-04 18:31:11,919 - INFO - 127.0.0.1 - - [2024-07-04 18:31:11] "GET /views/users/users.html HTTP/1.1" 200 10861 0.001949
+2024-07-04 18:31:11,944 - INFO - 127.0.0.1 - - [2024-07-04 18:31:11] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.002923
+2024-07-04 18:31:11,951 - INFO - 127.0.0.1 - - [2024-07-04 18:31:11] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.000982
+2024-07-04 18:31:11,953 - INFO - 127.0.0.1 - - [2024-07-04 18:31:11] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 18:31:11,956 - INFO - 127.0.0.1 - - [2024-07-04 18:31:11] "GET /assets/scripts/users.js HTTP/1.1" 200 2369 0.001950
+2024-07-04 18:31:11,959 - INFO - 127.0.0.1 - - [2024-07-04 18:31:11] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001953
+2024-07-04 18:31:11,962 - INFO - 127.0.0.1 - - [2024-07-04 18:31:11] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001948
+2024-07-04 18:31:12,284 - INFO - Users fetched successfully!
+2024-07-04 18:31:12,286 - INFO - Orders fetched successfully!
+2024-07-04 18:31:12,286 - INFO - Fetched orders: []
+2024-07-04 18:31:13,309 - INFO - 127.0.0.1 - - [2024-07-04 18:31:13] "GET /views/stock/stock.html HTTP/1.1" 200 12404 0.000948
+2024-07-04 18:31:13,346 - INFO - 127.0.0.1 - - [2024-07-04 18:31:13] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001955
+2024-07-04 18:31:13,349 - INFO - 127.0.0.1 - - [2024-07-04 18:31:13] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.000976
+2024-07-04 18:31:13,350 - INFO - 127.0.0.1 - - [2024-07-04 18:31:13] "GET /eel.js HTTP/1.1" 200 6792 0.000977
+2024-07-04 18:31:13,354 - INFO - 127.0.0.1 - - [2024-07-04 18:31:13] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.000980
+2024-07-04 18:31:13,357 - INFO - 127.0.0.1 - - [2024-07-04 18:31:13] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.000987
+2024-07-04 18:31:13,361 - INFO - 127.0.0.1 - - [2024-07-04 18:31:13] "GET /assets/scripts/stock.js HTTP/1.1" 200 5137 0.001952
+2024-07-04 18:31:13,687 - INFO - Orders fetched successfully!
+2024-07-04 18:31:13,687 - INFO - Fetched orders: []
+2024-07-04 18:31:13,689 - INFO - Stock items fetched successfully!
+2024-07-04 18:31:14,517 - INFO - 127.0.0.1 - - [2024-07-04 18:31:14] "GET /views/Dashboard/index.html HTTP/1.1" 200 15205 0.000977
+2024-07-04 18:31:14,540 - INFO - 127.0.0.1 - - [2024-07-04 18:31:14] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001952
+2024-07-04 18:31:14,544 - INFO - 127.0.0.1 - - [2024-07-04 18:31:14] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001951
+2024-07-04 18:31:14,547 - INFO - 127.0.0.1 - - [2024-07-04 18:31:14] "GET /images/plus.png HTTP/1.1" 200 45737 0.001926
+2024-07-04 18:31:14,550 - INFO - 127.0.0.1 - - [2024-07-04 18:31:14] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001951
+2024-07-04 18:31:14,553 - INFO - 127.0.0.1 - - [2024-07-04 18:31:14] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001958
+2024-07-04 18:31:14,554 - INFO - 127.0.0.1 - - [2024-07-04 18:31:14] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 18:31:14,557 - INFO - 127.0.0.1 - - [2024-07-04 18:31:14] "GET /assets/scripts/dashboard.js HTTP/1.1" 200 6422 0.000976
+2024-07-04 18:31:14,881 - INFO - Orders fetched successfully!
+2024-07-04 18:31:14,882 - INFO - Fetched orders: []
+2024-07-04 18:31:14,884 - ERROR - An error occurred: FUNCTION restaurant.strftime does not exist
+2024-07-04 18:31:14,887 - INFO - Users fetched successfully!
+2024-07-04 18:31:14,890 - INFO - Orders fetched successfully!
+2024-07-04 18:31:14,893 - INFO - Group fetched successfully!
+2024-07-04 18:31:14,898 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:31:14,901 - INFO - Group fetched successfully!
+2024-07-04 18:31:14,905 - INFO - 127.0.0.1 - - [2024-07-04 18:31:14] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001951
+2024-07-04 18:31:14,909 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:31:14,918 - INFO - Group fetched successfully!
+2024-07-04 18:31:15,101 - INFO - 127.0.0.1 - - [2024-07-04 18:31:15] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001941
+2024-07-04 18:31:15,103 - INFO - 127.0.0.1 - - [2024-07-04 18:31:15] "GET /images/plus.png HTTP/1.1" 200 45737 0.000978
+2024-07-04 18:32:37,338 - INFO - 127.0.0.1 - - [2024-07-04 18:32:37] "GET /views/Orders/orders.html HTTP/1.1" 200 13098 0.000979
+2024-07-04 18:32:37,364 - INFO - 127.0.0.1 - - [2024-07-04 18:32:37] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001920
+2024-07-04 18:32:37,373 - INFO - 127.0.0.1 - - [2024-07-04 18:32:37] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001019
+2024-07-04 18:32:37,375 - INFO - 127.0.0.1 - - [2024-07-04 18:32:37] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 18:32:37,381 - INFO - 127.0.0.1 - - [2024-07-04 18:32:37] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.002930
+2024-07-04 18:32:37,384 - INFO - 127.0.0.1 - - [2024-07-04 18:32:37] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001952
+2024-07-04 18:32:37,387 - INFO - 127.0.0.1 - - [2024-07-04 18:32:37] "GET /assets/scripts/order.js HTTP/1.1" 200 4871 0.001018
+2024-07-04 18:32:37,699 - INFO - Orders fetched successfully!
+2024-07-04 18:32:37,699 - INFO - Fetched orders: []
+2024-07-04 18:32:37,701 - INFO - Orders fetched successfully!
+2024-07-04 18:32:39,986 - INFO - 127.0.0.1 - - [2024-07-04 18:32:39] "GET /views/products/products.html HTTP/1.1" 200 10860 0.000977
+2024-07-04 18:32:40,016 - INFO - 127.0.0.1 - - [2024-07-04 18:32:40] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.000978
+2024-07-04 18:32:40,018 - INFO - 127.0.0.1 - - [2024-07-04 18:32:40] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.000979
+2024-07-04 18:32:40,020 - INFO - 127.0.0.1 - - [2024-07-04 18:32:40] "GET /eel.js HTTP/1.1" 200 6792 0.000982
+2024-07-04 18:32:40,022 - INFO - 127.0.0.1 - - [2024-07-04 18:32:40] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.000969
+2024-07-04 18:32:40,027 - INFO - 127.0.0.1 - - [2024-07-04 18:32:40] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.002932
+2024-07-04 18:32:40,030 - INFO - 127.0.0.1 - - [2024-07-04 18:32:40] "GET /assets/scripts/product.js HTTP/1.1" 200 2732 0.000954
+2024-07-04 18:32:40,351 - INFO - Orders fetched successfully!
+2024-07-04 18:32:40,351 - INFO - Fetched orders: []
+2024-07-04 18:32:40,353 - INFO - Products fetched successfully!
+2024-07-04 18:32:41,643 - INFO - 127.0.0.1 - - [2024-07-04 18:32:41] "GET /views/categorys/category.html HTTP/1.1" 200 12118 0.001955
+2024-07-04 18:32:41,671 - INFO - 127.0.0.1 - - [2024-07-04 18:32:41] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.000972
+2024-07-04 18:32:41,673 - INFO - 127.0.0.1 - - [2024-07-04 18:32:41] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.000973
+2024-07-04 18:32:41,674 - INFO - 127.0.0.1 - - [2024-07-04 18:32:41] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 18:32:41,679 - INFO - 127.0.0.1 - - [2024-07-04 18:32:41] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.003908
+2024-07-04 18:32:41,683 - INFO - 127.0.0.1 - - [2024-07-04 18:32:41] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001951
+2024-07-04 18:32:41,685 - INFO - 127.0.0.1 - - [2024-07-04 18:32:41] "GET /assets/scripts/category.js HTTP/1.1" 200 3511 0.000983
+2024-07-04 18:32:41,995 - INFO - Orders fetched successfully!
+2024-07-04 18:32:41,995 - INFO - Fetched orders: []
+2024-07-04 18:32:41,997 - INFO - Categories fetched successfully!
+2024-07-04 18:32:45,187 - INFO - 127.0.0.1 - - [2024-07-04 18:32:45] "GET /views/Tables/tables.html HTTP/1.1" 200 12476 0.000979
+2024-07-04 18:32:45,212 - INFO - 127.0.0.1 - - [2024-07-04 18:32:45] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.004882
+2024-07-04 18:32:45,218 - INFO - 127.0.0.1 - - [2024-07-04 18:32:45] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.003907
+2024-07-04 18:32:45,219 - INFO - 127.0.0.1 - - [2024-07-04 18:32:45] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 18:32:45,222 - INFO - 127.0.0.1 - - [2024-07-04 18:32:45] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.000974
+2024-07-04 18:32:45,226 - INFO - 127.0.0.1 - - [2024-07-04 18:32:45] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001954
+2024-07-04 18:32:45,230 - INFO - 127.0.0.1 - - [2024-07-04 18:32:45] "GET /assets/scripts/table.js HTTP/1.1" 200 3993 0.001920
+2024-07-04 18:32:45,547 - INFO - Orders fetched successfully!
+2024-07-04 18:32:45,547 - INFO - Fetched orders: []
+2024-07-04 18:32:45,549 - INFO - Tables fetched successfully!
+2024-07-04 18:34:31,657 - INFO - 127.0.0.1 - - [2024-07-04 18:34:31] "GET /views/Orders/orders.html HTTP/1.1" 200 13098 0.001959
+2024-07-04 18:34:31,677 - INFO - 127.0.0.1 - - [2024-07-04 18:34:31] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001956
+2024-07-04 18:34:31,682 - INFO - 127.0.0.1 - - [2024-07-04 18:34:31] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001956
+2024-07-04 18:34:31,686 - INFO - 127.0.0.1 - - [2024-07-04 18:34:31] "GET /eel.js HTTP/1.1" 200 6792 0.000979
+2024-07-04 18:34:31,689 - INFO - 127.0.0.1 - - [2024-07-04 18:34:31] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001954
+2024-07-04 18:34:31,693 - INFO - 127.0.0.1 - - [2024-07-04 18:34:31] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001963
+2024-07-04 18:34:31,695 - INFO - 127.0.0.1 - - [2024-07-04 18:34:31] "GET /assets/scripts/order.js HTTP/1.1" 200 4871 0.001021
+2024-07-04 18:34:32,008 - INFO - Orders fetched successfully!
+2024-07-04 18:34:32,008 - INFO - Fetched orders: []
+2024-07-04 18:34:32,010 - INFO - Orders fetched successfully!
+2024-07-04 18:34:35,928 - INFO - Order 1 downloaded successfully!
+2024-07-04 18:35:17,820 - INFO - 127.0.0.1 - - [2024-07-04 18:35:17] "GET /views/products/products.html HTTP/1.1" 200 10860 0.000981
+2024-07-04 18:35:17,840 - INFO - 127.0.0.1 - - [2024-07-04 18:35:17] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001957
+2024-07-04 18:35:17,849 - INFO - 127.0.0.1 - - [2024-07-04 18:35:17] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.003896
+2024-07-04 18:35:17,851 - INFO - 127.0.0.1 - - [2024-07-04 18:35:17] "GET /eel.js HTTP/1.1" 200 6792 0.000974
+2024-07-04 18:35:17,853 - INFO - 127.0.0.1 - - [2024-07-04 18:35:17] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.000974
+2024-07-04 18:35:17,856 - INFO - 127.0.0.1 - - [2024-07-04 18:35:17] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.000952
+2024-07-04 18:35:17,860 - INFO - 127.0.0.1 - - [2024-07-04 18:35:17] "GET /assets/scripts/product.js HTTP/1.1" 200 2732 0.001942
+2024-07-04 18:35:18,181 - INFO - Orders fetched successfully!
+2024-07-04 18:35:18,181 - INFO - Fetched orders: []
+2024-07-04 18:35:18,183 - INFO - Products fetched successfully!
+2024-07-04 18:36:40,381 - INFO - 127.0.0.1 - - [2024-07-04 18:36:40] "GET /views/Orders/orders.html HTTP/1.1" 200 13098 0.000950
+2024-07-04 18:36:40,401 - INFO - 127.0.0.1 - - [2024-07-04 18:36:40] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.000980
+2024-07-04 18:36:40,407 - INFO - 127.0.0.1 - - [2024-07-04 18:36:40] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001946
+2024-07-04 18:36:40,410 - INFO - 127.0.0.1 - - [2024-07-04 18:36:40] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 18:36:40,415 - INFO - 127.0.0.1 - - [2024-07-04 18:36:40] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001950
+2024-07-04 18:36:40,417 - INFO - 127.0.0.1 - - [2024-07-04 18:36:40] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001959
+2024-07-04 18:36:40,419 - INFO - 127.0.0.1 - - [2024-07-04 18:36:40] "GET /assets/scripts/order.js HTTP/1.1" 200 4871 0.000977
+2024-07-04 18:36:40,729 - INFO - Orders fetched successfully!
+2024-07-04 18:36:40,729 - INFO - Fetched orders: []
+2024-07-04 18:36:40,731 - INFO - Orders fetched successfully!
+2024-07-04 18:37:01,531 - INFO - 127.0.0.1 - - [2024-07-04 18:37:01] "GET /views/Orders/orders.html HTTP/1.1" 200 13098 0.001011
+2024-07-04 18:37:01,549 - INFO - 127.0.0.1 - - [2024-07-04 18:37:01] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.000982
+2024-07-04 18:37:01,551 - INFO - 127.0.0.1 - - [2024-07-04 18:37:01] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.000978
+2024-07-04 18:37:01,556 - INFO - 127.0.0.1 - - [2024-07-04 18:37:01] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.002935
+2024-07-04 18:37:01,558 - INFO - 127.0.0.1 - - [2024-07-04 18:37:01] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 18:37:01,561 - INFO - 127.0.0.1 - - [2024-07-04 18:37:01] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001006
+2024-07-04 18:37:01,566 - INFO - 127.0.0.1 - - [2024-07-04 18:37:01] "GET /assets/scripts/order.js HTTP/1.1" 200 4870 0.001948
+2024-07-04 18:37:01,877 - INFO - Orders fetched successfully!
+2024-07-04 18:37:01,877 - INFO - Fetched orders: []
+2024-07-04 18:37:01,879 - INFO - Orders fetched successfully!
+2024-07-04 18:37:25,214 - INFO - 127.0.0.1 - - [2024-07-04 18:37:25] "GET /views/Orders/orders.html HTTP/1.1" 200 13098 0.000973
+2024-07-04 18:37:25,239 - INFO - 127.0.0.1 - - [2024-07-04 18:37:25] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001955
+2024-07-04 18:37:25,241 - INFO - 127.0.0.1 - - [2024-07-04 18:37:25] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.000979
+2024-07-04 18:37:25,243 - INFO - 127.0.0.1 - - [2024-07-04 18:37:25] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 18:37:25,248 - INFO - 127.0.0.1 - - [2024-07-04 18:37:25] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.003908
+2024-07-04 18:37:25,253 - INFO - 127.0.0.1 - - [2024-07-04 18:37:25] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.000980
+2024-07-04 18:37:25,258 - INFO - 127.0.0.1 - - [2024-07-04 18:37:25] "GET /assets/scripts/order.js HTTP/1.1" 200 4871 0.001951
+2024-07-04 18:37:25,570 - INFO - Orders fetched successfully!
+2024-07-04 18:37:25,570 - INFO - Fetched orders: []
+2024-07-04 18:37:25,572 - INFO - Orders fetched successfully!
+2024-07-04 18:40:04,792 - INFO - 127.0.0.1 - - [2024-07-04 18:40:04] "GET /views/Orders/orders.html HTTP/1.1" 200 13098 0.003913
+2024-07-04 18:40:04,814 - INFO - 127.0.0.1 - - [2024-07-04 18:40:04] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001974
+2024-07-04 18:40:04,817 - INFO - 127.0.0.1 - - [2024-07-04 18:40:04] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001951
+2024-07-04 18:40:04,819 - INFO - 127.0.0.1 - - [2024-07-04 18:40:04] "GET /eel.js HTTP/1.1" 200 6792 0.000975
+2024-07-04 18:40:04,822 - INFO - 127.0.0.1 - - [2024-07-04 18:40:04] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001953
+2024-07-04 18:40:04,826 - INFO - 127.0.0.1 - - [2024-07-04 18:40:04] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001937
+2024-07-04 18:40:04,828 - INFO - 127.0.0.1 - - [2024-07-04 18:40:04] "GET /assets/scripts/order.js HTTP/1.1" 200 4438 0.000976
+2024-07-04 18:40:05,151 - INFO - Orders fetched successfully!
+2024-07-04 18:40:05,151 - INFO - Fetched orders: []
+2024-07-04 18:40:05,152 - INFO - Orders fetched successfully!
+2024-07-04 18:40:18,498 - INFO - 127.0.0.1 - - [2024-07-04 18:40:18] "GET /views/Orders/orders.html HTTP/1.1" 200 13098 0.001953
+2024-07-04 18:40:18,520 - INFO - 127.0.0.1 - - [2024-07-04 18:40:18] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001951
+2024-07-04 18:40:18,524 - INFO - 127.0.0.1 - - [2024-07-04 18:40:18] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001954
+2024-07-04 18:40:18,525 - INFO - 127.0.0.1 - - [2024-07-04 18:40:18] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 18:40:18,531 - INFO - 127.0.0.1 - - [2024-07-04 18:40:18] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.003908
+2024-07-04 18:40:18,534 - INFO - 127.0.0.1 - - [2024-07-04 18:40:18] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001950
+2024-07-04 18:40:18,537 - INFO - 127.0.0.1 - - [2024-07-04 18:40:18] "GET /assets/scripts/order.js HTTP/1.1" 200 4871 0.000977
+2024-07-04 18:40:18,846 - INFO - Orders fetched successfully!
+2024-07-04 18:40:18,846 - INFO - Fetched orders: []
+2024-07-04 18:40:18,848 - INFO - Orders fetched successfully!
+2024-07-04 18:48:03,790 - INFO - 127.0.0.1 - - [2024-07-04 18:48:03] "GET /login.html HTTP/1.1" 200 4360 0.000975
+2024-07-04 18:48:04,287 - INFO - 127.0.0.1 - - [2024-07-04 18:48:04] "GET /assets/styles/login_style.css HTTP/1.1" 200 3596 0.001953
+2024-07-04 18:48:04,290 - INFO - 127.0.0.1 - - [2024-07-04 18:48:04] "GET /eel.js HTTP/1.1" 200 6792 0.001007
+2024-07-04 18:48:04,354 - INFO - 127.0.0.1 - - [2024-07-04 18:48:04] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001955
+2024-07-04 18:48:04,418 - INFO - 127.0.0.1 - - [2024-07-04 18:48:04] "GET /web/images/logo.ico HTTP/1.1" 404 884 0.010737
+2024-07-04 18:48:08,751 - INFO - User kassimi@ease.de logged in successfully!
+2024-07-04 18:48:09,068 - INFO - 127.0.0.1 - - [2024-07-04 18:48:09] "GET /views/Dashboard/index.html?user_id=1 HTTP/1.1" 200 15205 0.000995
+2024-07-04 18:48:09,093 - INFO - 127.0.0.1 - - [2024-07-04 18:48:09] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001976
+2024-07-04 18:48:09,096 - INFO - 127.0.0.1 - - [2024-07-04 18:48:09] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001954
+2024-07-04 18:48:09,100 - INFO - 127.0.0.1 - - [2024-07-04 18:48:09] "GET /images/plus.png HTTP/1.1" 200 45737 0.001953
+2024-07-04 18:48:09,104 - INFO - 127.0.0.1 - - [2024-07-04 18:48:09] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001964
+2024-07-04 18:48:09,107 - INFO - 127.0.0.1 - - [2024-07-04 18:48:09] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001954
+2024-07-04 18:48:09,109 - INFO - 127.0.0.1 - - [2024-07-04 18:48:09] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 18:48:09,113 - INFO - 127.0.0.1 - - [2024-07-04 18:48:09] "GET /assets/scripts/dashboard.js HTTP/1.1" 200 6422 0.001955
+2024-07-04 18:48:09,537 - INFO - 127.0.0.1 - - [2024-07-04 18:48:09] "GET /views/web/images/logo.ico HTTP/1.1" 404 890 0.000979
+2024-07-04 18:48:09,818 - INFO - Orders fetched successfully!
+2024-07-04 18:48:09,818 - INFO - Fetched orders: []
+2024-07-04 18:48:09,820 - ERROR - An error occurred: FUNCTION restaurant.strftime does not exist
+2024-07-04 18:48:09,823 - INFO - Users fetched successfully!
+2024-07-04 18:48:09,831 - INFO - Orders fetched successfully!
+2024-07-04 18:48:09,836 - INFO - Group fetched successfully!
+2024-07-04 18:48:09,843 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:48:09,847 - INFO - 127.0.0.1 - - [2024-07-04 18:48:09] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001922
+2024-07-04 18:48:09,850 - INFO - Group fetched successfully!
+2024-07-04 18:48:09,854 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:48:09,857 - INFO - 127.0.0.1 - - [2024-07-04 18:48:09] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001948
+2024-07-04 18:48:09,864 - INFO - Group fetched successfully!
+2024-07-04 18:48:09,872 - INFO - 127.0.0.1 - - [2024-07-04 18:48:09] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.000969
+2024-07-04 18:48:09,882 - INFO - 127.0.0.1 - - [2024-07-04 18:48:09] "GET /images/plus.png HTTP/1.1" 200 45737 0.000961
+2024-07-04 18:48:13,035 - INFO - 127.0.0.1 - - [2024-07-04 18:48:13] "GET /views/stock/stock.html HTTP/1.1" 200 12404 0.000978
+2024-07-04 18:48:13,064 - INFO - 127.0.0.1 - - [2024-07-04 18:48:13] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001977
+2024-07-04 18:48:13,070 - INFO - 127.0.0.1 - - [2024-07-04 18:48:13] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.000978
+2024-07-04 18:48:13,071 - INFO - 127.0.0.1 - - [2024-07-04 18:48:13] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 18:48:13,075 - INFO - 127.0.0.1 - - [2024-07-04 18:48:13] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001959
+2024-07-04 18:48:13,078 - INFO - 127.0.0.1 - - [2024-07-04 18:48:13] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001952
+2024-07-04 18:48:13,081 - INFO - 127.0.0.1 - - [2024-07-04 18:48:13] "GET /assets/scripts/stock.js HTTP/1.1" 200 5137 0.000978
+2024-07-04 18:48:13,404 - INFO - Orders fetched successfully!
+2024-07-04 18:48:13,405 - INFO - Fetched orders: []
+2024-07-04 18:48:13,406 - INFO - Stock items fetched successfully!
+2024-07-04 18:48:15,170 - INFO - 127.0.0.1 - - [2024-07-04 18:48:15] "GET /views/users/users.html HTTP/1.1" 200 10861 0.000986
+2024-07-04 18:48:15,200 - INFO - 127.0.0.1 - - [2024-07-04 18:48:15] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.000978
+2024-07-04 18:48:15,203 - INFO - 127.0.0.1 - - [2024-07-04 18:48:15] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.000957
+2024-07-04 18:48:15,204 - INFO - 127.0.0.1 - - [2024-07-04 18:48:15] "GET /eel.js HTTP/1.1" 200 6792 0.000971
+2024-07-04 18:48:15,207 - INFO - 127.0.0.1 - - [2024-07-04 18:48:15] "GET /assets/scripts/users.js HTTP/1.1" 200 2369 0.001956
+2024-07-04 18:48:15,210 - INFO - 127.0.0.1 - - [2024-07-04 18:48:15] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001951
+2024-07-04 18:48:15,213 - INFO - 127.0.0.1 - - [2024-07-04 18:48:15] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001977
+2024-07-04 18:48:15,233 - INFO - 127.0.0.1 - - [2024-07-04 18:48:15] "GET /favicon.ico HTTP/1.1" 404 876 0.000978
+2024-07-04 18:48:15,527 - INFO - Users fetched successfully!
+2024-07-04 18:48:15,530 - INFO - Orders fetched successfully!
+2024-07-04 18:48:15,530 - INFO - Fetched orders: []
+2024-07-04 18:48:18,766 - INFO - 127.0.0.1 - - [2024-07-04 18:48:18] "GET /views/Tables/tables.html HTTP/1.1" 200 12476 0.000957
+2024-07-04 18:48:18,790 - INFO - 127.0.0.1 - - [2024-07-04 18:48:18] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001988
+2024-07-04 18:48:18,792 - INFO - 127.0.0.1 - - [2024-07-04 18:48:18] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.000978
+2024-07-04 18:48:18,794 - INFO - 127.0.0.1 - - [2024-07-04 18:48:18] "GET /eel.js HTTP/1.1" 200 6792 0.000946
+2024-07-04 18:48:18,798 - INFO - 127.0.0.1 - - [2024-07-04 18:48:18] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001932
+2024-07-04 18:48:18,802 - INFO - 127.0.0.1 - - [2024-07-04 18:48:18] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001936
+2024-07-04 18:48:18,804 - INFO - 127.0.0.1 - - [2024-07-04 18:48:18] "GET /assets/scripts/table.js HTTP/1.1" 200 3993 0.000974
+2024-07-04 18:48:19,128 - INFO - Orders fetched successfully!
+2024-07-04 18:48:19,128 - INFO - Fetched orders: []
+2024-07-04 18:48:19,130 - INFO - Tables fetched successfully!
+2024-07-04 18:48:20,652 - INFO - 127.0.0.1 - - [2024-07-04 18:48:20] "GET /views/products/products.html HTTP/1.1" 200 10860 0.001957
+2024-07-04 18:48:20,679 - INFO - 127.0.0.1 - - [2024-07-04 18:48:20] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001954
+2024-07-04 18:48:20,683 - INFO - 127.0.0.1 - - [2024-07-04 18:48:20] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001952
+2024-07-04 18:48:20,684 - INFO - 127.0.0.1 - - [2024-07-04 18:48:20] "GET /eel.js HTTP/1.1" 200 6792 0.000977
+2024-07-04 18:48:20,687 - INFO - 127.0.0.1 - - [2024-07-04 18:48:20] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001954
+2024-07-04 18:48:20,691 - INFO - 127.0.0.1 - - [2024-07-04 18:48:20] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001954
+2024-07-04 18:48:20,694 - INFO - 127.0.0.1 - - [2024-07-04 18:48:20] "GET /assets/scripts/product.js HTTP/1.1" 200 2732 0.000978
+2024-07-04 18:48:21,013 - INFO - Orders fetched successfully!
+2024-07-04 18:48:21,014 - INFO - Fetched orders: []
+2024-07-04 18:48:21,016 - INFO - Products fetched successfully!
+2024-07-04 18:48:21,444 - INFO - 127.0.0.1 - - [2024-07-04 18:48:21] "GET /views/Orders/orders.html HTTP/1.1" 200 13098 0.000979
+2024-07-04 18:48:21,467 - INFO - 127.0.0.1 - - [2024-07-04 18:48:21] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.000980
+2024-07-04 18:48:21,470 - INFO - 127.0.0.1 - - [2024-07-04 18:48:21] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001955
+2024-07-04 18:48:21,473 - INFO - 127.0.0.1 - - [2024-07-04 18:48:21] "GET /eel.js HTTP/1.1" 200 6792 0.000979
+2024-07-04 18:48:21,475 - INFO - 127.0.0.1 - - [2024-07-04 18:48:21] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.000983
+2024-07-04 18:48:21,478 - INFO - 127.0.0.1 - - [2024-07-04 18:48:21] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001962
+2024-07-04 18:48:21,481 - INFO - 127.0.0.1 - - [2024-07-04 18:48:21] "GET /assets/scripts/order.js HTTP/1.1" 200 4871 0.000981
+2024-07-04 18:48:21,791 - INFO - Orders fetched successfully!
+2024-07-04 18:48:21,791 - INFO - Fetched orders: []
+2024-07-04 18:48:21,793 - INFO - Orders fetched successfully!
+2024-07-04 18:48:34,581 - INFO - 127.0.0.1 - - [2024-07-04 18:48:34] "GET /views/Orders/addorder.html HTTP/1.1" 200 11919 0.000974
+2024-07-04 18:48:34,606 - INFO - 127.0.0.1 - - [2024-07-04 18:48:34] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001966
+2024-07-04 18:48:34,613 - INFO - 127.0.0.1 - - [2024-07-04 18:48:34] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.000978
+2024-07-04 18:48:34,617 - INFO - 127.0.0.1 - - [2024-07-04 18:48:34] "GET /assets/styles/add_style.css HTTP/1.1" 200 1956 0.001951
+2024-07-04 18:48:34,620 - INFO - 127.0.0.1 - - [2024-07-04 18:48:34] "GET /eel.js HTTP/1.1" 200 6792 0.001952
+2024-07-04 18:48:34,622 - INFO - 127.0.0.1 - - [2024-07-04 18:48:34] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001952
+2024-07-04 18:48:34,626 - INFO - 127.0.0.1 - - [2024-07-04 18:48:34] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001956
+2024-07-04 18:48:34,630 - INFO - 127.0.0.1 - - [2024-07-04 18:48:34] "GET /assets/scripts/add_order.js HTTP/1.1" 200 9728 0.001958
+2024-07-04 18:48:34,966 - INFO - Orders fetched successfully!
+2024-07-04 18:48:34,966 - INFO - Fetched orders: []
+2024-07-04 18:48:34,968 - INFO - Tables fetched successfully!
+2024-07-04 18:48:34,971 - INFO - Products fetched successfully!
+2024-07-04 18:48:37,904 - INFO - Products fetched successfully!
+2024-07-04 18:48:44,220 - INFO - Order 3 added successfully!
+2024-07-04 18:48:44,225 - ERROR - An error occurred while adding order items: Unknown column 'item_total' in 'field list'
+2024-07-04 18:48:46,990 - INFO - 127.0.0.1 - - [2024-07-04 18:48:46] "GET /views/Orders/orders.html HTTP/1.1" 200 13098 0.001013
+2024-07-04 18:48:47,011 - INFO - 127.0.0.1 - - [2024-07-04 18:48:47] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.002929
+2024-07-04 18:48:47,017 - INFO - 127.0.0.1 - - [2024-07-04 18:48:47] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.002931
+2024-07-04 18:48:47,020 - INFO - 127.0.0.1 - - [2024-07-04 18:48:47] "GET /eel.js HTTP/1.1" 200 6792 0.000979
+2024-07-04 18:48:47,024 - INFO - 127.0.0.1 - - [2024-07-04 18:48:47] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001959
+2024-07-04 18:48:47,028 - INFO - 127.0.0.1 - - [2024-07-04 18:48:47] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.002926
+2024-07-04 18:48:47,030 - INFO - 127.0.0.1 - - [2024-07-04 18:48:47] "GET /assets/scripts/order.js HTTP/1.1" 200 4871 0.000976
+2024-07-04 18:48:47,341 - INFO - Orders fetched successfully!
+2024-07-04 18:48:47,342 - INFO - Fetched orders: [(3, 1, 1, datetime.datetime(2024, 7, 4, 13, 48, 44), 15, 0, 2, 0, None, 'In Progress', 17)]
+2024-07-04 18:48:47,344 - INFO - Orders fetched successfully!
+2024-07-04 18:48:57,037 - INFO - Order updated successfully!
+2024-07-04 18:48:58,103 - INFO - Orders fetched successfully!
+2024-07-04 18:49:00,842 - INFO - 127.0.0.1 - - [2024-07-04 18:49:00] "GET /views/Dashboard/index.html HTTP/1.1" 200 15205 0.000978
+2024-07-04 18:49:00,865 - INFO - 127.0.0.1 - - [2024-07-04 18:49:00] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.003912
+2024-07-04 18:49:00,872 - INFO - 127.0.0.1 - - [2024-07-04 18:49:00] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.002022
+2024-07-04 18:49:00,875 - INFO - 127.0.0.1 - - [2024-07-04 18:49:00] "GET /images/plus.png HTTP/1.1" 200 45737 0.000980
+2024-07-04 18:49:00,877 - INFO - 127.0.0.1 - - [2024-07-04 18:49:00] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.000980
+2024-07-04 18:49:00,881 - INFO - 127.0.0.1 - - [2024-07-04 18:49:00] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001966
+2024-07-04 18:49:00,884 - INFO - 127.0.0.1 - - [2024-07-04 18:49:00] "GET /eel.js HTTP/1.1" 200 6792 0.000993
+2024-07-04 18:49:00,887 - INFO - 127.0.0.1 - - [2024-07-04 18:49:00] "GET /assets/scripts/dashboard.js HTTP/1.1" 200 6422 0.000989
+2024-07-04 18:49:01,206 - INFO - Orders fetched successfully!
+2024-07-04 18:49:01,207 - INFO - Fetched orders: []
+2024-07-04 18:49:01,209 - ERROR - An error occurred: FUNCTION restaurant.strftime does not exist
+2024-07-04 18:49:01,212 - INFO - Users fetched successfully!
+2024-07-04 18:49:01,220 - INFO - Orders fetched successfully!
+2024-07-04 18:49:01,226 - INFO - Group fetched successfully!
+2024-07-04 18:49:01,229 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:49:01,239 - INFO - Group fetched successfully!
+2024-07-04 18:49:01,242 - INFO - 127.0.0.1 - - [2024-07-04 18:49:01] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001952
+2024-07-04 18:49:01,245 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:49:01,251 - INFO - Group fetched successfully!
+2024-07-04 18:49:01,259 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:49:01,262 - INFO - 127.0.0.1 - - [2024-07-04 18:49:01] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001958
+2024-07-04 18:49:01,269 - INFO - 127.0.0.1 - - [2024-07-04 18:49:01] "GET /images/plus.png HTTP/1.1" 200 45737 0.002930
+2024-07-04 18:49:06,828 - INFO - 127.0.0.1 - - [2024-07-04 18:49:06] "GET /views/Raports/report.html HTTP/1.1" 200 10800 0.000978
+2024-07-04 18:49:06,865 - INFO - 127.0.0.1 - - [2024-07-04 18:49:06] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001924
+2024-07-04 18:49:06,868 - INFO - 127.0.0.1 - - [2024-07-04 18:49:06] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.000975
+2024-07-04 18:49:06,870 - INFO - 127.0.0.1 - - [2024-07-04 18:49:06] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 18:49:06,872 - INFO - 127.0.0.1 - - [2024-07-04 18:49:06] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001951
+2024-07-04 18:49:06,874 - INFO - 127.0.0.1 - - [2024-07-04 18:49:06] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.000975
+2024-07-04 18:49:06,881 - INFO - 127.0.0.1 - - [2024-07-04 18:49:06] "GET /assets/scripts/report.js HTTP/1.1" 200 4523 0.000976
+2024-07-04 18:49:07,221 - INFO - Orders fetched successfully!
+2024-07-04 18:49:07,223 - INFO - Orders fetched successfully!
+2024-07-04 18:49:07,223 - INFO - Fetched orders: []
+2024-07-04 18:49:11,709 - INFO - 127.0.0.1 - - [2024-07-04 18:49:11] "GET /views/Settings/settings.html HTTP/1.1" 200 12612 0.000978
+2024-07-04 18:49:11,735 - INFO - 127.0.0.1 - - [2024-07-04 18:49:11] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001004
+2024-07-04 18:49:11,738 - INFO - 127.0.0.1 - - [2024-07-04 18:49:11] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.000982
+2024-07-04 18:49:11,740 - INFO - 127.0.0.1 - - [2024-07-04 18:49:11] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 18:49:11,745 - INFO - 127.0.0.1 - - [2024-07-04 18:49:11] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.002928
+2024-07-04 18:49:11,750 - INFO - 127.0.0.1 - - [2024-07-04 18:49:11] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001952
+2024-07-04 18:49:11,753 - INFO - 127.0.0.1 - - [2024-07-04 18:49:11] "GET /assets/scripts/setting.js HTTP/1.1" 200 2572 0.000978
+2024-07-04 18:49:12,099 - INFO - Orders fetched successfully!
+2024-07-04 18:49:12,099 - INFO - Fetched orders: []
+2024-07-04 18:49:12,101 - INFO - Company settings fetched successfully!
+2024-07-04 18:49:15,052 - INFO - 127.0.0.1 - - [2024-07-04 18:49:15] "GET /views/Raports/report.html HTTP/1.1" 200 10800 0.000976
+2024-07-04 18:49:15,082 - INFO - 127.0.0.1 - - [2024-07-04 18:49:15] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.000999
+2024-07-04 18:49:15,084 - INFO - 127.0.0.1 - - [2024-07-04 18:49:15] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.000993
+2024-07-04 18:49:15,085 - INFO - 127.0.0.1 - - [2024-07-04 18:49:15] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 18:49:15,088 - INFO - 127.0.0.1 - - [2024-07-04 18:49:15] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001954
+2024-07-04 18:49:15,090 - INFO - 127.0.0.1 - - [2024-07-04 18:49:15] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.000984
+2024-07-04 18:49:15,095 - INFO - 127.0.0.1 - - [2024-07-04 18:49:15] "GET /assets/scripts/report.js HTTP/1.1" 200 4523 0.000981
+2024-07-04 18:49:15,420 - INFO - Orders fetched successfully!
+2024-07-04 18:49:15,422 - INFO - Orders fetched successfully!
+2024-07-04 18:49:15,423 - INFO - Fetched orders: []
+2024-07-04 18:49:18,637 - INFO - 127.0.0.1 - - [2024-07-04 18:49:18] "GET /views/Dashboard/index.html HTTP/1.1" 200 15205 0.001020
+2024-07-04 18:49:18,657 - INFO - 127.0.0.1 - - [2024-07-04 18:49:18] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.000977
+2024-07-04 18:49:18,664 - INFO - 127.0.0.1 - - [2024-07-04 18:49:18] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001950
+2024-07-04 18:49:18,667 - INFO - 127.0.0.1 - - [2024-07-04 18:49:18] "GET /images/plus.png HTTP/1.1" 200 45737 0.001953
+2024-07-04 18:49:18,669 - INFO - 127.0.0.1 - - [2024-07-04 18:49:18] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001018
+2024-07-04 18:49:18,672 - INFO - 127.0.0.1 - - [2024-07-04 18:49:18] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.000981
+2024-07-04 18:49:18,674 - INFO - 127.0.0.1 - - [2024-07-04 18:49:18] "GET /eel.js HTTP/1.1" 200 6792 0.000976
+2024-07-04 18:49:18,677 - INFO - 127.0.0.1 - - [2024-07-04 18:49:18] "GET /assets/scripts/dashboard.js HTTP/1.1" 200 6422 0.001954
+2024-07-04 18:49:18,993 - INFO - Orders fetched successfully!
+2024-07-04 18:49:18,993 - INFO - Fetched orders: []
+2024-07-04 18:49:18,996 - ERROR - An error occurred: FUNCTION restaurant.strftime does not exist
+2024-07-04 18:49:18,998 - INFO - Users fetched successfully!
+2024-07-04 18:49:19,000 - INFO - Orders fetched successfully!
+2024-07-04 18:49:19,004 - INFO - Group fetched successfully!
+2024-07-04 18:49:19,008 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:49:19,014 - INFO - 127.0.0.1 - - [2024-07-04 18:49:19] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.002925
+2024-07-04 18:49:19,019 - INFO - Group fetched successfully!
+2024-07-04 18:49:19,034 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:49:19,038 - INFO - 127.0.0.1 - - [2024-07-04 18:49:19] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001920
+2024-07-04 18:49:19,044 - INFO - Group fetched successfully!
+2024-07-04 18:49:19,054 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:49:19,058 - INFO - 127.0.0.1 - - [2024-07-04 18:49:19] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001951
+2024-07-04 18:49:19,065 - INFO - 127.0.0.1 - - [2024-07-04 18:49:19] "GET /images/plus.png HTTP/1.1" 200 45737 0.004886
+2024-07-04 18:51:22,352 - INFO - 127.0.0.1 - - [2024-07-04 18:51:22] "GET /login.html HTTP/1.1" 200 4360 0.001976
+2024-07-04 18:51:22,596 - INFO - 127.0.0.1 - - [2024-07-04 18:51:22] "GET /assets/styles/login_style.css HTTP/1.1" 200 3596 0.001955
+2024-07-04 18:51:22,600 - INFO - 127.0.0.1 - - [2024-07-04 18:51:22] "GET /eel.js HTTP/1.1" 200 6792 0.001954
+2024-07-04 18:51:22,658 - INFO - 127.0.0.1 - - [2024-07-04 18:51:22] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001956
+2024-07-04 18:51:22,723 - INFO - 127.0.0.1 - - [2024-07-04 18:51:22] "GET /web/images/logo.ico HTTP/1.1" 404 884 0.012691
+2024-07-04 18:51:27,801 - INFO - User kassimi@ease.de logged in successfully!
+2024-07-04 18:51:28,113 - INFO - 127.0.0.1 - - [2024-07-04 18:51:28] "GET /views/Dashboard/index.html?user_id=1 HTTP/1.1" 200 15205 0.000962
+2024-07-04 18:51:28,142 - INFO - 127.0.0.1 - - [2024-07-04 18:51:28] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001972
+2024-07-04 18:51:28,144 - INFO - 127.0.0.1 - - [2024-07-04 18:51:28] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.000966
+2024-07-04 18:51:28,146 - INFO - 127.0.0.1 - - [2024-07-04 18:51:28] "GET /images/plus.png HTTP/1.1" 200 45737 0.001951
+2024-07-04 18:51:28,149 - INFO - 127.0.0.1 - - [2024-07-04 18:51:28] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.000975
+2024-07-04 18:51:28,152 - INFO - 127.0.0.1 - - [2024-07-04 18:51:28] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.000977
+2024-07-04 18:51:28,154 - INFO - 127.0.0.1 - - [2024-07-04 18:51:28] "GET /eel.js HTTP/1.1" 200 6792 0.000977
+2024-07-04 18:51:28,157 - INFO - 127.0.0.1 - - [2024-07-04 18:51:28] "GET /assets/scripts/dashboard.js HTTP/1.1" 200 6422 0.001954
+2024-07-04 18:51:28,468 - INFO - 127.0.0.1 - - [2024-07-04 18:51:28] "GET /views/web/images/logo.ico HTTP/1.1" 404 890 0.003906
+2024-07-04 18:51:28,763 - INFO - Orders fetched successfully!
+2024-07-04 18:51:28,763 - INFO - Fetched orders: []
+2024-07-04 18:51:28,780 - INFO - Users fetched successfully!
+2024-07-04 18:51:28,785 - INFO - Orders fetched successfully!
+2024-07-04 18:51:28,789 - INFO - Group fetched successfully!
+2024-07-04 18:51:28,793 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:51:28,796 - INFO - 127.0.0.1 - - [2024-07-04 18:51:28] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.000974
+2024-07-04 18:51:28,801 - INFO - Group fetched successfully!
+2024-07-04 18:51:28,808 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:51:28,812 - INFO - Group fetched successfully!
+2024-07-04 18:51:28,819 - INFO - 127.0.0.1 - - [2024-07-04 18:51:28] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.003906
+2024-07-04 18:51:28,839 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:51:28,843 - INFO - 127.0.0.1 - - [2024-07-04 18:51:28] "GET /images/plus.png HTTP/1.1" 200 45737 0.001953
+2024-07-04 18:53:15,234 - INFO - 127.0.0.1 - - [2024-07-04 18:53:15] "GET /login.html HTTP/1.1" 200 4360 0.001951
+2024-07-04 18:53:15,594 - INFO - 127.0.0.1 - - [2024-07-04 18:53:15] "GET /assets/styles/login_style.css HTTP/1.1" 200 3596 0.002930
+2024-07-04 18:53:15,597 - INFO - 127.0.0.1 - - [2024-07-04 18:53:15] "GET /eel.js HTTP/1.1" 200 6769 0.000977
+2024-07-04 18:53:15,666 - INFO - 127.0.0.1 - - [2024-07-04 18:53:15] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.002053
+2024-07-04 18:53:15,733 - INFO - 127.0.0.1 - - [2024-07-04 18:53:15] "GET /web/images/logo.ico HTTP/1.1" 404 884 0.011715
+2024-07-04 18:53:20,463 - INFO - User kassimi@ease.de logged in successfully!
+2024-07-04 18:53:20,778 - INFO - 127.0.0.1 - - [2024-07-04 18:53:20] "GET /views/Dashboard/index.html?user_id=1 HTTP/1.1" 200 15205 0.000976
+2024-07-04 18:53:20,801 - INFO - 127.0.0.1 - - [2024-07-04 18:53:20] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001941
+2024-07-04 18:53:20,804 - INFO - 127.0.0.1 - - [2024-07-04 18:53:20] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001956
+2024-07-04 18:53:20,807 - INFO - 127.0.0.1 - - [2024-07-04 18:53:20] "GET /images/plus.png HTTP/1.1" 200 45737 0.001953
+2024-07-04 18:53:20,811 - INFO - 127.0.0.1 - - [2024-07-04 18:53:20] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001949
+2024-07-04 18:53:20,814 - INFO - 127.0.0.1 - - [2024-07-04 18:53:20] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.000974
+2024-07-04 18:53:20,815 - INFO - 127.0.0.1 - - [2024-07-04 18:53:20] "GET /eel.js HTTP/1.1" 200 6769 0.000000
+2024-07-04 18:53:20,819 - INFO - 127.0.0.1 - - [2024-07-04 18:53:20] "GET /assets/scripts/dashboard.js HTTP/1.1" 200 6422 0.001954
+2024-07-04 18:53:21,115 - INFO - 127.0.0.1 - - [2024-07-04 18:53:21] "GET /views/web/images/logo.ico HTTP/1.1" 404 890 0.000978
+2024-07-04 18:53:21,403 - INFO - Orders fetched successfully!
+2024-07-04 18:53:21,403 - INFO - Fetched orders: []
+2024-07-04 18:53:21,405 - INFO - Users fetched successfully!
+2024-07-04 18:53:21,408 - INFO - Orders fetched successfully!
+2024-07-04 18:53:21,411 - INFO - Group fetched successfully!
+2024-07-04 18:53:21,416 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:53:21,419 - INFO - 127.0.0.1 - - [2024-07-04 18:53:21] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.000974
+2024-07-04 18:53:21,422 - INFO - Group fetched successfully!
+2024-07-04 18:53:21,427 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:53:21,432 - INFO - 127.0.0.1 - - [2024-07-04 18:53:21] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001961
+2024-07-04 18:53:21,436 - INFO - Group fetched successfully!
+2024-07-04 18:53:21,439 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:53:21,444 - INFO - 127.0.0.1 - - [2024-07-04 18:53:21] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.003902
+2024-07-04 18:53:21,447 - INFO - 127.0.0.1 - - [2024-07-04 18:53:21] "GET /images/plus.png HTTP/1.1" 200 45737 0.001955
+2024-07-04 18:53:26,065 - INFO - 127.0.0.1 - - [2024-07-04 18:53:26] "GET /views/Dashboard/index.html?user_id=1 HTTP/1.1" 200 15205 0.002928
+2024-07-04 18:53:26,096 - INFO - 127.0.0.1 - - [2024-07-04 18:53:26] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001953
+2024-07-04 18:53:26,099 - INFO - 127.0.0.1 - - [2024-07-04 18:53:26] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.000975
+2024-07-04 18:53:26,103 - INFO - 127.0.0.1 - - [2024-07-04 18:53:26] "GET /images/plus.png HTTP/1.1" 200 45737 0.001951
+2024-07-04 18:53:26,108 - INFO - 127.0.0.1 - - [2024-07-04 18:53:26] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.003932
+2024-07-04 18:53:26,114 - INFO - 127.0.0.1 - - [2024-07-04 18:53:26] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001955
+2024-07-04 18:53:26,116 - INFO - 127.0.0.1 - - [2024-07-04 18:53:26] "GET /eel.js HTTP/1.1" 200 6769 0.000974
+2024-07-04 18:53:26,119 - INFO - 127.0.0.1 - - [2024-07-04 18:53:26] "GET /assets/scripts/dashboard.js HTTP/1.1" 200 6422 0.000976
+2024-07-04 18:53:26,441 - INFO - Orders fetched successfully!
+2024-07-04 18:53:26,442 - INFO - Fetched orders: []
+2024-07-04 18:53:26,444 - INFO - Users fetched successfully!
+2024-07-04 18:53:26,447 - INFO - Orders fetched successfully!
+2024-07-04 18:53:26,448 - INFO - Group fetched successfully!
+2024-07-04 18:53:26,451 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:53:26,453 - INFO - 127.0.0.1 - - [2024-07-04 18:53:26] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.000950
+2024-07-04 18:53:26,457 - INFO - Group fetched successfully!
+2024-07-04 18:53:26,463 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:53:26,468 - INFO - Group fetched successfully!
+2024-07-04 18:53:26,471 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:53:26,476 - INFO - 127.0.0.1 - - [2024-07-04 18:53:26] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.000976
+2024-07-04 18:53:26,479 - INFO - 127.0.0.1 - - [2024-07-04 18:53:26] "GET /images/plus.png HTTP/1.1" 200 45737 0.000978
+2024-07-04 18:53:28,317 - INFO - 127.0.0.1 - - [2024-07-04 18:53:28] "GET /views/Orders/orders.html HTTP/1.1" 200 13098 0.000988
+2024-07-04 18:53:28,348 - INFO - 127.0.0.1 - - [2024-07-04 18:53:28] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001936
+2024-07-04 18:53:28,351 - INFO - 127.0.0.1 - - [2024-07-04 18:53:28] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001953
+2024-07-04 18:53:28,352 - INFO - 127.0.0.1 - - [2024-07-04 18:53:28] "GET /eel.js HTTP/1.1" 200 6769 0.000000
+2024-07-04 18:53:28,355 - INFO - 127.0.0.1 - - [2024-07-04 18:53:28] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001955
+2024-07-04 18:53:28,358 - INFO - 127.0.0.1 - - [2024-07-04 18:53:28] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001952
+2024-07-04 18:53:28,363 - INFO - 127.0.0.1 - - [2024-07-04 18:53:28] "GET /assets/scripts/order.js HTTP/1.1" 200 4871 0.000976
+2024-07-04 18:53:28,693 - INFO - Orders fetched successfully!
+2024-07-04 18:53:28,694 - INFO - Fetched orders: []
+2024-07-04 18:53:28,696 - INFO - Orders fetched successfully!
+2024-07-04 18:53:31,469 - INFO - 127.0.0.1 - - [2024-07-04 18:53:31] "GET /views/Raports/report.html HTTP/1.1" 200 10800 0.000977
+2024-07-04 18:53:31,491 - INFO - 127.0.0.1 - - [2024-07-04 18:53:31] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.002935
+2024-07-04 18:53:31,497 - INFO - 127.0.0.1 - - [2024-07-04 18:53:31] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001023
+2024-07-04 18:53:31,501 - INFO - 127.0.0.1 - - [2024-07-04 18:53:31] "GET /eel.js HTTP/1.1" 200 6769 0.000996
+2024-07-04 18:53:31,505 - INFO - 127.0.0.1 - - [2024-07-04 18:53:31] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.000973
+2024-07-04 18:53:31,509 - INFO - 127.0.0.1 - - [2024-07-04 18:53:31] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001942
+2024-07-04 18:53:31,514 - INFO - 127.0.0.1 - - [2024-07-04 18:53:31] "GET /assets/scripts/report.js HTTP/1.1" 200 4523 0.001950
+2024-07-04 18:53:31,847 - INFO - Orders fetched successfully!
+2024-07-04 18:53:31,849 - INFO - Orders fetched successfully!
+2024-07-04 18:53:31,849 - INFO - Fetched orders: []
+2024-07-04 18:53:33,789 - INFO - 127.0.0.1 - - [2024-07-04 18:53:33] "GET /views/Settings/settings.html HTTP/1.1" 200 12612 0.002929
+2024-07-04 18:53:33,813 - INFO - 127.0.0.1 - - [2024-07-04 18:53:33] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.000999
+2024-07-04 18:53:33,819 - INFO - 127.0.0.1 - - [2024-07-04 18:53:33] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001965
+2024-07-04 18:53:33,822 - INFO - 127.0.0.1 - - [2024-07-04 18:53:33] "GET /eel.js HTTP/1.1" 200 6769 0.000000
+2024-07-04 18:53:33,825 - INFO - 127.0.0.1 - - [2024-07-04 18:53:33] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001956
+2024-07-04 18:53:33,828 - INFO - 127.0.0.1 - - [2024-07-04 18:53:33] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001951
+2024-07-04 18:53:33,833 - INFO - 127.0.0.1 - - [2024-07-04 18:53:33] "GET /assets/scripts/setting.js HTTP/1.1" 200 2572 0.001952
+2024-07-04 18:53:34,143 - INFO - Orders fetched successfully!
+2024-07-04 18:53:34,143 - INFO - Fetched orders: []
+2024-07-04 18:53:34,145 - INFO - Company settings fetched successfully!
+2024-07-04 18:53:35,893 - INFO - 127.0.0.1 - - [2024-07-04 18:53:35] "GET /views/users/users.html HTTP/1.1" 200 10861 0.001952
+2024-07-04 18:53:35,915 - INFO - 127.0.0.1 - - [2024-07-04 18:53:35] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001945
+2024-07-04 18:53:35,922 - INFO - 127.0.0.1 - - [2024-07-04 18:53:35] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001955
+2024-07-04 18:53:35,923 - INFO - 127.0.0.1 - - [2024-07-04 18:53:35] "GET /eel.js HTTP/1.1" 200 6769 0.000000
+2024-07-04 18:53:35,926 - INFO - 127.0.0.1 - - [2024-07-04 18:53:35] "GET /assets/scripts/users.js HTTP/1.1" 200 2369 0.000975
+2024-07-04 18:53:35,930 - INFO - 127.0.0.1 - - [2024-07-04 18:53:35] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001953
+2024-07-04 18:53:35,933 - INFO - 127.0.0.1 - - [2024-07-04 18:53:35] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001953
+2024-07-04 18:53:35,955 - INFO - 127.0.0.1 - - [2024-07-04 18:53:35] "GET /favicon.ico HTTP/1.1" 404 876 0.001955
+2024-07-04 18:53:36,244 - INFO - Users fetched successfully!
+2024-07-04 18:53:36,246 - INFO - Orders fetched successfully!
+2024-07-04 18:53:36,246 - INFO - Fetched orders: []
+2024-07-04 18:55:08,111 - INFO - 127.0.0.1 - - [2024-07-04 18:55:08] "GET /login.html HTTP/1.1" 200 4360 0.000976
+2024-07-04 18:55:08,484 - INFO - 127.0.0.1 - - [2024-07-04 18:55:08] "GET /assets/styles/login_style.css HTTP/1.1" 200 3596 0.001984
+2024-07-04 18:55:08,490 - INFO - 127.0.0.1 - - [2024-07-04 18:55:08] "GET /eel.js HTTP/1.1" 200 6769 0.001952
+2024-07-04 18:55:08,567 - INFO - 127.0.0.1 - - [2024-07-04 18:55:08] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001950
+2024-07-04 18:55:08,631 - INFO - 127.0.0.1 - - [2024-07-04 18:55:08] "GET /web/images/logo.ico HTTP/1.1" 404 884 0.011715
+2024-07-04 18:55:13,192 - INFO - User kassimi@ease.de logged in successfully!
+2024-07-04 18:55:13,512 - INFO - 127.0.0.1 - - [2024-07-04 18:55:13] "GET /views/Dashboard/index.html?user_id=1 HTTP/1.1" 200 15205 0.001994
+2024-07-04 18:55:13,540 - INFO - 127.0.0.1 - - [2024-07-04 18:55:13] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.000973
+2024-07-04 18:55:13,543 - INFO - 127.0.0.1 - - [2024-07-04 18:55:13] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.000976
+2024-07-04 18:55:13,546 - INFO - 127.0.0.1 - - [2024-07-04 18:55:13] "GET /images/plus.png HTTP/1.1" 200 45737 0.001954
+2024-07-04 18:55:13,550 - INFO - 127.0.0.1 - - [2024-07-04 18:55:13] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.002928
+2024-07-04 18:55:13,552 - INFO - 127.0.0.1 - - [2024-07-04 18:55:13] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.000957
+2024-07-04 18:55:13,554 - INFO - 127.0.0.1 - - [2024-07-04 18:55:13] "GET /eel.js HTTP/1.1" 200 6769 0.000000
+2024-07-04 18:55:13,557 - INFO - 127.0.0.1 - - [2024-07-04 18:55:13] "GET /assets/scripts/dashboard.js HTTP/1.1" 200 6422 0.001014
+2024-07-04 18:55:13,886 - INFO - 127.0.0.1 - - [2024-07-04 18:55:13] "GET /views/web/images/logo.ico HTTP/1.1" 404 890 0.000986
+2024-07-04 18:55:14,155 - INFO - Orders fetched successfully!
+2024-07-04 18:55:14,155 - INFO - Fetched orders: []
+2024-07-04 18:55:14,157 - INFO - Users fetched successfully!
+2024-07-04 18:55:14,158 - INFO - Orders fetched successfully!
+2024-07-04 18:55:14,161 - INFO - Group fetched successfully!
+2024-07-04 18:55:14,163 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:55:14,168 - INFO - 127.0.0.1 - - [2024-07-04 18:55:14] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.003933
+2024-07-04 18:55:14,170 - INFO - Group fetched successfully!
+2024-07-04 18:55:14,173 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:55:14,176 - INFO - Group fetched successfully!
+2024-07-04 18:55:14,180 - INFO - 127.0.0.1 - - [2024-07-04 18:55:14] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001945
+2024-07-04 18:55:14,183 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:55:14,187 - INFO - 127.0.0.1 - - [2024-07-04 18:55:14] "GET /images/plus.png HTTP/1.1" 200 45737 0.001953
+2024-07-04 18:55:23,156 - INFO - 127.0.0.1 - - [2024-07-04 18:55:23] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001958
+2024-07-04 18:55:23,160 - INFO - 127.0.0.1 - - [2024-07-04 18:55:23] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001982
+2024-07-04 18:56:34,581 - INFO - 127.0.0.1 - - [2024-07-04 18:56:34] "GET /login.html HTTP/1.1" 200 4360 0.001951
+2024-07-04 18:56:35,027 - INFO - 127.0.0.1 - - [2024-07-04 18:56:35] "GET /assets/styles/login_style.css HTTP/1.1" 200 3596 0.002933
+2024-07-04 18:56:35,031 - INFO - 127.0.0.1 - - [2024-07-04 18:56:35] "GET /eel.js HTTP/1.1" 200 6792 0.000979
+2024-07-04 18:56:35,110 - INFO - 127.0.0.1 - - [2024-07-04 18:56:35] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.002932
+2024-07-04 18:56:35,187 - INFO - 127.0.0.1 - - [2024-07-04 18:56:35] "GET /web/images/logo.ico HTTP/1.1" 404 884 0.007810
+2024-07-04 18:56:39,623 - INFO - User kassimi@ease.de logged in successfully!
+2024-07-04 18:56:39,941 - INFO - 127.0.0.1 - - [2024-07-04 18:56:39] "GET /views/Dashboard/index.html?user_id=1 HTTP/1.1" 200 15205 0.000978
+2024-07-04 18:56:39,971 - INFO - 127.0.0.1 - - [2024-07-04 18:56:39] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.000975
+2024-07-04 18:56:39,973 - INFO - 127.0.0.1 - - [2024-07-04 18:56:39] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001951
+2024-07-04 18:56:39,976 - INFO - 127.0.0.1 - - [2024-07-04 18:56:39] "GET /images/plus.png HTTP/1.1" 200 45737 0.001930
+2024-07-04 18:56:39,979 - INFO - 127.0.0.1 - - [2024-07-04 18:56:39] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001926
+2024-07-04 18:56:39,983 - INFO - 127.0.0.1 - - [2024-07-04 18:56:39] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.000977
+2024-07-04 18:56:39,984 - INFO - 127.0.0.1 - - [2024-07-04 18:56:39] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 18:56:39,987 - INFO - 127.0.0.1 - - [2024-07-04 18:56:39] "GET /assets/scripts/dashboard.js HTTP/1.1" 200 6422 0.001955
+2024-07-04 18:56:40,372 - INFO - 127.0.0.1 - - [2024-07-04 18:56:40] "GET /views/web/images/logo.ico HTTP/1.1" 404 890 0.001981
+2024-07-04 18:56:40,644 - INFO - Orders fetched successfully!
+2024-07-04 18:56:40,644 - INFO - Fetched orders: []
+2024-07-04 18:56:40,675 - INFO - Users fetched successfully!
+2024-07-04 18:56:40,678 - INFO - Orders fetched successfully!
+2024-07-04 18:56:40,685 - INFO - Group fetched successfully!
+2024-07-04 18:56:40,688 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:56:40,691 - INFO - 127.0.0.1 - - [2024-07-04 18:56:40] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.000977
+2024-07-04 18:56:40,693 - INFO - Group fetched successfully!
+2024-07-04 18:56:40,695 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:56:40,701 - INFO - 127.0.0.1 - - [2024-07-04 18:56:40] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001017
+2024-07-04 18:56:40,704 - INFO - Group fetched successfully!
+2024-07-04 18:56:40,707 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:56:40,718 - INFO - 127.0.0.1 - - [2024-07-04 18:56:40] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.004884
+2024-07-04 18:56:40,722 - INFO - 127.0.0.1 - - [2024-07-04 18:56:40] "GET /images/plus.png HTTP/1.1" 200 45737 0.002938
+2024-07-04 18:56:44,447 - INFO - 127.0.0.1 - - [2024-07-04 18:56:44] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001985
+2024-07-04 18:56:44,452 - INFO - 127.0.0.1 - - [2024-07-04 18:56:44] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001953
+2024-07-04 18:57:29,992 - INFO - 127.0.0.1 - - [2024-07-04 18:57:29] "GET /views/Dashboard/index.html?user_id=1 HTTP/1.1" 200 15205 0.001951
+2024-07-04 18:57:30,013 - INFO - 127.0.0.1 - - [2024-07-04 18:57:30] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001951
+2024-07-04 18:57:30,016 - INFO - 127.0.0.1 - - [2024-07-04 18:57:30] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.000968
+2024-07-04 18:57:30,018 - INFO - 127.0.0.1 - - [2024-07-04 18:57:30] "GET /images/plus.png HTTP/1.1" 200 45737 0.000978
+2024-07-04 18:57:30,022 - INFO - 127.0.0.1 - - [2024-07-04 18:57:30] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001951
+2024-07-04 18:57:30,025 - INFO - 127.0.0.1 - - [2024-07-04 18:57:30] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001954
+2024-07-04 18:57:30,027 - INFO - 127.0.0.1 - - [2024-07-04 18:57:30] "GET /eel.js HTTP/1.1" 200 6792 0.000977
+2024-07-04 18:57:30,031 - INFO - 127.0.0.1 - - [2024-07-04 18:57:30] "GET /assets/scripts/dashboard.js HTTP/1.1" 200 6411 0.001969
+2024-07-04 18:57:30,365 - INFO - Orders fetched successfully!
+2024-07-04 18:57:30,365 - INFO - Fetched orders: []
+2024-07-04 18:57:30,391 - INFO - Users fetched successfully!
+2024-07-04 18:57:30,393 - INFO - Orders fetched successfully!
+2024-07-04 18:57:30,399 - INFO - Group fetched successfully!
+2024-07-04 18:57:30,403 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:57:30,407 - INFO - Group fetched successfully!
+2024-07-04 18:57:30,410 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:57:30,414 - INFO - 127.0.0.1 - - [2024-07-04 18:57:30] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001955
+2024-07-04 18:57:30,416 - INFO - Group fetched successfully!
+2024-07-04 18:57:30,422 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:57:30,427 - INFO - 127.0.0.1 - - [2024-07-04 18:57:30] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001957
+2024-07-04 18:57:30,431 - INFO - 127.0.0.1 - - [2024-07-04 18:57:30] "GET /images/plus.png HTTP/1.1" 200 45737 0.002936
+2024-07-04 18:58:12,089 - INFO - 127.0.0.1 - - [2024-07-04 18:58:12] "GET /views/Dashboard/index.html?user_id=1 HTTP/1.1" 200 15205 0.000977
+2024-07-04 18:58:12,110 - INFO - 127.0.0.1 - - [2024-07-04 18:58:12] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001953
+2024-07-04 18:58:12,118 - INFO - 127.0.0.1 - - [2024-07-04 18:58:12] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001000
+2024-07-04 18:58:12,120 - INFO - 127.0.0.1 - - [2024-07-04 18:58:12] "GET /images/plus.png HTTP/1.1" 200 45737 0.000973
+2024-07-04 18:58:12,123 - INFO - 127.0.0.1 - - [2024-07-04 18:58:12] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001968
+2024-07-04 18:58:12,126 - INFO - 127.0.0.1 - - [2024-07-04 18:58:12] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001954
+2024-07-04 18:58:12,128 - INFO - 127.0.0.1 - - [2024-07-04 18:58:12] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 18:58:12,132 - INFO - 127.0.0.1 - - [2024-07-04 18:58:12] "GET /assets/scripts/dashboard.js HTTP/1.1" 200 6422 0.000975
+2024-07-04 18:58:12,745 - INFO - Orders fetched successfully!
+2024-07-04 18:58:12,746 - INFO - Fetched orders: []
+2024-07-04 18:58:12,767 - INFO - Users fetched successfully!
+2024-07-04 18:58:12,770 - INFO - Orders fetched successfully!
+2024-07-04 18:58:12,772 - INFO - Group fetched successfully!
+2024-07-04 18:58:12,775 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:58:12,781 - INFO - Group fetched successfully!
+2024-07-04 18:58:12,785 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:58:12,789 - INFO - Group fetched successfully!
+2024-07-04 18:58:12,792 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 18:58:12,798 - INFO - 127.0.0.1 - - [2024-07-04 18:58:12] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001959
+2024-07-04 18:58:12,804 - INFO - 127.0.0.1 - - [2024-07-04 18:58:12] "GET /images/plus.png HTTP/1.1" 200 45737 0.001951
+2024-07-04 19:27:27,726 - INFO - 127.0.0.1 - - [2024-07-04 19:27:27] "GET /login.html HTTP/1.1" 200 4360 0.000974
+2024-07-04 19:27:27,984 - INFO - 127.0.0.1 - - [2024-07-04 19:27:27] "GET /assets/styles/login_style.css HTTP/1.1" 200 3596 0.016602
+2024-07-04 19:27:27,986 - INFO - 127.0.0.1 - - [2024-07-04 19:27:27] "GET /eel.js HTTP/1.1" 200 6769 0.000974
+2024-07-04 19:27:28,042 - INFO - 127.0.0.1 - - [2024-07-04 19:27:28] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.002929
+2024-07-04 19:27:28,102 - INFO - 127.0.0.1 - - [2024-07-04 19:27:28] "GET /web/images/logo.ico HTTP/1.1" 404 884 0.007813
+2024-07-04 19:27:33,454 - INFO - User kassimi@ease.de logged in successfully!
+2024-07-04 19:27:33,771 - INFO - 127.0.0.1 - - [2024-07-04 19:27:33] "GET /views/Dashboard/index.html?user_id=1 HTTP/1.1" 200 15205 0.001949
+2024-07-04 19:27:33,813 - INFO - 127.0.0.1 - - [2024-07-04 19:27:33] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.012678
+2024-07-04 19:27:33,826 - INFO - 127.0.0.1 - - [2024-07-04 19:27:33] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.011714
+2024-07-04 19:27:33,832 - INFO - 127.0.0.1 - - [2024-07-04 19:27:33] "GET /images/plus.png HTTP/1.1" 200 45737 0.001938
+2024-07-04 19:27:33,848 - INFO - 127.0.0.1 - - [2024-07-04 19:27:33] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.015625
+2024-07-04 19:27:33,851 - INFO - 127.0.0.1 - - [2024-07-04 19:27:33] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.000954
+2024-07-04 19:27:33,853 - INFO - 127.0.0.1 - - [2024-07-04 19:27:33] "GET /eel.js HTTP/1.1" 200 6769 0.000000
+2024-07-04 19:27:33,856 - INFO - 127.0.0.1 - - [2024-07-04 19:27:33] "GET /assets/scripts/dashboard.js HTTP/1.1" 200 6422 0.000989
+2024-07-04 19:27:34,158 - INFO - 127.0.0.1 - - [2024-07-04 19:27:34] "GET /views/web/images/logo.ico HTTP/1.1" 404 890 0.000000
+2024-07-04 19:27:34,449 - INFO - Orders fetched successfully!
+2024-07-04 19:27:34,449 - INFO - Fetched orders: []
+2024-07-04 19:27:34,450 - INFO - Users fetched successfully!
+2024-07-04 19:27:34,452 - INFO - Orders fetched successfully!
+2024-07-04 19:27:34,455 - INFO - Group fetched successfully!
+2024-07-04 19:27:34,458 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 19:27:34,463 - INFO - 127.0.0.1 - - [2024-07-04 19:27:34] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.002937
+2024-07-04 19:27:34,468 - INFO - Group fetched successfully!
+2024-07-04 19:27:34,473 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 19:27:34,477 - INFO - 127.0.0.1 - - [2024-07-04 19:27:34] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001953
+2024-07-04 19:27:34,483 - INFO - Group fetched successfully!
+2024-07-04 19:27:34,486 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 19:27:34,497 - INFO - 127.0.0.1 - - [2024-07-04 19:27:34] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001925
+2024-07-04 19:27:34,499 - INFO - 127.0.0.1 - - [2024-07-04 19:27:34] "GET /images/plus.png HTTP/1.1" 200 45737 0.001950
+2024-07-04 19:27:38,849 - INFO - 127.0.0.1 - - [2024-07-04 19:27:38] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001940
+2024-07-04 19:27:38,852 - INFO - 127.0.0.1 - - [2024-07-04 19:27:38] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001937
+2024-07-04 19:28:46,970 - INFO - 127.0.0.1 - - [2024-07-04 19:28:46] "GET /login.html HTTP/1.1" 200 4360 0.000973
+2024-07-04 19:28:47,354 - INFO - 127.0.0.1 - - [2024-07-04 19:28:47] "GET /assets/styles/login_style.css HTTP/1.1" 200 3596 0.000990
+2024-07-04 19:28:47,359 - INFO - 127.0.0.1 - - [2024-07-04 19:28:47] "GET /eel.js HTTP/1.1" 200 6792 0.000978
+2024-07-04 19:28:47,420 - INFO - 127.0.0.1 - - [2024-07-04 19:28:47] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001948
+2024-07-04 19:28:47,486 - INFO - 127.0.0.1 - - [2024-07-04 19:28:47] "GET /web/images/logo.ico HTTP/1.1" 404 884 0.010732
+2024-07-04 19:28:56,144 - INFO - User kassimi@ease.de logged in successfully!
+2024-07-04 19:28:56,462 - INFO - 127.0.0.1 - - [2024-07-04 19:28:56] "GET /views/Dashboard/index.html?user_id=1 HTTP/1.1" 200 15205 0.004883
+2024-07-04 19:28:56,490 - INFO - 127.0.0.1 - - [2024-07-04 19:28:56] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001944
+2024-07-04 19:28:56,494 - INFO - 127.0.0.1 - - [2024-07-04 19:28:56] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.002909
+2024-07-04 19:28:56,497 - INFO - 127.0.0.1 - - [2024-07-04 19:28:56] "GET /images/plus.png HTTP/1.1" 200 45737 0.001953
+2024-07-04 19:28:56,500 - INFO - 127.0.0.1 - - [2024-07-04 19:28:56] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001949
+2024-07-04 19:28:56,502 - INFO - 127.0.0.1 - - [2024-07-04 19:28:56] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.000995
+2024-07-04 19:28:56,504 - INFO - 127.0.0.1 - - [2024-07-04 19:28:56] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 19:28:56,507 - INFO - 127.0.0.1 - - [2024-07-04 19:28:56] "GET /assets/scripts/dashboard.js HTTP/1.1" 200 6422 0.001951
+2024-07-04 19:28:56,829 - INFO - 127.0.0.1 - - [2024-07-04 19:28:56] "GET /views/web/images/logo.ico HTTP/1.1" 404 890 0.000000
+2024-07-04 19:28:57,122 - INFO - Orders fetched successfully!
+2024-07-04 19:28:57,122 - INFO - Fetched orders: []
+2024-07-04 19:28:57,142 - INFO - Users fetched successfully!
+2024-07-04 19:28:57,144 - INFO - Orders fetched successfully!
+2024-07-04 19:28:57,147 - INFO - Group fetched successfully!
+2024-07-04 19:28:57,150 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 19:28:57,152 - INFO - 127.0.0.1 - - [2024-07-04 19:28:57] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.000975
+2024-07-04 19:28:57,154 - INFO - Group fetched successfully!
+2024-07-04 19:28:57,156 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 19:28:57,159 - INFO - 127.0.0.1 - - [2024-07-04 19:28:57] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.000976
+2024-07-04 19:28:57,163 - INFO - Group fetched successfully!
+2024-07-04 19:28:57,164 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 19:28:57,169 - INFO - 127.0.0.1 - - [2024-07-04 19:28:57] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.000988
+2024-07-04 19:28:57,172 - INFO - 127.0.0.1 - - [2024-07-04 19:28:57] "GET /images/plus.png HTTP/1.1" 200 45737 0.000982
+2024-07-04 19:30:05,241 - INFO - 127.0.0.1 - - [2024-07-04 19:30:05] "GET /login.html HTTP/1.1" 200 4360 0.001955
+2024-07-04 19:30:05,656 - INFO - 127.0.0.1 - - [2024-07-04 19:30:05] "GET /assets/styles/login_style.css HTTP/1.1" 200 3596 0.001954
+2024-07-04 19:30:05,659 - INFO - 127.0.0.1 - - [2024-07-04 19:30:05] "GET /eel.js HTTP/1.1" 200 6792 0.000976
+2024-07-04 19:30:05,730 - INFO - 127.0.0.1 - - [2024-07-04 19:30:05] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.004925
+2024-07-04 19:30:05,792 - INFO - 127.0.0.1 - - [2024-07-04 19:30:05] "GET /web/images/logo.ico HTTP/1.1" 404 884 0.008787
+2024-07-04 19:30:10,134 - INFO - User kassimi@ease.de logged in successfully!
+2024-07-04 19:30:10,450 - INFO - 127.0.0.1 - - [2024-07-04 19:30:10] "GET /views/Dashboard/index.html?user_id=1 HTTP/1.1" 200 15205 0.001976
+2024-07-04 19:30:10,474 - INFO - 127.0.0.1 - - [2024-07-04 19:30:10] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.000974
+2024-07-04 19:30:10,477 - INFO - 127.0.0.1 - - [2024-07-04 19:30:10] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001952
+2024-07-04 19:30:10,480 - INFO - 127.0.0.1 - - [2024-07-04 19:30:10] "GET /images/plus.png HTTP/1.1" 200 45737 0.001952
+2024-07-04 19:30:10,483 - INFO - 127.0.0.1 - - [2024-07-04 19:30:10] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001954
+2024-07-04 19:30:10,485 - INFO - 127.0.0.1 - - [2024-07-04 19:30:10] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.000994
+2024-07-04 19:30:10,487 - INFO - 127.0.0.1 - - [2024-07-04 19:30:10] "GET /eel.js HTTP/1.1" 200 6792 0.000979
+2024-07-04 19:30:10,489 - INFO - 127.0.0.1 - - [2024-07-04 19:30:10] "GET /assets/scripts/dashboard.js HTTP/1.1" 200 6422 0.000973
+2024-07-04 19:30:10,838 - INFO - 127.0.0.1 - - [2024-07-04 19:30:10] "GET /views/web/images/logo.ico HTTP/1.1" 404 890 0.000974
+2024-07-04 19:30:11,133 - INFO - Orders fetched successfully!
+2024-07-04 19:30:11,133 - INFO - Fetched orders: []
+2024-07-04 19:30:11,138 - INFO - Users fetched successfully!
+2024-07-04 19:30:11,140 - INFO - Orders fetched successfully!
+2024-07-04 19:30:11,145 - INFO - Group fetched successfully!
+2024-07-04 19:30:11,149 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 19:30:11,152 - INFO - 127.0.0.1 - - [2024-07-04 19:30:11] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.000935
+2024-07-04 19:30:11,155 - INFO - Group fetched successfully!
+2024-07-04 19:30:11,159 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 19:30:11,164 - INFO - 127.0.0.1 - - [2024-07-04 19:30:11] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001958
+2024-07-04 19:30:11,167 - INFO - Group fetched successfully!
+2024-07-04 19:30:11,175 - INFO - 127.0.0.1 - - [2024-07-04 19:30:11] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.000976
+2024-07-04 19:30:11,181 - INFO - 127.0.0.1 - - [2024-07-04 19:30:11] "GET /images/plus.png HTTP/1.1" 200 45737 0.001931
+2024-07-04 19:30:13,843 - INFO - 127.0.0.1 - - [2024-07-04 19:30:13] "GET /views/stock/stock.html HTTP/1.1" 200 12404 0.001957
+2024-07-04 19:30:13,906 - INFO - 127.0.0.1 - - [2024-07-04 19:30:13] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.000976
+2024-07-04 19:30:13,912 - INFO - 127.0.0.1 - - [2024-07-04 19:30:13] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001952
+2024-07-04 19:30:13,913 - INFO - 127.0.0.1 - - [2024-07-04 19:30:13] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 19:30:13,916 - INFO - 127.0.0.1 - - [2024-07-04 19:30:13] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001926
+2024-07-04 19:30:13,919 - INFO - 127.0.0.1 - - [2024-07-04 19:30:13] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001919
+2024-07-04 19:30:13,969 - INFO - 127.0.0.1 - - [2024-07-04 19:30:13] "GET /assets/scripts/stock.js HTTP/1.1" 200 5137 0.001956
+2024-07-04 19:30:14,364 - INFO - Orders fetched successfully!
+2024-07-04 19:30:14,364 - INFO - Fetched orders: []
+2024-07-04 19:30:14,365 - INFO - Stock items fetched successfully!
+2024-07-04 19:30:16,291 - INFO - 127.0.0.1 - - [2024-07-04 19:30:16] "GET /views/users/users.html HTTP/1.1" 200 10861 0.001948
+2024-07-04 19:30:16,323 - INFO - 127.0.0.1 - - [2024-07-04 19:30:16] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.000981
+2024-07-04 19:30:16,327 - INFO - 127.0.0.1 - - [2024-07-04 19:30:16] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.000979
+2024-07-04 19:30:16,329 - INFO - 127.0.0.1 - - [2024-07-04 19:30:16] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 19:30:16,332 - INFO - 127.0.0.1 - - [2024-07-04 19:30:16] "GET /assets/scripts/users.js HTTP/1.1" 200 2369 0.001957
+2024-07-04 19:30:16,335 - INFO - 127.0.0.1 - - [2024-07-04 19:30:16] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001984
+2024-07-04 19:30:16,338 - INFO - 127.0.0.1 - - [2024-07-04 19:30:16] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001976
+2024-07-04 19:30:16,359 - INFO - 127.0.0.1 - - [2024-07-04 19:30:16] "GET /favicon.ico HTTP/1.1" 404 876 0.000981
+2024-07-04 19:30:16,645 - INFO - Users fetched successfully!
+2024-07-04 19:30:16,646 - INFO - Orders fetched successfully!
+2024-07-04 19:30:16,647 - INFO - Fetched orders: []
+2024-07-04 19:30:18,099 - INFO - 127.0.0.1 - - [2024-07-04 19:30:18] "GET /views/groups/group.html HTTP/1.1" 200 11642 0.001012
+2024-07-04 19:30:18,129 - INFO - 127.0.0.1 - - [2024-07-04 19:30:18] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.000976
+2024-07-04 19:30:18,131 - INFO - 127.0.0.1 - - [2024-07-04 19:30:18] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001018
+2024-07-04 19:30:18,132 - INFO - 127.0.0.1 - - [2024-07-04 19:30:18] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 19:30:18,135 - INFO - 127.0.0.1 - - [2024-07-04 19:30:18] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001976
+2024-07-04 19:30:18,137 - INFO - 127.0.0.1 - - [2024-07-04 19:30:18] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.000979
+2024-07-04 19:30:18,156 - INFO - 127.0.0.1 - - [2024-07-04 19:30:18] "GET /images/logo.png HTTP/1.1" 200 41568 0.014651
+2024-07-04 19:30:18,159 - INFO - 127.0.0.1 - - [2024-07-04 19:30:18] "GET /assets/scripts/group.js HTTP/1.1" 200 3856 0.001957
+2024-07-04 19:30:18,470 - INFO - Orders fetched successfully!
+2024-07-04 19:30:18,470 - INFO - Fetched orders: []
+2024-07-04 19:30:18,472 - INFO - Groups fetched successfully!
+2024-07-04 19:30:19,500 - INFO - 127.0.0.1 - - [2024-07-04 19:30:19] "GET /views/users/users.html HTTP/1.1" 200 10861 0.000989
+2024-07-04 19:30:19,530 - INFO - 127.0.0.1 - - [2024-07-04 19:30:19] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.000962
+2024-07-04 19:30:19,532 - INFO - 127.0.0.1 - - [2024-07-04 19:30:19] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.000991
+2024-07-04 19:30:19,534 - INFO - 127.0.0.1 - - [2024-07-04 19:30:19] "GET /eel.js HTTP/1.1" 200 6792 0.000975
+2024-07-04 19:30:19,537 - INFO - 127.0.0.1 - - [2024-07-04 19:30:19] "GET /assets/scripts/users.js HTTP/1.1" 200 2369 0.000974
+2024-07-04 19:30:19,540 - INFO - 127.0.0.1 - - [2024-07-04 19:30:19] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.000974
+2024-07-04 19:30:19,542 - INFO - 127.0.0.1 - - [2024-07-04 19:30:19] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.000974
+2024-07-04 19:30:19,848 - INFO - Users fetched successfully!
+2024-07-04 19:30:19,849 - INFO - Orders fetched successfully!
+2024-07-04 19:30:19,849 - INFO - Fetched orders: []
+2024-07-04 19:30:22,028 - INFO - 127.0.0.1 - - [2024-07-04 19:30:22] "GET /views/stock/stock.html HTTP/1.1" 200 12404 0.001944
+2024-07-04 19:30:22,051 - INFO - 127.0.0.1 - - [2024-07-04 19:30:22] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001940
+2024-07-04 19:30:22,055 - INFO - 127.0.0.1 - - [2024-07-04 19:30:22] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.002925
+2024-07-04 19:30:22,058 - INFO - 127.0.0.1 - - [2024-07-04 19:30:22] "GET /eel.js HTTP/1.1" 200 6792 0.001952
+2024-07-04 19:30:22,061 - INFO - 127.0.0.1 - - [2024-07-04 19:30:22] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001955
+2024-07-04 19:30:22,063 - INFO - 127.0.0.1 - - [2024-07-04 19:30:22] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001952
+2024-07-04 19:30:22,068 - INFO - 127.0.0.1 - - [2024-07-04 19:30:22] "GET /assets/scripts/stock.js HTTP/1.1" 200 5137 0.000973
+2024-07-04 19:30:22,381 - INFO - Orders fetched successfully!
+2024-07-04 19:30:22,381 - INFO - Fetched orders: []
+2024-07-04 19:30:22,383 - INFO - Stock items fetched successfully!
+2024-07-04 21:54:32,785 - INFO - 127.0.0.1 - - [2024-07-04 21:54:32] "GET /login.html HTTP/1.1" 200 4360 0.002956
+2024-07-04 21:54:32,989 - INFO - 127.0.0.1 - - [2024-07-04 21:54:32] "GET /assets/styles/login_style.css HTTP/1.1" 200 3596 0.001952
+2024-07-04 21:54:32,993 - INFO - 127.0.0.1 - - [2024-07-04 21:54:32] "GET /eel.js HTTP/1.1" 200 6792 0.001950
+2024-07-04 21:54:33,122 - INFO - 127.0.0.1 - - [2024-07-04 21:54:33] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001970
+2024-07-04 21:54:33,263 - INFO - 127.0.0.1 - - [2024-07-04 21:54:33] "GET /web/images/logo.ico HTTP/1.1" 404 884 0.008692
+2024-07-04 21:54:44,170 - INFO - User kassimi@ease.de logged in successfully!
+2024-07-04 21:54:44,553 - INFO - 127.0.0.1 - - [2024-07-04 21:54:44] "GET /views/Dashboard/index.html?user_id=1 HTTP/1.1" 200 15205 0.000983
+2024-07-04 21:54:44,655 - INFO - 127.0.0.1 - - [2024-07-04 21:54:44] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001952
+2024-07-04 21:54:44,660 - INFO - 127.0.0.1 - - [2024-07-04 21:54:44] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001954
+2024-07-04 21:54:44,664 - INFO - 127.0.0.1 - - [2024-07-04 21:54:44] "GET /images/plus.png HTTP/1.1" 200 45737 0.002928
+2024-07-04 21:54:44,667 - INFO - 127.0.0.1 - - [2024-07-04 21:54:44] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001953
+2024-07-04 21:54:44,670 - INFO - 127.0.0.1 - - [2024-07-04 21:54:44] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001952
+2024-07-04 21:54:44,672 - INFO - 127.0.0.1 - - [2024-07-04 21:54:44] "GET /eel.js HTTP/1.1" 200 6792 0.000975
+2024-07-04 21:54:44,681 - INFO - 127.0.0.1 - - [2024-07-04 21:54:44] "GET /assets/scripts/dashboard.js HTTP/1.1" 200 6422 0.001954
+2024-07-04 21:54:45,576 - INFO - Orders fetched successfully!
+2024-07-04 21:54:45,577 - INFO - Fetched orders: []
+2024-07-04 21:54:45,582 - INFO - Users fetched successfully!
+2024-07-04 21:54:45,587 - INFO - Orders fetched successfully!
+2024-07-04 21:54:45,602 - INFO - Group fetched successfully!
+2024-07-04 21:54:45,609 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 21:54:45,612 - INFO - Group fetched successfully!
+2024-07-04 21:54:45,615 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 21:54:45,618 - INFO - Group fetched successfully!
+2024-07-04 21:54:45,657 - INFO - 127.0.0.1 - - [2024-07-04 21:54:45] "GET /views/web/images/logo.ico HTTP/1.1" 404 890 0.001961
+2024-07-04 21:54:45,664 - INFO - 127.0.0.1 - - [2024-07-04 21:54:45] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001967
+2024-07-04 21:54:45,668 - INFO - 127.0.0.1 - - [2024-07-04 21:54:45] "GET /images/plus.png HTTP/1.1" 200 45737 0.001953
+2024-07-04 21:54:57,694 - INFO - 127.0.0.1 - - [2024-07-04 21:54:57] "GET /views/Tables/tables.html HTTP/1.1" 200 12476 0.001975
+2024-07-04 21:54:57,730 - INFO - 127.0.0.1 - - [2024-07-04 21:54:57] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.002930
+2024-07-04 21:54:57,735 - INFO - 127.0.0.1 - - [2024-07-04 21:54:57] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001961
+2024-07-04 21:54:57,739 - INFO - 127.0.0.1 - - [2024-07-04 21:54:57] "GET /eel.js HTTP/1.1" 200 6792 0.000975
+2024-07-04 21:54:57,743 - INFO - 127.0.0.1 - - [2024-07-04 21:54:57] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.000981
+2024-07-04 21:54:57,748 - INFO - 127.0.0.1 - - [2024-07-04 21:54:57] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.000973
+2024-07-04 21:54:57,752 - INFO - 127.0.0.1 - - [2024-07-04 21:54:57] "GET /assets/scripts/table.js HTTP/1.1" 200 3993 0.001954
+2024-07-04 21:54:58,096 - INFO - Orders fetched successfully!
+2024-07-04 21:54:58,096 - INFO - Fetched orders: []
+2024-07-04 21:54:58,097 - INFO - Tables fetched successfully!
+2024-07-04 21:55:06,518 - INFO - Table T4 added successfully!
+2024-07-04 21:55:07,506 - INFO - Tables fetched successfully!
+2024-07-04 21:55:41,811 - INFO - 127.0.0.1 - - [2024-07-04 21:55:41] "GET /views/products/addproduct.html HTTP/1.1" 200 12032 0.000978
+2024-07-04 21:55:41,829 - INFO - 127.0.0.1 - - [2024-07-04 21:55:41] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.003911
+2024-07-04 21:55:41,835 - INFO - 127.0.0.1 - - [2024-07-04 21:55:41] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.000979
+2024-07-04 21:55:41,837 - INFO - 127.0.0.1 - - [2024-07-04 21:55:41] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 21:55:41,843 - INFO - 127.0.0.1 - - [2024-07-04 21:55:41] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.002928
+2024-07-04 21:55:41,849 - INFO - 127.0.0.1 - - [2024-07-04 21:55:41] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001955
+2024-07-04 21:55:41,852 - INFO - 127.0.0.1 - - [2024-07-04 21:55:41] "GET /assets/scripts/add_product.js HTTP/1.1" 200 1315 0.001953
+2024-07-04 21:55:41,855 - INFO - 127.0.0.1 - - [2024-07-04 21:55:41] "GET /images/logo.png HTTP/1.1" 200 41568 0.001957
+2024-07-04 21:55:42,192 - INFO - Orders fetched successfully!
+2024-07-04 21:55:42,192 - INFO - Fetched orders: []
+2024-07-04 21:55:42,195 - INFO - Categories fetched successfully!
+2024-07-04 21:55:43,391 - INFO - 127.0.0.1 - - [2024-07-04 21:55:43] "GET /views/Orders/orders.html HTTP/1.1" 200 13098 0.000979
+2024-07-04 21:55:43,420 - INFO - 127.0.0.1 - - [2024-07-04 21:55:43] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.000997
+2024-07-04 21:55:43,422 - INFO - 127.0.0.1 - - [2024-07-04 21:55:43] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.000977
+2024-07-04 21:55:43,423 - INFO - 127.0.0.1 - - [2024-07-04 21:55:43] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 21:55:43,425 - INFO - 127.0.0.1 - - [2024-07-04 21:55:43] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001952
+2024-07-04 21:55:43,429 - INFO - 127.0.0.1 - - [2024-07-04 21:55:43] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.002929
+2024-07-04 21:55:43,434 - INFO - 127.0.0.1 - - [2024-07-04 21:55:43] "GET /assets/scripts/order.js HTTP/1.1" 200 4871 0.001950
+2024-07-04 21:55:43,746 - INFO - Orders fetched successfully!
+2024-07-04 21:55:43,747 - INFO - Fetched orders: []
+2024-07-04 21:55:43,749 - INFO - Orders fetched successfully!
+2024-07-04 21:55:44,820 - INFO - 127.0.0.1 - - [2024-07-04 21:55:44] "GET /views/products/products.html HTTP/1.1" 200 10860 0.001948
+2024-07-04 21:55:44,838 - INFO - 127.0.0.1 - - [2024-07-04 21:55:44] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.000977
+2024-07-04 21:55:44,846 - INFO - 127.0.0.1 - - [2024-07-04 21:55:44] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001954
+2024-07-04 21:55:44,848 - INFO - 127.0.0.1 - - [2024-07-04 21:55:44] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 21:55:44,852 - INFO - 127.0.0.1 - - [2024-07-04 21:55:44] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001955
+2024-07-04 21:55:44,856 - INFO - 127.0.0.1 - - [2024-07-04 21:55:44] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.000978
+2024-07-04 21:55:44,860 - INFO - 127.0.0.1 - - [2024-07-04 21:55:44] "GET /assets/scripts/product.js HTTP/1.1" 200 2732 0.000975
+2024-07-04 21:55:45,177 - INFO - Orders fetched successfully!
+2024-07-04 21:55:45,177 - INFO - Fetched orders: []
+2024-07-04 21:55:45,179 - INFO - Products fetched successfully!
+2024-07-04 21:55:48,115 - INFO - 127.0.0.1 - - [2024-07-04 21:55:48] "GET /views/Orders/addorder.html HTTP/1.1" 200 11919 0.001955
+2024-07-04 21:55:48,136 - INFO - 127.0.0.1 - - [2024-07-04 21:55:48] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001955
+2024-07-04 21:55:48,145 - INFO - 127.0.0.1 - - [2024-07-04 21:55:48] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.000978
+2024-07-04 21:55:48,148 - INFO - 127.0.0.1 - - [2024-07-04 21:55:48] "GET /assets/styles/add_style.css HTTP/1.1" 200 1956 0.001950
+2024-07-04 21:55:48,150 - INFO - 127.0.0.1 - - [2024-07-04 21:55:48] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 21:55:48,152 - INFO - 127.0.0.1 - - [2024-07-04 21:55:48] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.000979
+2024-07-04 21:55:48,156 - INFO - 127.0.0.1 - - [2024-07-04 21:55:48] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.002930
+2024-07-04 21:55:48,160 - INFO - 127.0.0.1 - - [2024-07-04 21:55:48] "GET /assets/scripts/add_order.js HTTP/1.1" 200 9728 0.001969
+2024-07-04 21:55:48,484 - INFO - Orders fetched successfully!
+2024-07-04 21:55:48,484 - INFO - Fetched orders: []
+2024-07-04 21:55:48,485 - INFO - Tables fetched successfully!
+2024-07-04 21:55:48,487 - INFO - Products fetched successfully!
+2024-07-04 21:55:49,356 - INFO - Products fetched successfully!
+2024-07-04 21:59:47,614 - INFO - 127.0.0.1 - - [2024-07-04 21:59:47] "GET /views/Orders/orders.html HTTP/1.1" 200 13098 0.002933
+2024-07-04 21:59:47,647 - INFO - 127.0.0.1 - - [2024-07-04 21:59:47] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001952
+2024-07-04 21:59:47,651 - INFO - 127.0.0.1 - - [2024-07-04 21:59:47] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001953
+2024-07-04 21:59:47,653 - INFO - 127.0.0.1 - - [2024-07-04 21:59:47] "GET /eel.js HTTP/1.1" 200 6792 0.000975
+2024-07-04 21:59:47,658 - INFO - 127.0.0.1 - - [2024-07-04 21:59:47] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.002931
+2024-07-04 21:59:47,666 - INFO - 127.0.0.1 - - [2024-07-04 21:59:47] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001955
+2024-07-04 21:59:47,669 - INFO - 127.0.0.1 - - [2024-07-04 21:59:47] "GET /assets/scripts/order.js HTTP/1.1" 200 4871 0.000964
+2024-07-04 21:59:48,001 - INFO - Orders fetched successfully!
+2024-07-04 21:59:48,002 - INFO - Fetched orders: []
+2024-07-04 21:59:48,004 - INFO - Orders fetched successfully!
+2024-07-04 22:15:23,366 - INFO - 127.0.0.1 - - [2024-07-04 22:15:23] "GET /login.html HTTP/1.1" 200 4360 0.001956
+2024-07-04 22:15:23,419 - INFO - 127.0.0.1 - - [2024-07-04 22:15:23] "GET /assets/styles/login_style.css HTTP/1.1" 200 3596 0.000982
+2024-07-04 22:15:23,426 - INFO - 127.0.0.1 - - [2024-07-04 22:15:23] "GET /eel.js HTTP/1.1" 200 6792 0.000975
+2024-07-04 22:15:23,651 - INFO - 127.0.0.1 - - [2024-07-04 22:15:23] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.004880
+2024-07-04 22:15:23,666 - INFO - 127.0.0.1 - - [2024-07-04 22:15:23] "GET /web/images/logo.ico HTTP/1.1" 404 884 0.007844
+2024-07-04 22:15:28,495 - INFO - User kassimi@ease.de logged in successfully!
+2024-07-04 22:15:28,814 - INFO - 127.0.0.1 - - [2024-07-04 22:15:28] "GET /views/Dashboard/index.html?user_id=1 HTTP/1.1" 200 15205 0.001955
+2024-07-04 22:15:28,844 - INFO - 127.0.0.1 - - [2024-07-04 22:15:28] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001954
+2024-07-04 22:15:28,847 - INFO - 127.0.0.1 - - [2024-07-04 22:15:28] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.000978
+2024-07-04 22:15:28,850 - INFO - 127.0.0.1 - - [2024-07-04 22:15:28] "GET /images/plus.png HTTP/1.1" 200 45737 0.001970
+2024-07-04 22:15:28,853 - INFO - 127.0.0.1 - - [2024-07-04 22:15:28] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.000978
+2024-07-04 22:15:28,857 - INFO - 127.0.0.1 - - [2024-07-04 22:15:28] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.002928
+2024-07-04 22:15:28,858 - INFO - 127.0.0.1 - - [2024-07-04 22:15:28] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 22:15:28,867 - INFO - 127.0.0.1 - - [2024-07-04 22:15:28] "GET /assets/scripts/dashboard.js HTTP/1.1" 200 6422 0.001941
+2024-07-04 22:15:29,784 - INFO - 127.0.0.1 - - [2024-07-04 22:15:29] "GET /views/web/images/logo.ico HTTP/1.1" 404 890 0.000977
+2024-07-04 22:15:49,875 - INFO - 127.0.0.1 - - [2024-07-04 22:15:49] "GET /login.html HTTP/1.1" 200 4360 0.000949
+2024-07-04 22:15:50,461 - INFO - 127.0.0.1 - - [2024-07-04 22:15:50] "GET /assets/styles/login_style.css HTTP/1.1" 200 3596 0.000975
+2024-07-04 22:15:50,464 - INFO - 127.0.0.1 - - [2024-07-04 22:15:50] "GET /eel.js HTTP/1.1" 200 6792 0.001951
+2024-07-04 22:15:50,472 - INFO - 127.0.0.1 - - [2024-07-04 22:15:50] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001956
+2024-07-04 22:15:50,645 - INFO - 127.0.0.1 - - [2024-07-04 22:15:50] "GET /web/images/logo.ico HTTP/1.1" 404 884 0.007815
+2024-07-04 22:16:09,405 - INFO - User kassimi@ease.de logged in successfully!
+2024-07-04 22:16:09,722 - INFO - 127.0.0.1 - - [2024-07-04 22:16:09] "GET /views/Dashboard/index.html?user_id=1 HTTP/1.1" 200 15205 0.001033
+2024-07-04 22:16:09,750 - INFO - 127.0.0.1 - - [2024-07-04 22:16:09] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001955
+2024-07-04 22:16:09,754 - INFO - 127.0.0.1 - - [2024-07-04 22:16:09] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.000976
+2024-07-04 22:16:09,757 - INFO - 127.0.0.1 - - [2024-07-04 22:16:09] "GET /images/plus.png HTTP/1.1" 200 45737 0.002932
+2024-07-04 22:16:09,760 - INFO - 127.0.0.1 - - [2024-07-04 22:16:09] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001956
+2024-07-04 22:16:09,763 - INFO - 127.0.0.1 - - [2024-07-04 22:16:09] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001959
+2024-07-04 22:16:09,765 - INFO - 127.0.0.1 - - [2024-07-04 22:16:09] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 22:16:09,766 - INFO - 127.0.0.1 - - [2024-07-04 22:16:09] "GET /assets/scripts/dashboard.js HTTP/1.1" 200 6422 0.000985
+2024-07-04 22:16:10,078 - INFO - 127.0.0.1 - - [2024-07-04 22:16:10] "GET /views/web/images/logo.ico HTTP/1.1" 404 890 0.000973
+2024-07-04 22:16:10,373 - INFO - Orders fetched successfully!
+2024-07-04 22:16:10,373 - INFO - Fetched orders: []
+2024-07-04 22:16:10,378 - INFO - Users fetched successfully!
+2024-07-04 22:16:10,383 - INFO - Orders fetched successfully!
+2024-07-04 22:16:10,388 - INFO - Group fetched successfully!
+2024-07-04 22:16:10,390 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 22:16:10,393 - INFO - 127.0.0.1 - - [2024-07-04 22:16:10] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001959
+2024-07-04 22:16:10,396 - INFO - Group fetched successfully!
+2024-07-04 22:16:10,401 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 22:16:10,404 - INFO - 127.0.0.1 - - [2024-07-04 22:16:10] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.000975
+2024-07-04 22:16:10,407 - INFO - Group fetched successfully!
+2024-07-04 22:16:10,417 - INFO - 127.0.0.1 - - [2024-07-04 22:16:10] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001943
+2024-07-04 22:16:10,421 - INFO - 127.0.0.1 - - [2024-07-04 22:16:10] "GET /images/plus.png HTTP/1.1" 200 45737 0.001962
+2024-07-04 22:16:13,797 - INFO - 127.0.0.1 - - [2024-07-04 22:16:13] "GET /views/products/products.html HTTP/1.1" 200 10860 0.000979
+2024-07-04 22:16:13,826 - INFO - 127.0.0.1 - - [2024-07-04 22:16:13] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.004880
+2024-07-04 22:16:13,831 - INFO - 127.0.0.1 - - [2024-07-04 22:16:13] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001954
+2024-07-04 22:16:13,833 - INFO - 127.0.0.1 - - [2024-07-04 22:16:13] "GET /eel.js HTTP/1.1" 200 6792 0.000977
+2024-07-04 22:16:13,836 - INFO - 127.0.0.1 - - [2024-07-04 22:16:13] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001943
+2024-07-04 22:16:13,840 - INFO - 127.0.0.1 - - [2024-07-04 22:16:13] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001956
+2024-07-04 22:16:13,844 - INFO - 127.0.0.1 - - [2024-07-04 22:16:13] "GET /assets/scripts/product.js HTTP/1.1" 200 2732 0.001963
+2024-07-04 22:16:14,183 - INFO - Orders fetched successfully!
+2024-07-04 22:16:14,183 - INFO - Fetched orders: []
+2024-07-04 22:16:14,185 - INFO - Products fetched successfully!
+2024-07-04 22:16:18,189 - INFO - 127.0.0.1 - - [2024-07-04 22:16:18] "GET /views/products/modproduct.html?product_id=2 HTTP/1.1" 200 11703 0.000974
+2024-07-04 22:16:18,211 - INFO - 127.0.0.1 - - [2024-07-04 22:16:18] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.000979
+2024-07-04 22:16:18,216 - INFO - 127.0.0.1 - - [2024-07-04 22:16:18] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.003906
+2024-07-04 22:16:18,218 - INFO - 127.0.0.1 - - [2024-07-04 22:16:18] "GET /eel.js HTTP/1.1" 200 6792 0.000978
+2024-07-04 22:16:18,221 - INFO - 127.0.0.1 - - [2024-07-04 22:16:18] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001953
+2024-07-04 22:16:18,225 - INFO - 127.0.0.1 - - [2024-07-04 22:16:18] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001955
+2024-07-04 22:16:18,233 - INFO - 127.0.0.1 - - [2024-07-04 22:16:18] "GET /assets/scripts/mod_product.js HTTP/1.1" 200 4006 0.000967
+2024-07-04 22:16:18,542 - INFO - Orders fetched successfully!
+2024-07-04 22:16:18,543 - INFO - Fetched orders: []
+2024-07-04 22:16:18,544 - INFO - Fetched product with ID 2 successfully!
+2024-07-04 22:16:18,546 - INFO - Categories fetched successfully!
+2024-07-04 22:16:23,884 - INFO - Product with ID 2 updated successfully!
+2024-07-04 22:16:26,394 - INFO - 127.0.0.1 - - [2024-07-04 22:16:26] "GET /views/products/products.html HTTP/1.1" 200 10860 0.000977
+2024-07-04 22:16:26,413 - INFO - 127.0.0.1 - - [2024-07-04 22:16:26] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.000979
+2024-07-04 22:16:26,420 - INFO - 127.0.0.1 - - [2024-07-04 22:16:26] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001954
+2024-07-04 22:16:26,423 - INFO - 127.0.0.1 - - [2024-07-04 22:16:26] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 22:16:26,428 - INFO - 127.0.0.1 - - [2024-07-04 22:16:26] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001954
+2024-07-04 22:16:26,431 - INFO - 127.0.0.1 - - [2024-07-04 22:16:26] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.000975
+2024-07-04 22:16:26,434 - INFO - 127.0.0.1 - - [2024-07-04 22:16:26] "GET /assets/scripts/product.js HTTP/1.1" 200 2732 0.000977
+2024-07-04 22:16:26,742 - INFO - Orders fetched successfully!
+2024-07-04 22:16:26,742 - INFO - Fetched orders: []
+2024-07-04 22:16:26,744 - INFO - Products fetched successfully!
+2024-07-04 22:20:14,716 - INFO - 127.0.0.1 - - [2024-07-04 22:20:14] "GET /views/Dashboard/index.html HTTP/1.1" 200 15205 0.003925
+2024-07-04 22:20:14,734 - INFO - 127.0.0.1 - - [2024-07-04 22:20:14] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.000978
+2024-07-04 22:20:14,740 - INFO - 127.0.0.1 - - [2024-07-04 22:20:14] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001952
+2024-07-04 22:20:14,743 - INFO - 127.0.0.1 - - [2024-07-04 22:20:14] "GET /images/plus.png HTTP/1.1" 200 45737 0.001974
+2024-07-04 22:20:14,747 - INFO - 127.0.0.1 - - [2024-07-04 22:20:14] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001961
+2024-07-04 22:20:14,750 - INFO - 127.0.0.1 - - [2024-07-04 22:20:14] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.000982
+2024-07-04 22:20:14,752 - INFO - 127.0.0.1 - - [2024-07-04 22:20:14] "GET /eel.js HTTP/1.1" 200 6792 0.000978
+2024-07-04 22:20:14,756 - INFO - 127.0.0.1 - - [2024-07-04 22:20:14] "GET /assets/scripts/dashboard.js HTTP/1.1" 200 6422 0.000951
+2024-07-04 22:20:15,078 - INFO - Orders fetched successfully!
+2024-07-04 22:20:15,078 - INFO - Fetched orders: []
+2024-07-04 22:20:15,086 - INFO - Users fetched successfully!
+2024-07-04 22:20:15,089 - INFO - Orders fetched successfully!
+2024-07-04 22:20:15,094 - INFO - Group fetched successfully!
+2024-07-04 22:20:15,102 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 22:20:15,105 - INFO - Group fetched successfully!
+2024-07-04 22:20:15,112 - INFO - 127.0.0.1 - - [2024-07-04 22:20:15] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.004882
+2024-07-04 22:20:15,115 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 22:20:15,120 - INFO - Group fetched successfully!
+2024-07-04 22:20:15,131 - INFO - 127.0.0.1 - - [2024-07-04 22:20:15] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001954
+2024-07-04 22:20:15,135 - INFO - 127.0.0.1 - - [2024-07-04 22:20:15] "GET /images/plus.png HTTP/1.1" 200 45737 0.001954
+2024-07-04 22:20:22,233 - INFO - 127.0.0.1 - - [2024-07-04 22:20:22] "GET /views/stock/stock.html HTTP/1.1" 200 12404 0.001953
+2024-07-04 22:20:22,263 - INFO - 127.0.0.1 - - [2024-07-04 22:20:22] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001952
+2024-07-04 22:20:22,265 - INFO - 127.0.0.1 - - [2024-07-04 22:20:22] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.000977
+2024-07-04 22:20:22,267 - INFO - 127.0.0.1 - - [2024-07-04 22:20:22] "GET /eel.js HTTP/1.1" 200 6792 0.000976
+2024-07-04 22:20:22,269 - INFO - 127.0.0.1 - - [2024-07-04 22:20:22] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.000976
+2024-07-04 22:20:22,273 - INFO - 127.0.0.1 - - [2024-07-04 22:20:22] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.002932
+2024-07-04 22:20:22,277 - INFO - 127.0.0.1 - - [2024-07-04 22:20:22] "GET /assets/scripts/stock.js HTTP/1.1" 200 5137 0.001955
+2024-07-04 22:20:22,586 - INFO - Orders fetched successfully!
+2024-07-04 22:20:22,586 - INFO - Fetched orders: []
+2024-07-04 22:20:22,588 - INFO - Stock items fetched successfully!
+2024-07-04 22:20:22,919 - INFO - 127.0.0.1 - - [2024-07-04 22:20:22] "GET /views/users/users.html HTTP/1.1" 200 10861 0.001954
+2024-07-04 22:20:22,944 - INFO - 127.0.0.1 - - [2024-07-04 22:20:22] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.002941
+2024-07-04 22:20:22,947 - INFO - 127.0.0.1 - - [2024-07-04 22:20:22] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001954
+2024-07-04 22:20:22,948 - INFO - 127.0.0.1 - - [2024-07-04 22:20:22] "GET /eel.js HTTP/1.1" 200 6792 0.000983
+2024-07-04 22:20:22,951 - INFO - 127.0.0.1 - - [2024-07-04 22:20:22] "GET /assets/scripts/users.js HTTP/1.1" 200 2369 0.001954
+2024-07-04 22:20:22,958 - INFO - 127.0.0.1 - - [2024-07-04 22:20:22] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.004888
+2024-07-04 22:20:22,961 - INFO - 127.0.0.1 - - [2024-07-04 22:20:22] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001957
+2024-07-04 22:20:22,980 - INFO - 127.0.0.1 - - [2024-07-04 22:20:22] "GET /favicon.ico HTTP/1.1" 404 876 0.000977
+2024-07-04 22:20:23,267 - INFO - Users fetched successfully!
+2024-07-04 22:20:23,269 - INFO - Orders fetched successfully!
+2024-07-04 22:20:23,270 - INFO - Fetched orders: []
+2024-07-04 22:20:25,986 - INFO - 127.0.0.1 - - [2024-07-04 22:20:25] "GET /views/users/moduser.html?user_id=1 HTTP/1.1" 200 12310 0.001957
+2024-07-04 22:20:26,014 - INFO - 127.0.0.1 - - [2024-07-04 22:20:26] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001952
+2024-07-04 22:20:26,018 - INFO - 127.0.0.1 - - [2024-07-04 22:20:26] "GET /assets/styles/add_style.css HTTP/1.1" 200 1956 0.001951
+2024-07-04 22:20:26,020 - INFO - 127.0.0.1 - - [2024-07-04 22:20:26] "GET /eel.js HTTP/1.1" 200 6792 0.000977
+2024-07-04 22:20:26,023 - INFO - 127.0.0.1 - - [2024-07-04 22:20:26] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.000976
+2024-07-04 22:20:26,026 - INFO - 127.0.0.1 - - [2024-07-04 22:20:26] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001953
+2024-07-04 22:20:26,031 - INFO - 127.0.0.1 - - [2024-07-04 22:20:26] "GET /assets/scripts/mod_user.js HTTP/1.1" 200 3444 0.001926
+2024-07-04 22:20:26,355 - INFO - Orders fetched successfully!
+2024-07-04 22:20:26,355 - INFO - Fetched orders: []
+2024-07-04 22:20:26,357 - INFO - User 1 fetched successfully!
+2024-07-04 22:20:26,359 - INFO - Groups fetched successfully!
+2024-07-04 22:20:31,241 - INFO - User 1 updated successfully!
+2024-07-04 22:20:34,162 - INFO - 127.0.0.1 - - [2024-07-04 22:20:34] "GET /views/Dashboard/index.html HTTP/1.1" 200 15205 0.000978
+2024-07-04 22:20:34,180 - INFO - 127.0.0.1 - - [2024-07-04 22:20:34] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.000991
+2024-07-04 22:20:34,184 - INFO - 127.0.0.1 - - [2024-07-04 22:20:34] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.002930
+2024-07-04 22:20:34,192 - INFO - 127.0.0.1 - - [2024-07-04 22:20:34] "GET /images/plus.png HTTP/1.1" 200 45737 0.002918
+2024-07-04 22:20:34,195 - INFO - 127.0.0.1 - - [2024-07-04 22:20:34] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001949
+2024-07-04 22:20:34,198 - INFO - 127.0.0.1 - - [2024-07-04 22:20:34] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001935
+2024-07-04 22:20:34,199 - INFO - 127.0.0.1 - - [2024-07-04 22:20:34] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 22:20:34,203 - INFO - 127.0.0.1 - - [2024-07-04 22:20:34] "GET /assets/scripts/dashboard.js HTTP/1.1" 200 6422 0.001953
+2024-07-04 22:20:34,529 - INFO - Orders fetched successfully!
+2024-07-04 22:20:34,529 - INFO - Fetched orders: []
+2024-07-04 22:20:34,537 - INFO - Users fetched successfully!
+2024-07-04 22:20:34,540 - INFO - Orders fetched successfully!
+2024-07-04 22:20:34,544 - INFO - Group fetched successfully!
+2024-07-04 22:20:34,549 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 22:20:34,551 - INFO - Group fetched successfully!
+2024-07-04 22:20:34,556 - INFO - 127.0.0.1 - - [2024-07-04 22:20:34] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001920
+2024-07-04 22:20:34,559 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 22:20:34,563 - INFO - Group fetched successfully!
+2024-07-04 22:20:34,569 - INFO - 127.0.0.1 - - [2024-07-04 22:20:34] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001954
+2024-07-04 22:20:34,575 - INFO - 127.0.0.1 - - [2024-07-04 22:20:34] "GET /images/plus.png HTTP/1.1" 200 45737 0.002863
+2024-07-04 22:24:27,821 - INFO - 127.0.0.1 - - [2024-07-04 22:24:27] "GET /views/Orders/orders.html HTTP/1.1" 200 13098 0.003903
+2024-07-04 22:24:27,849 - INFO - 127.0.0.1 - - [2024-07-04 22:24:27] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001959
+2024-07-04 22:24:27,851 - INFO - 127.0.0.1 - - [2024-07-04 22:24:27] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.000991
+2024-07-04 22:24:27,854 - INFO - 127.0.0.1 - - [2024-07-04 22:24:27] "GET /eel.js HTTP/1.1" 200 6792 0.000982
+2024-07-04 22:24:27,857 - INFO - 127.0.0.1 - - [2024-07-04 22:24:27] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001953
+2024-07-04 22:24:27,862 - INFO - 127.0.0.1 - - [2024-07-04 22:24:27] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001968
+2024-07-04 22:24:27,867 - INFO - 127.0.0.1 - - [2024-07-04 22:24:27] "GET /assets/scripts/order.js HTTP/1.1" 200 4871 0.001956
+2024-07-04 22:24:28,233 - INFO - Orders fetched successfully!
+2024-07-04 22:24:28,233 - INFO - Fetched orders: []
+2024-07-04 22:24:28,236 - INFO - Orders fetched successfully!
+2024-07-04 22:27:39,855 - INFO - 127.0.0.1 - - [2024-07-04 22:27:39] "GET /views/products/products.html HTTP/1.1" 200 10860 0.004907
+2024-07-04 22:27:39,879 - INFO - 127.0.0.1 - - [2024-07-04 22:27:39] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.000975
+2024-07-04 22:27:39,882 - INFO - 127.0.0.1 - - [2024-07-04 22:27:39] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001953
+2024-07-04 22:27:39,884 - INFO - 127.0.0.1 - - [2024-07-04 22:27:39] "GET /eel.js HTTP/1.1" 200 6792 0.000999
+2024-07-04 22:27:39,887 - INFO - 127.0.0.1 - - [2024-07-04 22:27:39] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001020
+2024-07-04 22:27:39,892 - INFO - 127.0.0.1 - - [2024-07-04 22:27:39] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.000985
+2024-07-04 22:27:39,896 - INFO - 127.0.0.1 - - [2024-07-04 22:27:39] "GET /assets/scripts/product.js HTTP/1.1" 200 2732 0.001952
+2024-07-04 22:27:40,212 - INFO - Orders fetched successfully!
+2024-07-04 22:27:40,212 - INFO - Fetched orders: []
+2024-07-04 22:27:40,214 - INFO - Products fetched successfully!
+2024-07-04 22:27:40,784 - INFO - 127.0.0.1 - - [2024-07-04 22:27:40] "GET /views/Orders/orders.html HTTP/1.1" 200 13098 0.000977
+2024-07-04 22:27:40,803 - INFO - 127.0.0.1 - - [2024-07-04 22:27:40] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001978
+2024-07-04 22:27:40,808 - INFO - 127.0.0.1 - - [2024-07-04 22:27:40] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.000975
+2024-07-04 22:27:40,812 - INFO - 127.0.0.1 - - [2024-07-04 22:27:40] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 22:27:40,815 - INFO - 127.0.0.1 - - [2024-07-04 22:27:40] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.002043
+2024-07-04 22:27:40,818 - INFO - 127.0.0.1 - - [2024-07-04 22:27:40] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.000976
+2024-07-04 22:27:40,821 - INFO - 127.0.0.1 - - [2024-07-04 22:27:40] "GET /assets/scripts/order.js HTTP/1.1" 200 4871 0.001951
+2024-07-04 22:27:41,132 - INFO - Orders fetched successfully!
+2024-07-04 22:27:41,132 - INFO - Fetched orders: []
+2024-07-04 22:27:41,134 - INFO - Orders fetched successfully!
+2024-07-04 22:54:02,783 - INFO - 127.0.0.1 - - [2024-07-04 22:54:02] "GET /views/Dashboard/index.html HTTP/1.1" 200 15205 0.003990
+2024-07-04 22:54:02,805 - INFO - 127.0.0.1 - - [2024-07-04 22:54:02] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.002000
+2024-07-04 22:54:02,810 - INFO - 127.0.0.1 - - [2024-07-04 22:54:02] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.002003
+2024-07-04 22:54:02,814 - INFO - 127.0.0.1 - - [2024-07-04 22:54:02] "GET /images/plus.png HTTP/1.1" 200 45737 0.001989
+2024-07-04 22:54:02,818 - INFO - 127.0.0.1 - - [2024-07-04 22:54:02] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001040
+2024-07-04 22:54:02,822 - INFO - 127.0.0.1 - - [2024-07-04 22:54:02] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.003001
+2024-07-04 22:54:02,827 - INFO - 127.0.0.1 - - [2024-07-04 22:54:02] "GET /eel.js HTTP/1.1" 200 6792 0.000949
+2024-07-04 22:54:02,830 - INFO - 127.0.0.1 - - [2024-07-04 22:54:02] "GET /assets/scripts/dashboard.js HTTP/1.1" 200 6422 0.002001
+2024-07-04 22:54:03,353 - INFO - Orders fetched successfully!
+2024-07-04 22:54:03,353 - INFO - Fetched orders: []
+2024-07-04 22:54:03,358 - INFO - Users fetched successfully!
+2024-07-04 22:54:03,360 - INFO - Orders fetched successfully!
+2024-07-04 22:54:03,364 - INFO - Group fetched successfully!
+2024-07-04 22:54:03,369 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 22:54:03,373 - INFO - 127.0.0.1 - - [2024-07-04 22:54:03] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.002012
+2024-07-04 22:54:03,375 - INFO - Group fetched successfully!
+2024-07-04 22:54:03,379 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 22:54:03,381 - INFO - 127.0.0.1 - - [2024-07-04 22:54:03] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001002
+2024-07-04 22:54:03,385 - INFO - Group fetched successfully!
+2024-07-04 22:54:03,394 - INFO - 127.0.0.1 - - [2024-07-04 22:54:03] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001974
+2024-07-04 22:54:03,400 - INFO - 127.0.0.1 - - [2024-07-04 22:54:03] "GET /images/plus.png HTTP/1.1" 200 45737 0.003011
+2024-07-04 22:54:54,646 - INFO - 127.0.0.1 - - [2024-07-04 22:54:54] "GET /views/Orders/orders.html HTTP/1.1" 200 13098 0.000986
+2024-07-04 22:54:54,675 - INFO - 127.0.0.1 - - [2024-07-04 22:54:54] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.000997
+2024-07-04 22:54:54,678 - INFO - 127.0.0.1 - - [2024-07-04 22:54:54] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001009
+2024-07-04 22:54:54,679 - INFO - 127.0.0.1 - - [2024-07-04 22:54:54] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 22:54:54,681 - INFO - 127.0.0.1 - - [2024-07-04 22:54:54] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001000
+2024-07-04 22:54:54,684 - INFO - 127.0.0.1 - - [2024-07-04 22:54:54] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001997
+2024-07-04 22:54:54,689 - INFO - 127.0.0.1 - - [2024-07-04 22:54:54] "GET /assets/scripts/order.js HTTP/1.1" 200 4871 0.002005
+2024-07-04 22:54:55,017 - INFO - Orders fetched successfully!
+2024-07-04 22:54:55,017 - INFO - Fetched orders: []
+2024-07-04 22:54:55,019 - INFO - Orders fetched successfully!
+2024-07-04 22:55:02,256 - INFO - Order updated successfully!
+2024-07-04 22:55:03,358 - INFO - Orders fetched successfully!
+2024-07-04 22:55:04,276 - INFO - 127.0.0.1 - - [2024-07-04 22:55:04] "GET /views/Dashboard/index.html HTTP/1.1" 200 15205 0.004994
+2024-07-04 22:55:04,296 - INFO - 127.0.0.1 - - [2024-07-04 22:55:04] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001001
+2024-07-04 22:55:04,300 - INFO - 127.0.0.1 - - [2024-07-04 22:55:04] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001003
+2024-07-04 22:55:04,304 - INFO - 127.0.0.1 - - [2024-07-04 22:55:04] "GET /images/plus.png HTTP/1.1" 200 45737 0.002998
+2024-07-04 22:55:04,306 - INFO - 127.0.0.1 - - [2024-07-04 22:55:04] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.000963
+2024-07-04 22:55:04,308 - INFO - 127.0.0.1 - - [2024-07-04 22:55:04] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001002
+2024-07-04 22:55:04,310 - INFO - 127.0.0.1 - - [2024-07-04 22:55:04] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-04 22:55:04,313 - INFO - 127.0.0.1 - - [2024-07-04 22:55:04] "GET /assets/scripts/dashboard.js HTTP/1.1" 200 6422 0.002000
+2024-07-04 22:55:04,634 - INFO - Orders fetched successfully!
+2024-07-04 22:55:04,634 - INFO - Fetched orders: [(1, 1, 1, '2024-07-01 16:22:21', 48.0, 1.44, 6.24, 0.0, 'Cheque', 'Not Paid', 55.68)]
+2024-07-04 22:55:04,640 - INFO - Users fetched successfully!
+2024-07-04 22:55:04,643 - INFO - Orders fetched successfully!
+2024-07-04 22:55:04,648 - INFO - Group fetched successfully!
+2024-07-04 22:55:04,650 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 22:55:04,655 - INFO - 127.0.0.1 - - [2024-07-04 22:55:04] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001993
+2024-07-04 22:55:04,658 - INFO - Group fetched successfully!
+2024-07-04 22:55:04,663 - INFO - Table name for ID 1 fetched successfully!
+2024-07-04 22:55:04,667 - INFO - Group fetched successfully!
+2024-07-04 22:55:04,680 - INFO - 127.0.0.1 - - [2024-07-04 22:55:04] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.008000
+2024-07-04 22:55:04,689 - INFO - 127.0.0.1 - - [2024-07-04 22:55:04] "GET /images/plus.png HTTP/1.1" 200 45737 0.005993
+2024-07-05 01:49:11,990 - INFO - 127.0.0.1 - - [2024-07-05 01:49:11] "GET /views/Orders/orders.html HTTP/1.1" 200 13098 0.030998
+2024-07-05 01:49:12,132 - INFO - 127.0.0.1 - - [2024-07-05 01:49:12] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.005035
+2024-07-05 01:49:12,136 - INFO - 127.0.0.1 - - [2024-07-05 01:49:12] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.002000
+2024-07-05 01:49:12,139 - INFO - 127.0.0.1 - - [2024-07-05 01:49:12] "GET /eel.js HTTP/1.1" 200 6792 0.001999
+2024-07-05 01:49:12,143 - INFO - 127.0.0.1 - - [2024-07-05 01:49:12] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.002002
+2024-07-05 01:49:12,149 - INFO - 127.0.0.1 - - [2024-07-05 01:49:12] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.004980
+2024-07-05 01:49:12,167 - INFO - 127.0.0.1 - - [2024-07-05 01:49:12] "GET /assets/scripts/order.js HTTP/1.1" 200 4871 0.006997
+2024-07-05 01:49:12,639 - INFO - Orders fetched successfully!
+2024-07-05 01:49:12,640 - INFO - Fetched orders: [(1, 1, 1, '2024-07-01 16:22:21', 48.0, 1.44, 6.24, 0.0, 'Cheque', 'Not Paid', 55.68)]
+2024-07-05 01:49:12,641 - INFO - Orders fetched successfully!
+2024-07-05 01:49:18,087 - INFO - 127.0.0.1 - - [2024-07-05 01:49:18] "GET /views/Orders/orders.html HTTP/1.1" 200 13098 0.001002
+2024-07-05 01:49:18,126 - INFO - 127.0.0.1 - - [2024-07-05 01:49:18] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.005000
+2024-07-05 01:49:18,132 - INFO - 127.0.0.1 - - [2024-07-05 01:49:18] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001005
+2024-07-05 01:49:18,135 - INFO - 127.0.0.1 - - [2024-07-05 01:49:18] "GET /eel.js HTTP/1.1" 200 6792 0.000998
+2024-07-05 01:49:18,137 - INFO - 127.0.0.1 - - [2024-07-05 01:49:18] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.002000
+2024-07-05 01:49:18,139 - INFO - 127.0.0.1 - - [2024-07-05 01:49:18] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.000999
+2024-07-05 01:49:18,150 - INFO - 127.0.0.1 - - [2024-07-05 01:49:18] "GET /assets/scripts/order.js HTTP/1.1" 200 4871 0.001004
+2024-07-05 01:49:18,490 - INFO - Orders fetched successfully!
+2024-07-05 01:49:18,490 - INFO - Fetched orders: [(1, 1, 1, '2024-07-01 16:22:21', 48.0, 1.44, 6.24, 0.0, 'Cheque', 'Not Paid', 55.68)]
+2024-07-05 01:49:18,492 - INFO - Orders fetched successfully!
+2024-07-05 01:59:11,270 - INFO - 127.0.0.1 - - [2024-07-05 01:59:11] "GET /views/Orders/orders.html HTTP/1.1" 200 13098 0.002001
+2024-07-05 01:59:11,290 - INFO - 127.0.0.1 - - [2024-07-05 01:59:11] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.002005
+2024-07-05 01:59:11,295 - INFO - 127.0.0.1 - - [2024-07-05 01:59:11] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001999
+2024-07-05 01:59:11,296 - INFO - 127.0.0.1 - - [2024-07-05 01:59:11] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-05 01:59:11,301 - INFO - 127.0.0.1 - - [2024-07-05 01:59:11] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.002002
+2024-07-05 01:59:11,303 - INFO - 127.0.0.1 - - [2024-07-05 01:59:11] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.000998
+2024-07-05 01:59:11,309 - INFO - 127.0.0.1 - - [2024-07-05 01:59:11] "GET /assets/scripts/order.js HTTP/1.1" 200 4871 0.001997
+2024-07-05 01:59:11,629 - INFO - Orders fetched successfully!
+2024-07-05 01:59:11,630 - INFO - Fetched orders: [(1, 1, 1, '2024-07-01 16:22:21', 48.0, 1.44, 6.24, 0.0, 'Cheque', 'Not Paid', 55.68), (3, 1, 1, '2024-07-05 00:51:36', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48)]
+2024-07-05 01:59:11,631 - INFO - Orders fetched successfully!
+2024-07-05 01:59:32,822 - INFO - 127.0.0.1 - - [2024-07-05 01:59:32] "GET /views/Orders/orders.html HTTP/1.1" 200 13098 0.000975
+2024-07-05 01:59:32,846 - INFO - 127.0.0.1 - - [2024-07-05 01:59:32] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.002005
+2024-07-05 01:59:32,853 - INFO - 127.0.0.1 - - [2024-07-05 01:59:32] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.000997
+2024-07-05 01:59:32,855 - INFO - 127.0.0.1 - - [2024-07-05 01:59:32] "GET /eel.js HTTP/1.1" 200 6792 0.001002
+2024-07-05 01:59:32,857 - INFO - 127.0.0.1 - - [2024-07-05 01:59:32] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001003
+2024-07-05 01:59:32,861 - INFO - 127.0.0.1 - - [2024-07-05 01:59:32] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.002026
+2024-07-05 01:59:32,869 - INFO - 127.0.0.1 - - [2024-07-05 01:59:32] "GET /assets/scripts/order.js HTTP/1.1" 200 4871 0.001999
+2024-07-05 01:59:33,207 - INFO - Orders fetched successfully!
+2024-07-05 01:59:33,208 - INFO - Fetched orders: [(1, 1, 1, '2024-07-01 16:22:21', 48.0, 1.44, 6.24, 0.0, 'Cheque', 'Not Paid', 55.68), (3, 1, 1, '2024-07-05 00:51:36', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48)]
+2024-07-05 01:59:33,212 - INFO - Orders fetched successfully!
+2024-07-05 02:00:14,346 - INFO - 127.0.0.1 - - [2024-07-05 02:00:14] "GET /views/Orders/orders.html HTTP/1.1" 200 13098 0.002002
+2024-07-05 02:00:14,373 - INFO - 127.0.0.1 - - [2024-07-05 02:00:14] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.003998
+2024-07-05 02:00:14,378 - INFO - 127.0.0.1 - - [2024-07-05 02:00:14] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.000998
+2024-07-05 02:00:14,380 - INFO - 127.0.0.1 - - [2024-07-05 02:00:14] "GET /eel.js HTTP/1.1" 200 6792 0.001004
+2024-07-05 02:00:14,383 - INFO - 127.0.0.1 - - [2024-07-05 02:00:14] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001000
+2024-07-05 02:00:14,387 - INFO - 127.0.0.1 - - [2024-07-05 02:00:14] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.002001
+2024-07-05 02:00:14,397 - INFO - 127.0.0.1 - - [2024-07-05 02:00:14] "GET /assets/scripts/order.js HTTP/1.1" 200 4871 0.000998
+2024-07-05 02:00:14,729 - INFO - Orders fetched successfully!
+2024-07-05 02:00:14,729 - INFO - Fetched orders: [(1, 1, 1, '2024-07-01 16:22:21', 48.0, 1.44, 6.24, 0.0, 'Cheque', 'Not Paid', 55.68), (3, 1, 1, '2024-07-05 00:51:36', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48)]
+2024-07-05 02:00:14,731 - INFO - Orders fetched successfully!
+2024-07-05 02:00:21,887 - INFO - 127.0.0.1 - - [2024-07-05 02:00:21] "GET /views/Orders/addorder.html HTTP/1.1" 200 11919 0.006104
+2024-07-05 02:00:21,918 - INFO - 127.0.0.1 - - [2024-07-05 02:00:21] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.004997
+2024-07-05 02:00:21,923 - INFO - 127.0.0.1 - - [2024-07-05 02:00:21] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.000998
+2024-07-05 02:00:21,925 - INFO - 127.0.0.1 - - [2024-07-05 02:00:21] "GET /assets/styles/add_style.css HTTP/1.1" 200 1956 0.001996
+2024-07-05 02:00:21,927 - INFO - 127.0.0.1 - - [2024-07-05 02:00:21] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-05 02:00:21,930 - INFO - 127.0.0.1 - - [2024-07-05 02:00:21] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001999
+2024-07-05 02:00:21,936 - INFO - 127.0.0.1 - - [2024-07-05 02:00:21] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.002973
+2024-07-05 02:00:21,940 - INFO - 127.0.0.1 - - [2024-07-05 02:00:21] "GET /assets/scripts/add_order.js HTTP/1.1" 200 9728 0.001999
+2024-07-05 02:00:22,277 - INFO - Orders fetched successfully!
+2024-07-05 02:00:22,277 - INFO - Fetched orders: [(1, 1, 1, '2024-07-01 16:22:21', 48.0, 1.44, 6.24, 0.0, 'Cheque', 'Not Paid', 55.68), (3, 1, 1, '2024-07-05 00:51:36', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48)]
+2024-07-05 02:00:22,281 - INFO - Tables fetched successfully!
+2024-07-05 02:00:22,283 - INFO - Products fetched successfully!
+2024-07-05 02:00:22,742 - INFO - 127.0.0.1 - - [2024-07-05 02:00:22] "GET /views/Orders/orders.html HTTP/1.1" 200 13098 0.001000
+2024-07-05 02:00:22,776 - INFO - 127.0.0.1 - - [2024-07-05 02:00:22] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.002001
+2024-07-05 02:00:22,779 - INFO - 127.0.0.1 - - [2024-07-05 02:00:22] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001001
+2024-07-05 02:00:22,780 - INFO - 127.0.0.1 - - [2024-07-05 02:00:22] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-05 02:00:22,782 - INFO - 127.0.0.1 - - [2024-07-05 02:00:22] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.000999
+2024-07-05 02:00:22,785 - INFO - 127.0.0.1 - - [2024-07-05 02:00:22] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001999
+2024-07-05 02:00:22,849 - INFO - 127.0.0.1 - - [2024-07-05 02:00:22] "GET /assets/scripts/order.js HTTP/1.1" 200 4871 0.003965
+2024-07-05 02:00:23,171 - INFO - Orders fetched successfully!
+2024-07-05 02:00:23,171 - INFO - Fetched orders: [(1, 1, 1, '2024-07-01 16:22:21', 48.0, 1.44, 6.24, 0.0, 'Cheque', 'Not Paid', 55.68), (3, 1, 1, '2024-07-05 00:51:36', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48)]
+2024-07-05 02:00:23,173 - INFO - Orders fetched successfully!
+2024-07-05 02:00:42,416 - INFO - 127.0.0.1 - - [2024-07-05 02:00:42] "GET /views/Orders/orders.html HTTP/1.1" 200 13098 0.003000
+2024-07-05 02:00:42,439 - INFO - 127.0.0.1 - - [2024-07-05 02:00:42] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.000996
+2024-07-05 02:00:42,447 - INFO - 127.0.0.1 - - [2024-07-05 02:00:42] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.006027
+2024-07-05 02:00:42,451 - INFO - 127.0.0.1 - - [2024-07-05 02:00:42] "GET /eel.js HTTP/1.1" 200 6792 0.000993
+2024-07-05 02:00:42,454 - INFO - 127.0.0.1 - - [2024-07-05 02:00:42] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.002002
+2024-07-05 02:00:42,457 - INFO - 127.0.0.1 - - [2024-07-05 02:00:42] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.002002
+2024-07-05 02:00:42,460 - INFO - 127.0.0.1 - - [2024-07-05 02:00:42] "GET /assets/scripts/order.js HTTP/1.1" 200 4871 0.000998
+2024-07-05 02:00:42,780 - INFO - Orders fetched successfully!
+2024-07-05 02:00:42,780 - INFO - Fetched orders: [(1, 1, 1, '2024-07-01 16:22:21', 48.0, 1.44, 6.24, 0.0, 'Cheque', 'Not Paid', 55.68), (3, 1, 1, '2024-07-05 00:51:36', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48)]
+2024-07-05 02:00:42,782 - INFO - Orders fetched successfully!
+2024-07-05 02:01:13,118 - INFO - 127.0.0.1 - - [2024-07-05 02:01:13] "GET /views/Orders/orders.html HTTP/1.1" 200 13098 0.001997
+2024-07-05 02:01:13,149 - INFO - 127.0.0.1 - - [2024-07-05 02:01:13] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001999
+2024-07-05 02:01:13,151 - INFO - 127.0.0.1 - - [2024-07-05 02:01:13] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001041
+2024-07-05 02:01:13,153 - INFO - 127.0.0.1 - - [2024-07-05 02:01:13] "GET /eel.js HTTP/1.1" 200 6792 0.001001
+2024-07-05 02:01:13,156 - INFO - 127.0.0.1 - - [2024-07-05 02:01:13] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.003000
+2024-07-05 02:01:13,160 - INFO - 127.0.0.1 - - [2024-07-05 02:01:13] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.002970
+2024-07-05 02:01:13,167 - INFO - 127.0.0.1 - - [2024-07-05 02:01:13] "GET /assets/scripts/order.js HTTP/1.1" 200 4871 0.002007
+2024-07-05 02:01:13,499 - INFO - Orders fetched successfully!
+2024-07-05 02:01:13,499 - INFO - Fetched orders: [(1, 1, 1, '2024-07-01 16:22:21', 48.0, 1.44, 6.24, 0.0, 'Cheque', 'Not Paid', 55.68), (3, 1, 1, '2024-07-05 00:51:36', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48), (4, 1, 1, '2024-07-05 01:01:08', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48)]
+2024-07-05 02:01:13,501 - INFO - Orders fetched successfully!
+2024-07-05 02:13:42,187 - INFO - 127.0.0.1 - - [2024-07-05 02:13:42] "GET /login.html HTTP/1.1" 200 4360 0.003002
+2024-07-05 02:13:42,478 - INFO - 127.0.0.1 - - [2024-07-05 02:13:42] "GET /assets/styles/login_style.css HTTP/1.1" 200 3596 0.001995
+2024-07-05 02:13:42,480 - INFO - 127.0.0.1 - - [2024-07-05 02:13:42] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-05 02:13:42,538 - INFO - 127.0.0.1 - - [2024-07-05 02:13:42] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.000993
+2024-07-05 02:13:42,596 - INFO - 127.0.0.1 - - [2024-07-05 02:13:42] "GET /web/images/logo.ico HTTP/1.1" 404 884 0.007001
+2024-07-05 02:13:47,233 - WARNING - Invalid login attempt for user kassimi@ease.de
+2024-07-05 02:13:53,805 - WARNING - Invalid login attempt for user kassimi@ease.de
+2024-07-05 02:13:57,693 - WARNING - Invalid login attempt for user kassimi@ease.de
+2024-07-05 02:14:06,109 - WARNING - Invalid login attempt for user kassimi@ease.de
+2024-07-05 02:14:32,428 - INFO - 127.0.0.1 - - [2024-07-05 02:14:32] "GET /login.html HTTP/1.1" 200 4360 0.002002
+2024-07-05 02:14:32,606 - INFO - 127.0.0.1 - - [2024-07-05 02:14:32] "GET /assets/styles/login_style.css HTTP/1.1" 200 3596 0.002001
+2024-07-05 02:14:32,608 - INFO - 127.0.0.1 - - [2024-07-05 02:14:32] "GET /eel.js HTTP/1.1" 200 6792 0.000993
+2024-07-05 02:14:32,669 - INFO - 127.0.0.1 - - [2024-07-05 02:14:32] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.006000
+2024-07-05 02:14:32,725 - INFO - 127.0.0.1 - - [2024-07-05 02:14:32] "GET /web/images/logo.ico HTTP/1.1" 404 884 0.006999
+2024-07-05 02:14:38,070 - WARNING - Invalid login attempt for user kassimi@ease.de
+2024-07-05 02:15:12,493 - INFO - User kassimi@ease.de logged in successfully!
+2024-07-05 02:15:12,818 - INFO - 127.0.0.1 - - [2024-07-05 02:15:12] "GET /views/Dashboard/index.html?user_id=1 HTTP/1.1" 200 15205 0.000960
+2024-07-05 02:15:12,841 - INFO - 127.0.0.1 - - [2024-07-05 02:15:12] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001018
+2024-07-05 02:15:12,844 - INFO - 127.0.0.1 - - [2024-07-05 02:15:12] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001996
+2024-07-05 02:15:12,847 - INFO - 127.0.0.1 - - [2024-07-05 02:15:12] "GET /images/plus.png HTTP/1.1" 200 45737 0.001998
+2024-07-05 02:15:12,850 - INFO - 127.0.0.1 - - [2024-07-05 02:15:12] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001997
+2024-07-05 02:15:12,853 - INFO - 127.0.0.1 - - [2024-07-05 02:15:12] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001999
+2024-07-05 02:15:12,854 - INFO - 127.0.0.1 - - [2024-07-05 02:15:12] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-05 02:15:12,858 - INFO - 127.0.0.1 - - [2024-07-05 02:15:12] "GET /assets/scripts/dashboard.js HTTP/1.1" 200 6422 0.002003
+2024-07-05 02:15:12,969 - INFO - 127.0.0.1 - - [2024-07-05 02:15:12] "GET /views/web/images/logo.ico HTTP/1.1" 404 890 0.001001
+2024-07-05 02:15:13,279 - INFO - Orders fetched successfully!
+2024-07-05 02:15:13,280 - INFO - Fetched orders: [(1, 1, 1, '2024-07-01 16:22:21', 48.0, 1.44, 6.24, 0.0, 'Cheque', 'Not Paid', 55.68), (3, 1, 1, '2024-07-05 00:51:36', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48), (4, 1, 1, '2024-07-05 01:01:08', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48), (5, 3, 1, '2024-07-05 01:01:49', 24.0, 0.72, 3.12, 0.0, None, 'In Progress', 27.84)]
+2024-07-05 02:15:13,291 - INFO - Users fetched successfully!
+2024-07-05 02:15:13,293 - INFO - Orders fetched successfully!
+2024-07-05 02:15:13,299 - INFO - Group fetched successfully!
+2024-07-05 02:15:13,303 - INFO - Table name for ID 1 fetched successfully!
+2024-07-05 02:15:13,308 - INFO - 127.0.0.1 - - [2024-07-05 02:15:13] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001993
+2024-07-05 02:15:13,312 - INFO - Group fetched successfully!
+2024-07-05 02:15:13,316 - INFO - Table name for ID 1 fetched successfully!
+2024-07-05 02:15:13,324 - INFO - Group fetched successfully!
+2024-07-05 02:15:13,328 - INFO - Table name for ID 3 fetched successfully!
+2024-07-05 02:15:13,334 - INFO - 127.0.0.1 - - [2024-07-05 02:15:13] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001988
+2024-07-05 02:15:13,341 - INFO - 127.0.0.1 - - [2024-07-05 02:15:13] "GET /images/plus.png HTTP/1.1" 200 45737 0.005001
+2024-07-05 02:15:14,710 - INFO - 127.0.0.1 - - [2024-07-05 02:15:14] "GET /views/Orders/orders.html HTTP/1.1" 200 13098 0.004025
+2024-07-05 02:15:14,745 - INFO - 127.0.0.1 - - [2024-07-05 02:15:14] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001000
+2024-07-05 02:15:14,747 - INFO - 127.0.0.1 - - [2024-07-05 02:15:14] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001010
+2024-07-05 02:15:14,749 - INFO - 127.0.0.1 - - [2024-07-05 02:15:14] "GET /eel.js HTTP/1.1" 200 6792 0.000999
+2024-07-05 02:15:14,751 - INFO - 127.0.0.1 - - [2024-07-05 02:15:14] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001003
+2024-07-05 02:15:14,755 - INFO - 127.0.0.1 - - [2024-07-05 02:15:14] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001999
+2024-07-05 02:15:14,761 - INFO - 127.0.0.1 - - [2024-07-05 02:15:14] "GET /assets/scripts/order.js HTTP/1.1" 200 4871 0.001004
+2024-07-05 02:15:15,094 - INFO - Orders fetched successfully!
+2024-07-05 02:15:15,094 - INFO - Fetched orders: [(1, 1, 1, '2024-07-01 16:22:21', 48.0, 1.44, 6.24, 0.0, 'Cheque', 'Not Paid', 55.68), (3, 1, 1, '2024-07-05 00:51:36', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48), (4, 1, 1, '2024-07-05 01:01:08', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48), (5, 3, 1, '2024-07-05 01:01:49', 24.0, 0.72, 3.12, 0.0, None, 'In Progress', 27.84)]
+2024-07-05 02:15:15,096 - INFO - Orders fetched successfully!
+2024-07-05 02:15:25,959 - INFO - 127.0.0.1 - - [2024-07-05 02:15:25] "GET /views/Orders/orders.html HTTP/1.1" 200 13098 0.001999
+2024-07-05 02:15:25,982 - INFO - 127.0.0.1 - - [2024-07-05 02:15:25] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.002001
+2024-07-05 02:15:25,984 - INFO - 127.0.0.1 - - [2024-07-05 02:15:25] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.002001
+2024-07-05 02:15:25,985 - INFO - 127.0.0.1 - - [2024-07-05 02:15:25] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-05 02:15:25,988 - INFO - 127.0.0.1 - - [2024-07-05 02:15:25] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.002002
+2024-07-05 02:15:25,991 - INFO - 127.0.0.1 - - [2024-07-05 02:15:25] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.002000
+2024-07-05 02:15:25,995 - INFO - 127.0.0.1 - - [2024-07-05 02:15:25] "GET /assets/scripts/order.js HTTP/1.1" 200 4871 0.000994
+2024-07-05 02:15:26,306 - INFO - Orders fetched successfully!
+2024-07-05 02:15:26,307 - INFO - Fetched orders: [(1, 1, 1, '2024-07-01 16:22:21', 48.0, 1.44, 6.24, 0.0, 'Cheque', 'Not Paid', 55.68), (3, 1, 1, '2024-07-05 00:51:36', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48), (4, 1, 1, '2024-07-05 01:01:08', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48), (5, 3, 1, '2024-07-05 01:01:49', 24.0, 0.72, 3.12, 0.0, None, 'In Progress', 27.84), (6, 1, 1, '2024-07-05 01:15:21', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48)]
+2024-07-05 02:15:26,308 - INFO - Orders fetched successfully!
+2024-07-05 02:20:39,038 - INFO - 127.0.0.1 - - [2024-07-05 02:20:39] "GET /views/Dashboard/index.html HTTP/1.1" 200 15205 0.002005
+2024-07-05 02:20:39,057 - INFO - 127.0.0.1 - - [2024-07-05 02:20:39] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001002
+2024-07-05 02:20:39,062 - INFO - 127.0.0.1 - - [2024-07-05 02:20:39] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.002040
+2024-07-05 02:20:39,065 - INFO - 127.0.0.1 - - [2024-07-05 02:20:39] "GET /images/plus.png HTTP/1.1" 200 45737 0.000997
+2024-07-05 02:20:39,069 - INFO - 127.0.0.1 - - [2024-07-05 02:20:39] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.002004
+2024-07-05 02:20:39,072 - INFO - 127.0.0.1 - - [2024-07-05 02:20:39] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001001
+2024-07-05 02:20:39,074 - INFO - 127.0.0.1 - - [2024-07-05 02:20:39] "GET /eel.js HTTP/1.1" 200 6792 0.000999
+2024-07-05 02:20:39,079 - INFO - 127.0.0.1 - - [2024-07-05 02:20:39] "GET /assets/scripts/dashboard.js HTTP/1.1" 200 6422 0.002004
+2024-07-05 02:20:39,603 - INFO - Orders fetched successfully!
+2024-07-05 02:20:39,604 - INFO - Fetched orders: [(1, 1, 1, '2024-07-01 16:22:21', 48.0, 1.44, 6.24, 0.0, 'Cheque', 'Not Paid', 55.68), (3, 1, 1, '2024-07-05 00:51:36', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48), (4, 1, 1, '2024-07-05 01:01:08', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48), (5, 3, 1, '2024-07-05 01:01:49', 24.0, 0.72, 3.12, 0.0, None, 'In Progress', 27.84), (6, 1, 1, '2024-07-05 01:15:21', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48), (7, 1, 1, '2024-07-05 01:20:19', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48)]
+2024-07-05 02:20:39,609 - INFO - Users fetched successfully!
+2024-07-05 02:20:39,612 - INFO - Orders fetched successfully!
+2024-07-05 02:20:39,614 - INFO - Group fetched successfully!
+2024-07-05 02:20:39,617 - INFO - Table name for ID 3 fetched successfully!
+2024-07-05 02:20:39,620 - INFO - 127.0.0.1 - - [2024-07-05 02:20:39] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001000
+2024-07-05 02:20:39,622 - INFO - Group fetched successfully!
+2024-07-05 02:20:39,624 - INFO - Table name for ID 1 fetched successfully!
+2024-07-05 02:20:39,627 - INFO - 127.0.0.1 - - [2024-07-05 02:20:39] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001000
+2024-07-05 02:20:39,630 - INFO - Group fetched successfully!
+2024-07-05 02:20:39,633 - INFO - Table name for ID 1 fetched successfully!
+2024-07-05 02:20:39,637 - INFO - 127.0.0.1 - - [2024-07-05 02:20:39] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.002002
+2024-07-05 02:20:39,642 - INFO - 127.0.0.1 - - [2024-07-05 02:20:39] "GET /images/plus.png HTTP/1.1" 200 45737 0.002997
+2024-07-05 02:24:44,110 - INFO - 127.0.0.1 - - [2024-07-05 02:24:44] "GET /views/Orders/orders.html HTTP/1.1" 200 13098 0.000999
+2024-07-05 02:24:44,140 - INFO - 127.0.0.1 - - [2024-07-05 02:24:44] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001000
+2024-07-05 02:24:44,143 - INFO - 127.0.0.1 - - [2024-07-05 02:24:44] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001999
+2024-07-05 02:24:44,144 - INFO - 127.0.0.1 - - [2024-07-05 02:24:44] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-05 02:24:44,147 - INFO - 127.0.0.1 - - [2024-07-05 02:24:44] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.002000
+2024-07-05 02:24:44,149 - INFO - 127.0.0.1 - - [2024-07-05 02:24:44] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.000999
+2024-07-05 02:24:44,154 - INFO - 127.0.0.1 - - [2024-07-05 02:24:44] "GET /assets/scripts/order.js HTTP/1.1" 200 4871 0.001002
+2024-07-05 02:24:44,469 - INFO - Orders fetched successfully!
+2024-07-05 02:24:44,469 - INFO - Fetched orders: [(1, 1, 1, '2024-07-01 16:22:21', 48.0, 1.44, 6.24, 0.0, 'Cheque', 'Not Paid', 55.68), (3, 1, 1, '2024-07-05 00:51:36', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48), (4, 1, 1, '2024-07-05 01:01:08', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48), (5, 3, 1, '2024-07-05 01:01:49', 24.0, 0.72, 3.12, 0.0, None, 'In Progress', 27.84), (6, 1, 1, '2024-07-05 01:15:21', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48), (7, 1, 1, '2024-07-05 01:20:19', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48), (8, 2, 1, '2024-07-05 01:24:39', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48)]
+2024-07-05 02:24:44,471 - INFO - Orders fetched successfully!
+2024-07-05 02:42:25,182 - INFO - 127.0.0.1 - - [2024-07-05 02:42:25] "GET /views/Dashboard/index.html HTTP/1.1" 200 15205 0.003300
+2024-07-05 02:42:25,202 - INFO - 127.0.0.1 - - [2024-07-05 02:42:25] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.002001
+2024-07-05 02:42:25,206 - INFO - 127.0.0.1 - - [2024-07-05 02:42:25] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.002000
+2024-07-05 02:42:25,210 - INFO - 127.0.0.1 - - [2024-07-05 02:42:25] "GET /images/plus.png HTTP/1.1" 200 45737 0.001999
+2024-07-05 02:42:25,213 - INFO - 127.0.0.1 - - [2024-07-05 02:42:25] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001992
+2024-07-05 02:42:25,216 - INFO - 127.0.0.1 - - [2024-07-05 02:42:25] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.002003
+2024-07-05 02:42:25,218 - INFO - 127.0.0.1 - - [2024-07-05 02:42:25] "GET /eel.js HTTP/1.1" 200 6792 0.001004
+2024-07-05 02:42:25,222 - INFO - 127.0.0.1 - - [2024-07-05 02:42:25] "GET /assets/scripts/dashboard.js HTTP/1.1" 200 6422 0.001971
+2024-07-05 02:42:25,545 - INFO - Orders fetched successfully!
+2024-07-05 02:42:25,545 - INFO - Fetched orders: [(1, 1, 1, '2024-07-01 16:22:21', 48.0, 1.44, 6.24, 0.0, 'Cheque', 'Not Paid', 55.68), (7, 1, 1, '2024-07-05 01:20:19', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48)]
+2024-07-05 02:42:25,550 - INFO - Users fetched successfully!
+2024-07-05 02:42:25,553 - INFO - Orders fetched successfully!
+2024-07-05 02:42:25,558 - INFO - Group fetched successfully!
+2024-07-05 02:42:25,562 - INFO - Table name for ID 1 fetched successfully!
+2024-07-05 02:42:25,565 - INFO - 127.0.0.1 - - [2024-07-05 02:42:25] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.002052
+2024-07-05 02:42:25,568 - INFO - Group fetched successfully!
+2024-07-05 02:42:25,571 - INFO - Table name for ID 1 fetched successfully!
+2024-07-05 02:42:25,576 - INFO - Group fetched successfully!
+2024-07-05 02:42:25,581 - INFO - Table name for ID 1 fetched successfully!
+2024-07-05 02:42:25,583 - INFO - 127.0.0.1 - - [2024-07-05 02:42:25] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001005
+2024-07-05 02:42:25,586 - INFO - 127.0.0.1 - - [2024-07-05 02:42:25] "GET /images/plus.png HTTP/1.1" 200 45737 0.002001
+2024-07-05 02:42:27,764 - INFO - 127.0.0.1 - - [2024-07-05 02:42:27] "GET /views/Orders/orders.html HTTP/1.1" 200 13098 0.004053
+2024-07-05 02:42:27,794 - INFO - 127.0.0.1 - - [2024-07-05 02:42:27] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001003
+2024-07-05 02:42:27,797 - INFO - 127.0.0.1 - - [2024-07-05 02:42:27] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001024
+2024-07-05 02:42:27,798 - INFO - 127.0.0.1 - - [2024-07-05 02:42:27] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-05 02:42:27,802 - INFO - 127.0.0.1 - - [2024-07-05 02:42:27] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001000
+2024-07-05 02:42:27,805 - INFO - 127.0.0.1 - - [2024-07-05 02:42:27] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.002000
+2024-07-05 02:42:27,811 - INFO - 127.0.0.1 - - [2024-07-05 02:42:27] "GET /assets/scripts/order.js HTTP/1.1" 200 4871 0.002997
+2024-07-05 02:42:28,125 - INFO - Orders fetched successfully!
+2024-07-05 02:42:28,125 - INFO - Fetched orders: [(1, 1, 1, '2024-07-01 16:22:21', 48.0, 1.44, 6.24, 0.0, 'Cheque', 'Not Paid', 55.68), (7, 1, 1, '2024-07-05 01:20:19', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48)]
+2024-07-05 02:42:28,127 - INFO - Orders fetched successfully!
+2024-07-05 02:42:35,956 - INFO - 127.0.0.1 - - [2024-07-05 02:42:35] "GET /views/Orders/orders.html HTTP/1.1" 200 13098 0.000987
+2024-07-05 02:42:35,977 - INFO - 127.0.0.1 - - [2024-07-05 02:42:35] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.000976
+2024-07-05 02:42:35,985 - INFO - 127.0.0.1 - - [2024-07-05 02:42:35] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001006
+2024-07-05 02:42:35,987 - INFO - 127.0.0.1 - - [2024-07-05 02:42:35] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-05 02:42:35,990 - INFO - 127.0.0.1 - - [2024-07-05 02:42:35] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001000
+2024-07-05 02:42:35,993 - INFO - 127.0.0.1 - - [2024-07-05 02:42:35] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001998
+2024-07-05 02:42:35,996 - INFO - 127.0.0.1 - - [2024-07-05 02:42:35] "GET /assets/scripts/order.js HTTP/1.1" 200 4871 0.002016
+2024-07-05 02:42:36,305 - INFO - Orders fetched successfully!
+2024-07-05 02:42:36,305 - INFO - Fetched orders: [(1, 1, 1, '2024-07-01 16:22:21', 48.0, 1.44, 6.24, 0.0, 'Cheque', 'Not Paid', 55.68), (7, 1, 1, '2024-07-05 01:20:19', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48)]
+2024-07-05 02:42:36,307 - INFO - Orders fetched successfully!
+2024-07-05 02:44:48,795 - INFO - 127.0.0.1 - - [2024-07-05 02:44:48] "GET /views/Orders/orders.html HTTP/1.1" 200 13098 0.001999
+2024-07-05 02:44:48,829 - INFO - 127.0.0.1 - - [2024-07-05 02:44:48] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.002025
+2024-07-05 02:44:48,832 - INFO - 127.0.0.1 - - [2024-07-05 02:44:48] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001000
+2024-07-05 02:44:48,834 - INFO - 127.0.0.1 - - [2024-07-05 02:44:48] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-05 02:44:48,838 - INFO - 127.0.0.1 - - [2024-07-05 02:44:48] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001999
+2024-07-05 02:44:48,841 - INFO - 127.0.0.1 - - [2024-07-05 02:44:48] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.002004
+2024-07-05 02:44:48,848 - INFO - 127.0.0.1 - - [2024-07-05 02:44:48] "GET /assets/scripts/order.js HTTP/1.1" 200 4871 0.001999
+2024-07-05 02:44:49,191 - INFO - Orders fetched successfully!
+2024-07-05 02:44:49,191 - INFO - Fetched orders: [(1, 1, 1, '2024-07-01 16:22:21', 48.0, 1.44, 6.24, 0.0, 'Cheque', 'Not Paid', 55.68), (7, 1, 1, '2024-07-05 01:20:19', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48)]
+2024-07-05 02:44:49,193 - INFO - Orders fetched successfully!
+2024-07-05 02:46:31,893 - INFO - 127.0.0.1 - - [2024-07-05 02:46:31] "GET /views/Orders/orders.html HTTP/1.1" 200 13098 0.001996
+2024-07-05 02:46:31,926 - INFO - 127.0.0.1 - - [2024-07-05 02:46:31] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.003009
+2024-07-05 02:46:31,929 - INFO - 127.0.0.1 - - [2024-07-05 02:46:31] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001005
+2024-07-05 02:46:31,932 - INFO - 127.0.0.1 - - [2024-07-05 02:46:31] "GET /eel.js HTTP/1.1" 200 6792 0.001001
+2024-07-05 02:46:31,937 - INFO - 127.0.0.1 - - [2024-07-05 02:46:31] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001006
+2024-07-05 02:46:31,940 - INFO - 127.0.0.1 - - [2024-07-05 02:46:31] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001999
+2024-07-05 02:46:31,946 - INFO - 127.0.0.1 - - [2024-07-05 02:46:31] "GET /assets/scripts/order.js HTTP/1.1" 200 4871 0.000997
+2024-07-05 02:46:32,310 - INFO - Orders fetched successfully!
+2024-07-05 02:46:32,310 - INFO - Fetched orders: [(1, 1, 1, '2024-07-01 16:22:21', 48.0, 1.44, 6.24, 0.0, 'Cheque', 'Not Paid', 55.68), (7, 1, 1, '2024-07-05 01:20:19', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48), (9, 2, 1, '2024-07-05 01:45:26', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48), (10, 2, 1, '2024-07-05 01:46:26', 24.0, 0.72, 3.12, 0.0, None, 'In Progress', 27.84)]
+2024-07-05 02:46:32,312 - INFO - Orders fetched successfully!
+2024-07-05 02:46:49,437 - INFO - Order updated successfully!
+2024-07-05 02:46:50,723 - INFO - Orders fetched successfully!
+2024-07-05 02:46:52,498 - INFO - 127.0.0.1 - - [2024-07-05 02:46:52] "GET /views/Orders/orders.html HTTP/1.1" 200 13098 0.004004
+2024-07-05 02:46:52,567 - INFO - 127.0.0.1 - - [2024-07-05 02:46:52] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001002
+2024-07-05 02:46:52,570 - INFO - 127.0.0.1 - - [2024-07-05 02:46:52] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.002001
+2024-07-05 02:46:52,572 - INFO - 127.0.0.1 - - [2024-07-05 02:46:52] "GET /eel.js HTTP/1.1" 200 6792 0.001003
+2024-07-05 02:46:52,575 - INFO - 127.0.0.1 - - [2024-07-05 02:46:52] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.002002
+2024-07-05 02:46:52,579 - INFO - 127.0.0.1 - - [2024-07-05 02:46:52] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001999
+2024-07-05 02:46:52,749 - INFO - 127.0.0.1 - - [2024-07-05 02:46:52] "GET /assets/scripts/order.js HTTP/1.1" 200 4871 0.005022
+2024-07-05 02:46:53,099 - INFO - Orders fetched successfully!
+2024-07-05 02:46:53,099 - INFO - Fetched orders: [(1, 1, 1, '2024-07-01 16:22:21', 48.0, 1.44, 6.24, 0.0, 'Cheque', 'Not Paid', 55.68), (7, 1, 1, '2024-07-05 01:20:19', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48), (9, 2, 1, '2024-07-05 01:45:26', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48), (10, 2, 1, '2024-07-05 01:46:26', 24.0, 0.72, 3.12, 0.0, 'Cash', 'In Progress', 27.84)]
+2024-07-05 02:46:53,102 - INFO - Orders fetched successfully!
+2024-07-05 02:46:59,131 - INFO - Order updated successfully!
+2024-07-05 02:47:00,237 - INFO - Orders fetched successfully!
+2024-07-05 02:47:01,903 - INFO - 127.0.0.1 - - [2024-07-05 02:47:01] "GET /views/Orders/orders.html HTTP/1.1" 200 13098 0.001995
+2024-07-05 02:47:01,964 - INFO - 127.0.0.1 - - [2024-07-05 02:47:01] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.002003
+2024-07-05 02:47:01,967 - INFO - 127.0.0.1 - - [2024-07-05 02:47:01] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.002020
+2024-07-05 02:47:01,971 - INFO - 127.0.0.1 - - [2024-07-05 02:47:01] "GET /eel.js HTTP/1.1" 200 6792 0.002999
+2024-07-05 02:47:01,973 - INFO - 127.0.0.1 - - [2024-07-05 02:47:01] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.001000
+2024-07-05 02:47:01,978 - INFO - 127.0.0.1 - - [2024-07-05 02:47:01] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001999
+2024-07-05 02:47:02,032 - INFO - 127.0.0.1 - - [2024-07-05 02:47:02] "GET /assets/scripts/order.js HTTP/1.1" 200 4871 0.001000
+2024-07-05 02:47:02,450 - INFO - Orders fetched successfully!
+2024-07-05 02:47:02,450 - INFO - Fetched orders: [(1, 1, 1, '2024-07-01 16:22:21', 48.0, 1.44, 6.24, 0.0, 'Cheque', 'Not Paid', 55.68), (7, 1, 1, '2024-07-05 01:20:19', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48), (9, 2, 1, '2024-07-05 01:45:26', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48)]
+2024-07-05 02:47:02,453 - INFO - Orders fetched successfully!
+2024-07-05 02:47:12,230 - INFO - Order updated successfully!
+2024-07-05 02:47:13,231 - INFO - Orders fetched successfully!
+2024-07-05 02:47:20,014 - INFO - Order updated successfully!
+2024-07-05 02:47:20,939 - INFO - Orders fetched successfully!
+2024-07-05 02:47:29,103 - INFO - Order updated successfully!
+2024-07-05 02:47:30,067 - INFO - Orders fetched successfully!
+2024-07-05 02:47:31,547 - INFO - 127.0.0.1 - - [2024-07-05 02:47:31] "GET /views/Dashboard/index.html HTTP/1.1" 200 15205 0.002001
+2024-07-05 02:47:31,583 - INFO - 127.0.0.1 - - [2024-07-05 02:47:31] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.001005
+2024-07-05 02:47:31,588 - INFO - 127.0.0.1 - - [2024-07-05 02:47:31] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.000987
+2024-07-05 02:47:31,590 - INFO - 127.0.0.1 - - [2024-07-05 02:47:31] "GET /images/plus.png HTTP/1.1" 200 45737 0.001999
+2024-07-05 02:47:31,593 - INFO - 127.0.0.1 - - [2024-07-05 02:47:31] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.002022
+2024-07-05 02:47:31,596 - INFO - 127.0.0.1 - - [2024-07-05 02:47:31] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001995
+2024-07-05 02:47:31,598 - INFO - 127.0.0.1 - - [2024-07-05 02:47:31] "GET /eel.js HTTP/1.1" 200 6792 0.000997
+2024-07-05 02:47:31,667 - INFO - 127.0.0.1 - - [2024-07-05 02:47:31] "GET /assets/scripts/dashboard.js HTTP/1.1" 200 6422 0.001989
+2024-07-05 02:47:32,559 - INFO - Orders fetched successfully!
+2024-07-05 02:47:32,559 - INFO - Fetched orders: []
+2024-07-05 02:47:32,565 - INFO - Users fetched successfully!
+2024-07-05 02:47:32,570 - INFO - Orders fetched successfully!
+2024-07-05 02:47:32,574 - INFO - Group fetched successfully!
+2024-07-05 02:47:32,578 - INFO - Table name for ID 1 fetched successfully!
+2024-07-05 02:47:32,581 - INFO - Group fetched successfully!
+2024-07-05 02:47:32,583 - INFO - Table name for ID 2 fetched successfully!
+2024-07-05 02:47:32,587 - INFO - Group fetched successfully!
+2024-07-05 02:47:32,591 - INFO - Table name for ID 2 fetched successfully!
+2024-07-05 02:47:32,596 - INFO - 127.0.0.1 - - [2024-07-05 02:47:32] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.000997
+2024-07-05 02:47:32,600 - INFO - 127.0.0.1 - - [2024-07-05 02:47:32] "GET /images/plus.png HTTP/1.1" 200 45737 0.001004
+2024-07-05 16:41:01,940 - INFO - 127.0.0.1 - - [2024-07-05 16:41:01] "GET /login.html HTTP/1.1" 200 4360 0.006973
+2024-07-05 16:41:02,285 - INFO - 127.0.0.1 - - [2024-07-05 16:41:02] "GET /assets/styles/login_style.css HTTP/1.1" 200 3596 0.005027
+2024-07-05 16:41:02,295 - INFO - 127.0.0.1 - - [2024-07-05 16:41:02] "GET /eel.js HTTP/1.1" 200 6792 0.000999
+2024-07-05 16:41:02,647 - INFO - 127.0.0.1 - - [2024-07-05 16:41:02] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.005001
+2024-07-05 16:41:02,755 - INFO - 127.0.0.1 - - [2024-07-05 16:41:02] "GET /web/images/logo.ico HTTP/1.1" 404 884 0.028194
+2024-07-05 16:41:09,526 - WARNING - Invalid login attempt for user kassimi@ease.de
+2024-07-05 16:41:18,384 - INFO - User kassimi@ease.de logged in successfully!
+2024-07-05 16:41:18,718 - INFO - 127.0.0.1 - - [2024-07-05 16:41:18] "GET /views/Dashboard/index.html?user_id=1 HTTP/1.1" 200 15205 0.004025
+2024-07-05 16:41:18,759 - INFO - 127.0.0.1 - - [2024-07-05 16:41:18] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.002002
+2024-07-05 16:41:18,764 - INFO - 127.0.0.1 - - [2024-07-05 16:41:18] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.001998
+2024-07-05 16:41:18,790 - INFO - 127.0.0.1 - - [2024-07-05 16:41:18] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.024998
+2024-07-05 16:41:18,795 - INFO - 127.0.0.1 - - [2024-07-05 16:41:18] "GET /images/plus.png HTTP/1.1" 200 45737 0.003998
+2024-07-05 16:41:18,798 - INFO - 127.0.0.1 - - [2024-07-05 16:41:18] "GET /eel.js HTTP/1.1" 200 6792 0.001003
+2024-07-05 16:41:18,801 - INFO - 127.0.0.1 - - [2024-07-05 16:41:18] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.002005
+2024-07-05 16:41:18,806 - INFO - 127.0.0.1 - - [2024-07-05 16:41:18] "GET /assets/scripts/dashboard.js HTTP/1.1" 200 6422 0.002000
+2024-07-05 16:41:19,293 - INFO - 127.0.0.1 - - [2024-07-05 16:41:19] "GET /views/web/images/logo.ico HTTP/1.1" 404 890 0.001001
+2024-07-05 16:41:19,988 - INFO - Orders fetched successfully!
+2024-07-05 16:41:19,988 - INFO - Fetched orders: [(11, 2, 1, '2024-07-05 13:25:41', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48), (12, 2, 1, '2024-07-05 13:39:48', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48), (13, 2, 1, '2024-07-05 13:43:34', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48), (14, 1, 1, '2024-07-05 13:44:18', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48), (15, 3, 1, '2024-07-05 13:44:32', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48), (16, 1, 1, '2024-07-05 13:53:44', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48), (17, 1, 1, '2024-07-05 13:58:18', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48), (18, 2, 1, '2024-07-05 15:18:09', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48), (19, 1, 1, '2024-07-05 15:36:06', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48)]
+2024-07-05 16:41:20,054 - INFO - Users fetched successfully!
+2024-07-05 16:41:20,083 - INFO - Orders fetched successfully!
+2024-07-05 16:41:20,205 - INFO - Group fetched successfully!
+2024-07-05 16:41:20,208 - INFO - Table name for ID 1 fetched successfully!
+2024-07-05 16:41:20,212 - INFO - Group fetched successfully!
+2024-07-05 16:41:20,215 - INFO - Table name for ID 2 fetched successfully!
+2024-07-05 16:41:20,224 - INFO - Group fetched successfully!
+2024-07-05 16:41:20,229 - INFO - Table name for ID 1 fetched successfully!
+2024-07-05 16:41:20,356 - INFO - 127.0.0.1 - - [2024-07-05 16:41:20] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.002000
+2024-07-05 16:41:20,358 - INFO - 127.0.0.1 - - [2024-07-05 16:41:20] "GET /images/plus.png HTTP/1.1" 200 45737 0.001001
+2024-07-05 16:41:58,129 - INFO - 127.0.0.1 - - [2024-07-05 16:41:58] "GET /views/Orders/orders.html HTTP/1.1" 200 13098 0.001965
+2024-07-05 16:41:58,197 - INFO - 127.0.0.1 - - [2024-07-05 16:41:58] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.002000
+2024-07-05 16:41:58,200 - INFO - 127.0.0.1 - - [2024-07-05 16:41:58] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.002000
+2024-07-05 16:41:58,207 - INFO - 127.0.0.1 - - [2024-07-05 16:41:58] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.003996
+2024-07-05 16:41:58,209 - INFO - 127.0.0.1 - - [2024-07-05 16:41:58] "GET /eel.js HTTP/1.1" 200 6792 0.001001
+2024-07-05 16:41:58,213 - INFO - 127.0.0.1 - - [2024-07-05 16:41:58] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.001989
+2024-07-05 16:41:58,218 - INFO - 127.0.0.1 - - [2024-07-05 16:41:58] "GET /assets/scripts/order.js HTTP/1.1" 200 4871 0.001998
+2024-07-05 16:41:58,605 - INFO - Orders fetched successfully!
+2024-07-05 16:41:58,605 - INFO - Fetched orders: [(11, 2, 1, '2024-07-05 13:25:41', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48), (12, 2, 1, '2024-07-05 13:39:48', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48), (13, 2, 1, '2024-07-05 13:43:34', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48), (14, 1, 1, '2024-07-05 13:44:18', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48), (15, 3, 1, '2024-07-05 13:44:32', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48), (16, 1, 1, '2024-07-05 13:53:44', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48), (17, 1, 1, '2024-07-05 13:58:18', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48), (18, 2, 1, '2024-07-05 15:18:09', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48), (19, 1, 1, '2024-07-05 15:36:06', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48)]
+2024-07-05 16:41:58,608 - INFO - Orders fetched successfully!
+2024-07-05 16:42:42,289 - INFO - 127.0.0.1 - - [2024-07-05 16:42:42] "GET /views/Orders/orders.html HTTP/1.1" 200 13098 0.003041
+2024-07-05 16:42:42,439 - INFO - 127.0.0.1 - - [2024-07-05 16:42:42] "GET /assets/styles/mang_style.css HTTP/1.1" 200 5268 0.002005
+2024-07-05 16:42:42,446 - INFO - 127.0.0.1 - - [2024-07-05 16:42:42] "GET /assets/styles/style.css HTTP/1.1" 200 14496 0.004035
+2024-07-05 16:42:42,448 - INFO - 127.0.0.1 - - [2024-07-05 16:42:42] "GET /eel.js HTTP/1.1" 200 6792 0.000000
+2024-07-05 16:42:42,453 - INFO - 127.0.0.1 - - [2024-07-05 16:42:42] "GET /images/administrateur.png HTTP/1.1" 200 44093 0.003003
+2024-07-05 16:42:42,460 - INFO - 127.0.0.1 - - [2024-07-05 16:42:42] "GET /images/-1cbf38203acc415288c07dd08199e82e-1@2x.png HTTP/1.1" 200 27320 0.004001
+2024-07-05 16:42:42,541 - INFO - 127.0.0.1 - - [2024-07-05 16:42:42] "GET /assets/scripts/order.js HTTP/1.1" 200 4871 0.002004
+2024-07-05 16:42:42,873 - INFO - Orders fetched successfully!
+2024-07-05 16:42:42,873 - INFO - Fetched orders: [(11, 2, 1, '2024-07-05 13:25:41', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48), (12, 2, 1, '2024-07-05 13:39:48', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48), (13, 2, 1, '2024-07-05 13:43:34', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48), (14, 1, 1, '2024-07-05 13:44:18', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48), (15, 3, 1, '2024-07-05 13:44:32', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48), (16, 1, 1, '2024-07-05 13:53:44', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48), (17, 1, 1, '2024-07-05 13:58:18', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48), (18, 2, 1, '2024-07-05 15:18:09', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48), (19, 1, 1, '2024-07-05 15:36:06', 3.0, 0.09, 0.39, 0.0, None, 'In Progress', 3.48), (20, 3, 1, '2024-07-05 15:42:25', 9.0, 0.27, 1.17, 0.0, None, 'In Progress', 10.44)]
+2024-07-05 16:42:42,876 - INFO - Orders fetched successfully!
+2024-07-05 16:42:52,930 - INFO - Order updated successfully!
+2024-07-05 16:42:53,891 - INFO - Orders fetched successfully!
+2024-07-05 16:42:58,135 - INFO - Order 20 downloaded successfully!
+2024-07-05 16:43:00,688 - INFO - Order 20 downloaded successfully!

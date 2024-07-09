@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Sharp" rel="stylesheet">
+    <link rel="stylesheet" href="../../assets/styles/style.css"> 
+    <link rel="stylesheet" href="../../assets/styles/mang_style.css">
+    <title>Ease Dine</title>
+    <link rel="icon" href="../web/images/logo.ico">
+    
+</head>
+
+<body>
+
+    <div class="container">
+        <!-- Sidebar Section -->
+        <aside>
+            <div class="toggle">
+                <h1>Dashboard</h1>
+                <div class="close" id="close-btn" >
+                    <span class="material-icons-sharp" >
+                        close
+                    </span>
+                </div>
+            </div>
+
+            <div class="sidebar">
+                <a href="../Dashboard/index.html" class="active">
+                    <span class="material-icons-sharp">
+                        dashboard
+                    </span>
+                    <h3>Dashboard</h3>
+                </a>
+                <a href="../stock/stock.html">
+                    <span class="material-icons-sharp">
+                        inventory
+                    </span>
+                    <h3>Stock</h3>
+                </a>
+                <a href="../users/users.html">
+                    <span class="material-icons-sharp">
+                        person
+                    </span>
+                    <h3>Users</h3>
+                </a>
+                <a href="../users/adduser.html">
+                    <span class="material-icons-sharp">
+                        add
+                    </span>
+                    <h3>New Users</h3>
+                </a>
+                <a href="../groups/group.html">
+                    <span class="material-icons-sharp">group</span>
+                    <h3>Groups</h3>
+                </a>
+                <a href="../Tables/tables.html">
+                    <span class="material-icons-sharp">
+                        table_restaurant
+                    </span>
+                    <h3>Tables</h3>
+                </a>
+                <a href="../categorys/category.html" >
+                    <span class="material-icons-sharp">
+                        category
+                    </span>
+                    <h3>Category</h3>
+                </a>
+                <a href="../products/products.html">
+                    <span class="material-icons-sharp">
+                        inventory_2
+                    </span>
+                    <h3>Products</h3>
+                </a>
+                <a href="../products/addproduct.html" >
+                    <span class="material-icons-sharp">
+                        add
+                    </span>
+                    <h3>New product</h3>
+                </a>
+                <a href="../Orders/orders.html" id="orders-link" >
+                    <span class="material-icons-sharp">
+                        list_alt
+                    </span>
+                    <h3>Orders</h3>
+                    <span class="message-count" id="order-count" style="display: none;"></span>
+                </a>
+                
+                <script>
+                    document.addEventListener('DOMContentLoaded', function () {
+                        updateOrderCount();
+                    });
+                
+                    async function updateOrderCount() {
+                        try {
+                            const response = await eel.fetch_orders_status()();
+                            console.log('Fetched orders:', response); 
+                            const orderCount = response.length;
+                
+                            console.log('Order count:', orderCount);
+                
+                            const orderCountElement = document.getElementById('order-count');
+                            
+                            if (orderCount > 0) {
+                                orderCountElement.textContent = orderCount;
+                                orderCountElement.style.display = 'inline-block'; 
+                            } else {
+                                orderCountElement.style.display = 'none'; 
+                            }
+                        } catch (error) {
+                            console.error('Error updating order count:', error);
+                        }
+                    }
+                </script>               
+                
+                <a href="../Orders/addorder.html" >
+                    <span class="material-icons-sharp">
+                        add
+                    </span>
+                    <h3>New order</h3>
+                </a>
+                <a href="../Raports/report.html">
+                    <span class="material-icons-sharp">
+                        report_gmailerrorred
+                    </span>
+                    <h3>Reports</h3>
+                </a>
+                <a href="../Settings/settings.html">
+                    <span class="material-icons-sharp">
+                        settings
+                    </span>
+                    <h3>Settings</h3>
+                </a>
+
+                <a href="../../login.html">
+                    <span class="material-icons-sharp">
+                        logout
+                    </span>
+                    <h3>Logout</h3>
+                </a>
+            </div>
+        </aside>
+        <!-- End of Sidebar Section -->
+
+        <!-- Main Content -->
+        <main>
+
+            <!-- Analyses -->
+            <div class="analyse">
+                <div class="sales">
+                    <div class="status">
+                        <div class="info">
+                            <h3>Total Earnings</h3>
+                            <h1 id="totalEarnings">$0</h1>
+                        </div>
+                        <div class="progresss">
+                            <svg>
+                                <circle id="earningsCircle" cx="38" cy="38" r="36"></circle>
+                            </svg>
+                            <div class="percentage">
+                                <p id="earningsPercentage">0%</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="sales">
+                    <div class="status">
+                        <div class="info">
+                            <h3>Total Paid Orders</h3>
+                            <h1 id="totalPaidOrders">0</h1>
+                        </div>
+                        <div class="progresss">
+                            <svg>
+                                <circle id="paidOrdersCircle" cx="38" cy="38" r="36"></circle>
+                            </svg>
+                            <div class="percentage">
+                                <p id="paidOrdersPercentage">0%</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="visits">
+                    <div class="status">
+                        <div class="info">
+                            <h3>Food Products</h3>
+                            <h1 id="totalFoodProducts">0</h1>
+                        </div>
+                        <div class="progresss">
+                            <svg>
+                                <circle id="foodProductsCircle" cx="38" cy="38" r="36"></circle>
+                            </svg>
+                            <div class="percentage">
+                                <p id="foodProductsPercentage">0%</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="searches">
+                    <div class="status">
+                        <div class="info">
+                            <h3>Food Category</h3>
+                            <h1 id="totalFoodCategory">0</h1>
+                        </div>
+                        <div class="progresss">
+                            <svg>
+                                <circle id="foodCategoryCircle" cx="38" cy="38" r="36"></circle>
+                            </svg>
+                            <div class="percentage">
+                                <p id="foodCategoryPercentage">0%</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="sales">
+                    <div class="status">
+                        <div class="info">
+                            <h3>UnPaid Orders</h3>
+                            <h1 id="totalUnPaidOrders">0</h1>
+                        </div>
+                        <div class="progresss">
+                            <svg>
+                                <circle id="unpaidOrdersCircle" cx="38" cy="38" r="36"></circle>
+                            </svg>
+                            <div class="percentage">
+                                <p id="unpaidOrdersPercentage">0%</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="sales">
+                    <div class="status">
+                        <div class="info">
+                            <h3>Total Orders</h3>
+                            <h1 id="totalOrders">0</h1>
+                        </div>
+                        <div class="progresss">
+                            <svg>
+                                <circle id="totalOrdersCircle" cx="38" cy="38" r="36"></circle>
+                            </svg>
+                            <div class="percentage">
+                                <p id="totalOrdersPercentage">0%</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- End of Analyses -->
+
+            <!-- New Users Section -->
+            <div class="new-users">
+                <h2>Users</h2>
+                <div class="user-list">
+                    <!-- Users will be dynamically inserted here -->
+                    <div class="user">
+                        <a href="../users/adduser.html">
+                            <img src="../../images/plus.png" alt="Add more users">
+                        </a>
+                        <h2>More</h2>
+                        <p>New User</p>
+                    </div>
+                </div>
+            </div>
+            <!-- End of New Users Section -->
+            
+            <!-- Recent Orders Table -->
+            <div class="recent-orders">
+                <h2>Recent Orders</h2>
+                <table class="manage-users-container">
+                    <thead>
+                        <tr>
+                            <th>Order Number</th>
+                            <th>Table</th>
+                            <th>Payment</th>
+                            <th>Status</th>
+                        </tr>
+                    </thead>
+                    <tbody id="order-data">
+                        <!-- Order data will be inserted here -->
+                    </tbody>
+                </table>
+                </table>
+                <a href="../Orders/orders.html">Show All</a>
+            </div>
+            <!-- End of Recent Orders -->
+
+        </main>
+        <!-- End of Main Content -->
+
+        <!-- Right Section -->
+        <div class="right-section">
+            <div class="nav">
+                
+
+                <div class="profile">
+                    <div class="info">
+                        <p>Hey, <b>Kassimi</b></p>
+                        <small class="text-muted">Admin</small>
+                    </div>
+                    <div class="profile-photo">
+                        <img src="../../images/administrateur.png" alt="Admin profile picture">
+                    </div>
+                </div>
+
+            </div>
+            <!-- End of Nav -->
+
+            <div class="user-profile">
+                <div class="logo">
+                    <img src="../../images/-1cbf38203acc415288c07dd08199e82e-1@2x.png" alt="Company logo">
+                    <h2>Ease Dine</h2>
+                    <p>The Best for The Best</p>
+                </div>
+            </div>
+
+            <div class="reminders">
+                <div class="header">
+                    <h2>Reminders</h2>
+                    <span class="material-icons-sharp">
+                        notifications_none
+                    </span>
+                </div>
+
+                <div class="notification">
+                    <div class="icon">
+                        <span class="material-icons-sharp">
+                            volume_up
+                        </span>
+                    </div>
+                    <div class="content">
+                        <div class="info">
+                            <h3>Workshop</h3>
+                            <small class="text-muted">
+                                08:00 AM - 12:00 PM
+                            </small>
+                        </div>
+                        <span class="material-icons-sharp">
+                            more_vert
+                        </span>
+                    </div>
+                </div>
+
+                <div class="notification deactive">
+                    <div class="icon">
+                        <span class="material-icons-sharp">
+                            edit
+                        </span>
+                    </div>
+                    <div class="content">
+                        <div class="info">
+                            <h3>Workshop</h3>
+                            <small class="text-muted">
+                                08:00 AM - 12:00 PM
+                            </small>
+                        </div>
+                        <span class="material-icons-sharp">
+                            more_vert
+                        </span>
+                    </div>
+                </div>
+
+                <div class="notification add-reminder">
+                    <div>
+                        <span class="material-icons-sharp">
+                            add
+                        </span>
+                        <h3>Add Reminder</h3>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+        <!-- End of Right Section -->
+
+    </div> <!-- End of container -->
+
+    <script type="text/javascript" src="/eel.js"></script>
+    <script src="../../assets/scripts/dashboard.js"></script>
+
+</body>
+
+</html>

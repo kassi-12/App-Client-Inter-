@@ -1,0 +1,9 @@
+Table: T3
+Gross Amount: 9.00
+S-Charge: 0.27
+VAT: 1.17
+Discount: NaN
+Net Amount: 10.44
+
+Order Items:
+- Product: TACOS, Quantity: 3, Price: 3.00
