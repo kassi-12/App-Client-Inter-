@@ -600,7 +600,6 @@ def fetch_group_by_id(group_id):
 
 
 
-# Function to add stock
 @eel.expose
 def add_stock(item_name, quantity, unit, price_per_unit):
     try:
@@ -624,7 +623,6 @@ def add_stock(item_name, quantity, unit, price_per_unit):
         if conn:
             conn.close()
 
-# Function to fetch stock
 @eel.expose
 def fetch_stock():
     try:
@@ -644,21 +642,46 @@ def fetch_stock():
         if conn:
             conn.close()
 
-# Function to update stock
 @eel.expose
 def update_stock(stock_id, item_name, quantity, unit, price_per_unit):
     try:
         conn = sqlite3.connect(db_path)
         cursor = conn.cursor()
-        cursor.execute('''
-        UPDATE stock
-        SET item_name = ?, quantity = ?, unit = ?, price_per_unit = ?
-        WHERE id = ?
-        ''', (item_name, quantity, unit, price_per_unit, stock_id))
 
-        conn.commit()
-        logging.info(f"Stock item with ID {stock_id} updated successfully!")
-        return "Stock item updated successfully!"
+        # Fetch current stock details
+        cursor.execute('''
+        SELECT quantity, price_per_unit
+        FROM stock
+        WHERE id = ?
+        ''', (stock_id,))
+        stock_item = cursor.fetchone()
+
+        if stock_item:
+            current_quantity, current_price_per_unit = stock_item
+
+            # Calculate new quantity
+            new_quantity = current_quantity + int(quantity)
+
+            # Ensure quantity does not go negative
+            if new_quantity < 0:
+                return "Quantity cannot be negative!"
+
+            # Calculate new price based on weighted average
+            total_cost = (current_quantity * current_price_per_unit) + (int(quantity) * float(price_per_unit))
+            new_price_per_unit = total_cost / new_quantity if new_quantity != 0 else 0
+
+            # Update stock item with new values
+            cursor.execute('''
+            UPDATE stock
+            SET item_name = ?, quantity = ?, unit = ?, price_per_unit = ?
+            WHERE id = ?
+            ''', (item_name, new_quantity, unit, new_price_per_unit, stock_id))
+
+            conn.commit()
+            logging.info(f"Stock item with ID {stock_id} updated successfully!")
+            return "Stock item updated successfully!"
+        else:
+            return "Stock item not found!"
     except Exception as e:
         logging.error(f"An error occurred while updating stock item with ID {stock_id}: {e}")
         return f"An error occurred: {e}"
@@ -666,7 +689,6 @@ def update_stock(stock_id, item_name, quantity, unit, price_per_unit):
         if conn:
             conn.close()
 
-# Function to delete stock
 @eel.expose
 def delete_stock(stock_id):
     try:
@@ -682,6 +704,7 @@ def delete_stock(stock_id):
     finally:
         if conn:
             conn.close()
+
 @eel.expose
 def fetch_analysis_data():
     try:
@@ -689,7 +712,7 @@ def fetch_analysis_data():
         cursor = conn.cursor()
 
         # Fetch total earnings of the year
-        cursor.execute('SELECT SUM(net_amount) FROM orders WHERE strftime("%Y", order_time) = strftime("%Y", "now")')
+        cursor.execute('SELECT SUM(net_amount) FROM orders WHERE strftime("%Y", order_time) = strftime("%Y", "now") and status="Paid"')
         total_earnings = cursor.fetchone()[0] or 0
 
         # Fetch total paid orders of the month
@@ -838,12 +861,13 @@ def check_login(username, password):
     try:
         conn = sqlite3.connect(db_path)
         cursor = conn.cursor()
-        cursor.execute('SELECT id FROM users WHERE email = ? AND password = ?', (username, password))
-        user_id = cursor.fetchone()
+        cursor.execute('SELECT id, group_id FROM users WHERE email = ? AND password = ?', (username, password))
+        user_data = cursor.fetchone()
 
-        if user_id:
+        if user_data:
             logging.info(f"User {username} logged in successfully!")
-            return {"success": True, "user_id": user_id[0]}
+            user_id, group_id = user_data
+            return {"success": True, "user_id": user_id, "group_id": group_id}
         else:
             logging.warning(f"Invalid login attempt for user {username}")
             return {"success": False}
@@ -936,7 +960,7 @@ def generate_pdf_report(orders, users, groups, categories, products, tables, sto
             c.setFont("Helvetica", 10)
             y -= 20
             for item in stock:
-                c.drawString(30, y, f"Item ID: {item[0]}, Item Name: {item[1]}, Quantity: {item[2]}, Unit: {item[3]}, Price per Unit: {item[4]}")
+                c.drawString(30, y, f"Item ID: {item[0]}, Item Name: {item[1]}, Quantity: {item[2]}, Unit: {item[3]}, Price per Unit: {item[4]}, Total Cost: {item[2] * item[4]}")
                 y -= 20
 
         # Add Company if not None
@@ -960,24 +984,4 @@ def generate_pdf_report(orders, users, groups, categories, products, tables, sto
         print(f"An error occurred while generating the PDF report: {e}")
         return None
 eel.start("login.html", size=(1920, 1080))
-# # Start the Eel application
-# def start_app():
-#     try:
-#         print("Starting the webview window...")
-#         webview.create_window('Your App', 'web/login.html', width=1920, height=1080)
-#         webview.start()  # This should be included to start the webview loop
-#     except Exception as e:
-#         logging.error(f"Failed to start the Eel application: {e}")
 
-# if __name__ == "__main__":
-#     print("Starting the application...")
-#     start_app()
-
-#     # Main loop to keep the application running
-#     try:
-#         while True:
-#             eel.sleep(1.0)
-#     except KeyboardInterrupt:
-#         logging.info("Application terminated by user")
-#     except Exception as e:
-#         logging.error(f"An unexpected error occurred: {e}")

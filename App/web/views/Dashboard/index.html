@@ -291,20 +291,49 @@
 
         <!-- Right Section -->
         <div class="right-section">
+            <script>
+                document.addEventListener('DOMContentLoaded', (event) => {
+                    
+                    const userId = sessionStorage.getItem('user_id');
+                    const groupId = sessionStorage.getItem('group_id');
+                    
+                    // Fetch user details by user ID
+                    eel.fetch_userbyid(userId)(function(user) {
+                        if (user) {
+                            document.getElementById('username').textContent = user[1];
+                        } else {
+                            document.getElementById('username').textContent = 'Unknown User';
+                        }
+                    });
+                    
+                    // Fetch group details by group ID
+                    eel.fetch_group_by_id(groupId)(function(groupName) {
+                        const userRoleElement = document.getElementById('user-role');
+                        userRoleElement.textContent = groupName;
+            
+                        // Update profile image based on the group name
+                        const profileImage = document.querySelector('.profile-photo img');
+                        if (groupName === "Admin") {
+                            profileImage.src = '../../images/administrateur.png';
+                        } else {
+                            profileImage.src = '../../images/homme.png';
+                        }
+                    });
+                });
+            </script>
+            
             <div class="nav">
-                
-
                 <div class="profile">
                     <div class="info">
-                        <p>Hey, <b>Kassimi</b></p>
-                        <small class="text-muted">Admin</small>
+                        <p>Hey, <b id="username">Kassimi</b></p>
+                        <small class="text-muted" id="user-role">Admin</small>
                     </div>
                     <div class="profile-photo">
-                        <img src="../../images/administrateur.png" alt="Admin profile picture">
+                        <img src="" alt="Admin profile picture">
                     </div>
                 </div>
-
             </div>
+            
             <!-- End of Nav -->
 
             <div class="user-profile">

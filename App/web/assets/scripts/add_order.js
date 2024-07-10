@@ -158,6 +158,7 @@ document.addEventListener('DOMContentLoaded', function () {
         const table = document.getElementById('table').value;
         const products = document.getElementsByName('product[]');
         const quantities = document.getElementsByName('quantity[]');
+        const userId = sessionStorage.getItem('user_id'); // Retrieve user ID from session storage
 
         const orderItems = [];
         let grossAmount = 0;
@@ -199,6 +200,7 @@ document.addEventListener('DOMContentLoaded', function () {
             vat,
             discount,
             netAmount,
+            userId // Include user ID in order data
         };
 
         console.log("Creating order with data:", orderData);
@@ -206,7 +208,7 @@ document.addEventListener('DOMContentLoaded', function () {
         try {
             const orderId = await eel.add_order(
                 table,
-                1, // Assuming user_id is fixed or you retrieve it differently
+                userId, // Use the retrieved user ID
                 grossAmount,
                 sCharge,
                 vat,
